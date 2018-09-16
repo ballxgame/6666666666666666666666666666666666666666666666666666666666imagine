@@ -1,0 +1,198 @@
+00:04:35.168 WARN  ~~ LOOPS: 15. ENTITY #: 778//412. VIEW #: 2. BACKLOGGED :: 102.200%! ~~ 
+00:04:36.217 WARN  ~~ LOOPS: 14. ENTITY #: 859//499. VIEW #: 2. BACKLOGGED :: 118.929%! ~~ 
+00:04:37.254 WARN  ~~ LOOPS: 13. ENTITY #: 942//561. VIEW #: 2. BACKLOGGED :: 138.000%! ~~ 
+00:04:38.319 WARN  ~~ LOOPS: 13. ENTITY #: 935//595. VIEW #: 2. BACKLOGGED :: 141.462%! ~~ 
+00:04:39.398 WARN  ~~ LOOPS: 13. ENTITY #: 950//594. VIEW #: 2. BACKLOGGED :: 145.154%! ~~ 
+00:04:40.408 WARN  ~~ LOOPS: 12. ENTITY #: 954//594. VIEW #: 2. BACKLOGGED :: 141.000%! ~~ 
+00:04:41.418 WARN  ~~ LOOPS: 13. ENTITY #: 981//594. VIEW #: 2. BACKLOGGED :: 131.769%! ~~ 
+00:04:42.444 WARN  ~~ LOOPS: 13. ENTITY #: 982//589. VIEW #: 2. BACKLOGGED :: 135.000%! ~~ 
+00:04:43.445 WARN  ~~ LOOPS: 12. ENTITY #: 993//575. VIEW #: 2. BACKLOGGED :: 136.250%! ~~ 
+00:04:44.446 WARN  ~~ LOOPS: 12. ENTITY #: 1016//582. VIEW #: 2. BACKLOGGED :: 145.250%! ~~ 
+00:04:45.459 WARN  ~~ LOOPS: 13. ENTITY #: 1029//584. VIEW #: 2. BACKLOGGED :: 136.615%! ~~ 
+00:04:46.459 WARN  ~~ LOOPS: 12. ENTITY #: 1047//588. VIEW #: 2. BACKLOGGED :: 145.500%! ~~ 
+00:04:47.499 WARN  ~~ LOOPS: 13. ENTITY #: 1050//582. VIEW #: 2. BACKLOGGED :: 138.000%! ~~ 
+00:04:48.500 WARN  ~~ LOOPS: 12. ENTITY #: 1058//590. VIEW #: 2. BACKLOGGED :: 139.250%! ~~ 
+00:04:49.499 WARN  ~~ LOOPS: 13. ENTITY #: 1078//593. VIEW #: 2. BACKLOGGED :: 133.154%! ~~ 
+00:04:50.499 WARN  ~~ LOOPS: 12. ENTITY #: 1092//586. VIEW #: 2. BACKLOGGED :: 141.000%! ~~ 
+00:04:51.519 WARN  ~~ LOOPS: 13. ENTITY #: 1119//581. VIEW #: 2. BACKLOGGED :: 137.538%! ~~ 
+00:04:52.535 WARN  ~~ LOOPS: 12. ENTITY #: 1129//593. VIEW #: 2. BACKLOGGED :: 151.250%! ~~ 
+00:04:53.563 WARN  ~~ LOOPS: 12. ENTITY #: 1161//594. VIEW #: 2. BACKLOGGED :: 146.500%! ~~ 
+00:04:54.598 WARN  ~~ LOOPS: 11. ENTITY #: 1176//589. VIEW #: 2. BACKLOGGED :: 174.818%! ~~ 
+00:04:55.616 WARN  ~~ LOOPS: 11. ENTITY #: 1223//623. VIEW #: 2. BACKLOGGED :: 167.182%! ~~ 
+00:04:56.685 WARN  ~~ LOOPS: 12. ENTITY #: 1239//646. VIEW #: 2. BACKLOGGED :: 172.750%! ~~ 
+00:04:57.712 WARN  ~~ LOOPS: 10. ENTITY #: 1292//659. VIEW #: 2. BACKLOGGED :: 192.900%! ~~ 
+00:04:58.729 WARN  ~~ LOOPS: 9. ENTITY #: 1317//717. VIEW #: 2. BACKLOGGED :: 235.333%! ~~ 
+00:04:59.761 WARN  ~~ LOOPS: 8. ENTITY #: 1490//737. VIEW #: 2. BACKLOGGED :: 265.125%! ~~ 
+00:05:00.777 WARN  ~~ LOOPS: 7. ENTITY #: 1564//918. VIEW #: 2. BACKLOGGED :: 323.571%! ~~ 
+00:05:01.863 WARN  ~~ LOOPS: 9. ENTITY #: 1505//885. VIEW #: 2. BACKLOGGED :: 260.333%! ~~ 
+00:05:02.992 WARN  ~~ LOOPS: 9. ENTITY #: 1504//838. VIEW #: 2. BACKLOGGED :: 259.000%! ~~ 
+00:05:04.074 WARN  ~~ LOOPS: 9. ENTITY #: 1384//771. VIEW #: 2. BACKLOGGED :: 256.000%! ~~ 
+00:05:05.097 WARN  ~~ LOOPS: 10. ENTITY #: 1410//657. VIEW #: 2. BACKLOGGED :: 205.200%! ~~ 
+00:05:06.152 WARN  ~~ LOOPS: 10. ENTITY #: 1446//669. VIEW #: 2. BACKLOGGED :: 203.700%! ~~ 
+00:05:07.184 WARN  ~~ LOOPS: 10. ENTITY #: 1494//681. VIEW #: 2. BACKLOGGED :: 197.100%! ~~ 
+00:05:08.226 WARN  ~~ LOOPS: 7. ENTITY #: 1659//773. VIEW #: 2. BACKLOGGED :: 313.286%! ~~ 
+00:05:09.302 WARN  ~~ LOOPS: 8. ENTITY #: 1676//846. VIEW #: 2. BACKLOGGED :: 300.000%! ~~ 
+00:05:10.320 WARN  ~~ LOOPS: 8. ENTITY #: 1664//825. VIEW #: 2. BACKLOGGED :: 273.375%! ~~ 
+00:05:11.340 WARN  ~~ LOOPS: 8. ENTITY #: 1636//797. VIEW #: 2. BACKLOGGED :: 262.875%! ~~ 
+00:05:12.362 WARN  ~~ LOOPS: 8. ENTITY #: 1605//761. VIEW #: 2. BACKLOGGED :: 282.000%! ~~ 
+00:05:13.449 WARN  ~~ LOOPS: 9. ENTITY #: 1614//756. VIEW #: 2. BACKLOGGED :: 249.000%! ~~ 
+00:05:14.469 WARN  ~~ LOOPS: 8. ENTITY #: 1647//746. VIEW #: 2. BACKLOGGED :: 262.500%! ~~ 
+00:05:15.597 WARN  ~~ LOOPS: 7. ENTITY #: 1809//840. VIEW #: 2. BACKLOGGED :: 383.571%! ~~ 
+00:05:16.791 WARN  ~~ LOOPS: 6. ENTITY #: 1804//921. VIEW #: 2. BACKLOGGED :: 437.500%! ~~ 
+00:05:17.870 WARN  ~~ LOOPS: 8. ENTITY #: 1770//900. VIEW #: 2. BACKLOGGED :: 292.500%! ~~ 
+00:05:18.895 WARN  ~~ LOOPS: 7. ENTITY #: 1761//856. VIEW #: 2. BACKLOGGED :: 328.714%! ~~ 
+00:05:19.986 WARN  ~~ LOOPS: 8. ENTITY #: 1684//826. VIEW #: 2. BACKLOGGED :: 307.875%! ~~ 
+00:05:21.037 WARN  ~~ LOOPS: 8. ENTITY #: 1591//701. VIEW #: 2. BACKLOGGED :: 289.125%! ~~ 
+00:05:22.061 WARN  ~~ LOOPS: 10. ENTITY #: 1601//679. VIEW #: 2. BACKLOGGED :: 198.900%! ~~ 
+00:05:23.166 WARN  ~~ LOOPS: 10. ENTITY #: 1588//657. VIEW #: 2. BACKLOGGED :: 222.600%! ~~ 
+00:05:24.350 WARN  ~~ LOOPS: 4. ENTITY #: 2318//835. VIEW #: 2. BACKLOGGED :: 746.250%! ~~ 
+00:05:25.835 WARN  ~~ LOOPS: 3. ENTITY #: 3057//1559. VIEW #: 2. BACKLOGGED :: 1281.000%! ~~ 
+00:22:18.841 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:22:18.841 ERROR landmine 
+00:22:18.843 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:25:08.852 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:25:08.852 ERROR landmine 
+00:25:08.854 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:25:23.542 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:25:23.542 ERROR landmine 
+00:25:23.544 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:27:54.284 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:27:54.284 ERROR landmine 
+00:27:54.286 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:30:56.166 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:30:56.166 ERROR landmine 
+00:30:56.169 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:31:36.302 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:31:36.302 ERROR landmine 
+00:31:36.304 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:32:28.010 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+00:32:28.011 ERROR landmine 
+00:32:28.013 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Landmine","DANGER":7,"BODY":{"FOV":1.05,"DENSITY":1},"TURRETS":[{"POSITION":[21.5,0,0,0,360,0],"TYPE":{"LABEL":"","CONTROLLERS":["spin"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":55,"mockup":{"body":{"type":1,"id":55,"index":55,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}}},{"POSITION":[21.5,0,0,90,360,0]}],"IS_SMASHER":true,"SKILL_CAP":[12,0,0,0,0,12,12,12,12,12],"STAT_NAMES":1,"index":273} 
+00:43:48.889 WARN  ~~ LOOPS: 15. ENTITY #: 967//589. VIEW #: 1. BACKLOGGED :: 100.600%! ~~ 
+00:43:49.945 WARN  ~~ LOOPS: 15. ENTITY #: 992//604. VIEW #: 1. BACKLOGGED :: 107.800%! ~~ 
+00:43:50.977 WARN  ~~ LOOPS: 14. ENTITY #: 1007//616. VIEW #: 1. BACKLOGGED :: 109.071%! ~~ 
+00:43:52.001 WARN  ~~ LOOPS: 14. ENTITY #: 1012//625. VIEW #: 1. BACKLOGGED :: 110.143%! ~~ 
+00:43:53.054 WARN  ~~ LOOPS: 15. ENTITY #: 1014//626. VIEW #: 1. BACKLOGGED :: 105.800%! ~~ 
+00:43:54.108 WARN  ~~ LOOPS: 14. ENTITY #: 1025//628. VIEW #: 1. BACKLOGGED :: 114.429%! ~~ 
+00:43:55.134 WARN  ~~ LOOPS: 14. ENTITY #: 1041//622. VIEW #: 1. BACKLOGGED :: 112.714%! ~~ 
+00:43:56.198 WARN  ~~ LOOPS: 15. ENTITY #: 1039//628. VIEW #: 1. BACKLOGGED :: 105.600%! ~~ 
+00:43:57.234 WARN  ~~ LOOPS: 14. ENTITY #: 1040//630. VIEW #: 1. BACKLOGGED :: 115.929%! ~~ 
+00:43:58.296 WARN  ~~ LOOPS: 15. ENTITY #: 1058//632. VIEW #: 1. BACKLOGGED :: 110.200%! ~~ 
+00:43:59.336 WARN  ~~ LOOPS: 14. ENTITY #: 1059//634. VIEW #: 1. BACKLOGGED :: 112.500%! ~~ 
+00:44:00.369 WARN  ~~ LOOPS: 14. ENTITY #: 1063//635. VIEW #: 1. BACKLOGGED :: 114.000%! ~~ 
+00:44:01.452 WARN  ~~ LOOPS: 15. ENTITY #: 1070//630. VIEW #: 1. BACKLOGGED :: 113.000%! ~~ 
+00:44:02.493 WARN  ~~ LOOPS: 11. ENTITY #: 466//582. VIEW #: 1. BACKLOGGED :: 179.727%! ~~ 
+00:45:59.532 WARN  ~~ LOOPS: 14. ENTITY #: 413//118. VIEW #: 1. BACKLOGGED :: 104.786%! ~~ 
+00:46:00.533 WARN  ~~ LOOPS: 15. ENTITY #: 402//109. VIEW #: 1. BACKLOGGED :: 100.800%! ~~ 
+00:46:01.535 WARN  ~~ LOOPS: 14. ENTITY #: 413//105. VIEW #: 1. BACKLOGGED :: 112.071%! ~~ 
+00:46:02.581 WARN  ~~ LOOPS: 14. ENTITY #: 425//114. VIEW #: 1. BACKLOGGED :: 122.357%! ~~ 
+00:46:03.589 WARN  ~~ LOOPS: 12. ENTITY #: 433//120. VIEW #: 1. BACKLOGGED :: 141.750%! ~~ 
+00:46:04.610 WARN  ~~ LOOPS: 12. ENTITY #: 429//124. VIEW #: 1. BACKLOGGED :: 160.500%! ~~ 
+00:46:05.638 WARN  ~~ LOOPS: 12. ENTITY #: 436//124. VIEW #: 1. BACKLOGGED :: 155.500%! ~~ 
+00:46:06.646 WARN  ~~ LOOPS: 11. ENTITY #: 434//119. VIEW #: 1. BACKLOGGED :: 163.091%! ~~ 
+00:46:07.681 WARN  ~~ LOOPS: 12. ENTITY #: 438//121. VIEW #: 1. BACKLOGGED :: 160.500%! ~~ 
+00:46:08.722 WARN  ~~ LOOPS: 11. ENTITY #: 442//122. VIEW #: 1. BACKLOGGED :: 181.636%! ~~ 
+00:46:09.774 WARN  ~~ LOOPS: 11. ENTITY #: 447//119. VIEW #: 1. BACKLOGGED :: 184.909%! ~~ 
+00:46:10.812 WARN  ~~ LOOPS: 10. ENTITY #: 452//126. VIEW #: 1. BACKLOGGED :: 196.500%! ~~ 
+00:46:11.822 WARN  ~~ LOOPS: 10. ENTITY #: 457//129. VIEW #: 1. BACKLOGGED :: 202.500%! ~~ 
+00:46:12.828 WARN  ~~ LOOPS: 10. ENTITY #: 464//124. VIEW #: 1. BACKLOGGED :: 198.900%! ~~ 
+00:46:13.874 WARN  ~~ LOOPS: 10. ENTITY #: 460//128. VIEW #: 1. BACKLOGGED :: 213.600%! ~~ 
+00:46:14.950 WARN  ~~ LOOPS: 10. ENTITY #: 458//122. VIEW #: 1. BACKLOGGED :: 221.400%! ~~ 
+00:46:16.008 WARN  ~~ LOOPS: 10. ENTITY #: 452//121. VIEW #: 1. BACKLOGGED :: 214.800%! ~~ 
+00:46:17.019 WARN  ~~ LOOPS: 9. ENTITY #: 447//112. VIEW #: 1. BACKLOGGED :: 215.333%! ~~ 
+00:46:18.046 WARN  ~~ LOOPS: 10. ENTITY #: 450//114. VIEW #: 1. BACKLOGGED :: 210.000%! ~~ 
+00:46:19.054 WARN  ~~ LOOPS: 9. ENTITY #: 453//119. VIEW #: 1. BACKLOGGED :: 225.667%! ~~ 
+00:46:20.060 WARN  ~~ LOOPS: 9. ENTITY #: 459//112. VIEW #: 1. BACKLOGGED :: 239.333%! ~~ 
+00:46:21.067 WARN  ~~ LOOPS: 8. ENTITY #: 462//126. VIEW #: 1. BACKLOGGED :: 268.500%! ~~ 
+00:46:22.070 WARN  ~~ LOOPS: 12. ENTITY #: 325//68. VIEW #: 1. BACKLOGGED :: 155.500%! ~~ 
+01:21:09.562 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1767:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2600:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2630:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:21:09.562 ERROR Spawner 
+01:21:09.565 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"IS_LEGENDARY_HYBRID":false,"index":34,"mockup":{"body":{"type":7,"id":34,"index":34,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Mega Spawner","STAT_NAMES":5,"DANGER":7,"BODY":{"ACCELERATION":0.8,"SPEED":3.9375,"FOV":1.15},"GUNS":[{"POSITION":[18,18,1,0,0,0,0]},{"POSITION":[2,18,1.2,18,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":25.025000000000002,"recoil":2,"shudder":0.025,"size":0.8099999999999999,"health":2,"damage":0.75,"pen":1.25,"speed":7.5,"maxSpeed":2.75,"range":1.25,"density":1,"spray":15,"resist":3.75},"TYPE":[null,{"HITS_OWN_TYPE":"hard","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","canRepel","mapTargetToGoal","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":6}}],"index":278} 

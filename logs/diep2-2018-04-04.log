@@ -1,0 +1,198 @@
+02:29:14.794 WARN  ~~ LOOPS: 13. ENTITY #: 685//284. VIEW #: 1. BACKLOGGED :: 131.308%! ~~ 
+02:29:14.794 WARN  Total activation time: 49 
+02:29:14.794 WARN  Total collision time: 378 
+02:29:14.794 WARN  Total cycle time: 141 
+02:29:14.794 WARN  Total player update time: 61 
+02:29:14.794 WARN  Total lb+minimap processing time: 32 
+02:29:14.794 WARN  Total entity physics calculation time: 3 
+02:29:14.794 WARN  Total entity life+thought cycle time: 55 
+02:29:14.795 WARN  Total entity selfie-taking time: 12 
+02:29:14.795 WARN  Total time: 731 
+02:29:41.575 WARN  ~~ LOOPS: 15. ENTITY #: 718//290. VIEW #: 1. BACKLOGGED :: 107.200%! ~~ 
+02:29:41.575 WARN  Total activation time: 50 
+02:29:41.576 WARN  Total collision time: 360 
+02:29:41.576 WARN  Total cycle time: 126 
+02:29:41.576 WARN  Total player update time: 51 
+02:29:41.576 WARN  Total lb+minimap processing time: 24 
+02:29:41.576 WARN  Total entity physics calculation time: 12 
+02:29:41.576 WARN  Total entity life+thought cycle time: 39 
+02:29:41.576 WARN  Total entity selfie-taking time: 7 
+02:29:41.576 WARN  Total time: 669 
+02:29:42.596 WARN  ~~ LOOPS: 14. ENTITY #: 701//290. VIEW #: 1. BACKLOGGED :: 115.071%! ~~ 
+02:29:42.596 WARN  Total activation time: 45 
+02:29:42.596 WARN  Total collision time: 367 
+02:29:42.596 WARN  Total cycle time: 125 
+02:29:42.596 WARN  Total player update time: 61 
+02:29:42.597 WARN  Total lb+minimap processing time: 32 
+02:29:42.597 WARN  Total entity physics calculation time: 20 
+02:29:42.597 WARN  Total entity life+thought cycle time: 40 
+02:29:42.597 WARN  Total entity selfie-taking time: 10 
+02:29:42.597 WARN  Total time: 700 
+02:36:07.006 ERROR set.UPGRADES_TIER_1.forEach is not a function
+TypeError: set.UPGRADES_TIER_1.forEach is not a function
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1829:33)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2763:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2793:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+02:36:07.006 ERROR testbed_bosses 
+02:36:07.008 ERROR json error: [object Object] 
+02:36:07.009 ERROR set.UPGRADES_TIER_1.forEach is not a function
+TypeError: set.UPGRADES_TIER_1.forEach is not a function
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1829:33)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2763:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2793:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+02:36:07.009 ERROR testbed_dominators 
+02:36:07.010 ERROR json error: [object Object] 
+02:36:07.010 ERROR set.UPGRADES_TIER_1.forEach is not a function
+TypeError: set.UPGRADES_TIER_1.forEach is not a function
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1829:33)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2763:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2793:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+02:36:07.010 ERROR testbed_sentries 
+02:36:07.011 ERROR json error: [object Object] 
+02:36:07.011 ERROR set.UPGRADES_TIER_1.forEach is not a function
+TypeError: set.UPGRADES_TIER_1.forEach is not a function
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1829:33)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2763:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2793:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+02:36:07.012 ERROR testbed_misc 
+02:36:07.012 ERROR json error: [object Object] 
+03:17:41.199 ERROR Egg 
+03:17:41.201 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.201 ERROR Egg 
+03:17:41.202 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.202 ERROR Egg 
+03:17:41.202 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.202 ERROR Egg 
+03:17:41.202 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.202 ERROR Egg 
+03:17:41.202 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.203 ERROR Pentagon 
+03:17:41.203 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.405 ERROR Egg 
+03:17:41.406 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.406 ERROR Egg 
+03:17:41.406 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.406 ERROR Egg 
+03:17:41.406 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+03:17:41.406 ERROR Pentagon 
+03:17:41.407 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:188:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5204:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5199:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5290:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 
+08:02:01.233 WARN  Malformed command packet. Kicking. 1 warning. 
+08:11:02.259 WARN  ~~ LOOPS: 9. ENTITY #: 2079//367. VIEW #: 1. BACKLOGGED :: 238.333%! ~~ 

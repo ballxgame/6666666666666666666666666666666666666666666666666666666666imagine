@@ -1,0 +1,1631 @@
+02:52:39.056 ERROR [ERROR] Detected an NaN position! 
+02:52:39.110 ERROR [ERROR] Detected an NaN position! 
+02:57:11.575 ERROR [ERROR] Detected an NaN position! 
+03:01:39.911 ERROR [ERROR] Detected an NaN position! 
+03:11:51.344 ERROR [ERROR] Detected an NaN position! 
+03:17:07.196 WARN  ~~ LOOPS: 14. ENTITY #: 656//276. VIEW #: 3. BACKLOGGED :: 121.071%! ~~ 
+03:17:08.207 WARN  ~~ LOOPS: 11. ENTITY #: 647//261. VIEW #: 3. BACKLOGGED :: 166.364%! ~~ 
+03:24:13.719 ERROR [ERROR] Detected an NaN position! 
+03:27:41.108 ERROR [ERROR] Detected an NaN position! 
+03:44:36.367 WARN  ~~ LOOPS: 10. ENTITY #: 560//55. VIEW #: 2. BACKLOGGED :: 205.500%! ~~ 
+03:46:17.868 WARN  ~~ LOOPS: 4. ENTITY #: 593//86. VIEW #: 2. BACKLOGGED :: 242.250%! ~~ 
+03:48:23.402 WARN  ~~ LOOPS: 12. ENTITY #: 550//98. VIEW #: 2. BACKLOGGED :: 150.750%! ~~ 
+19:24:48.370 WARN  ~~ LOOPS: 15. ENTITY #: 680//554. VIEW #: 2. BACKLOGGED :: 102.800%! ~~ 
+19:24:49.438 WARN  ~~ LOOPS: 15. ENTITY #: 697//577. VIEW #: 2. BACKLOGGED :: 107.400%! ~~ 
+19:24:50.494 WARN  ~~ LOOPS: 15. ENTITY #: 713//601. VIEW #: 2. BACKLOGGED :: 110.800%! ~~ 
+19:24:51.495 WARN  ~~ LOOPS: 14. ENTITY #: 709//572. VIEW #: 2. BACKLOGGED :: 101.571%! ~~ 
+19:24:52.537 WARN  ~~ LOOPS: 15. ENTITY #: 728//575. VIEW #: 2. BACKLOGGED :: 105.400%! ~~ 
+19:24:53.561 WARN  ~~ LOOPS: 14. ENTITY #: 723//573. VIEW #: 2. BACKLOGGED :: 104.786%! ~~ 
+19:24:54.622 WARN  ~~ LOOPS: 15. ENTITY #: 703//572. VIEW #: 2. BACKLOGGED :: 110.400%! ~~ 
+19:24:55.662 WARN  ~~ LOOPS: 15. ENTITY #: 697//551. VIEW #: 2. BACKLOGGED :: 103.400%! ~~ 
+19:24:56.666 WARN  ~~ LOOPS: 14. ENTITY #: 682//541. VIEW #: 2. BACKLOGGED :: 109.714%! ~~ 
+19:24:58.682 WARN  ~~ LOOPS: 14. ENTITY #: 708//542. VIEW #: 2. BACKLOGGED :: 106.286%! ~~ 
+19:25:00.778 WARN  ~~ LOOPS: 15. ENTITY #: 697//520. VIEW #: 2. BACKLOGGED :: 108.200%! ~~ 
+19:25:01.831 WARN  ~~ LOOPS: 14. ENTITY #: 693//504. VIEW #: 2. BACKLOGGED :: 120.643%! ~~ 
+19:25:02.877 WARN  ~~ LOOPS: 13. ENTITY #: 713//528. VIEW #: 2. BACKLOGGED :: 136.154%! ~~ 
+19:25:03.929 WARN  ~~ LOOPS: 14. ENTITY #: 734//545. VIEW #: 2. BACKLOGGED :: 122.143%! ~~ 
+19:25:04.961 WARN  ~~ LOOPS: 13. ENTITY #: 725//540. VIEW #: 2. BACKLOGGED :: 135.923%! ~~ 
+19:25:06.011 WARN  ~~ LOOPS: 14. ENTITY #: 718//538. VIEW #: 2. BACKLOGGED :: 122.143%! ~~ 
+19:25:07.042 WARN  ~~ LOOPS: 14. ENTITY #: 728//535. VIEW #: 2. BACKLOGGED :: 113.143%! ~~ 
+19:25:08.064 WARN  ~~ LOOPS: 14. ENTITY #: 724//540. VIEW #: 2. BACKLOGGED :: 117.000%! ~~ 
+19:25:09.105 WARN  ~~ LOOPS: 14. ENTITY #: 697//519. VIEW #: 2. BACKLOGGED :: 110.143%! ~~ 
+19:25:10.131 WARN  ~~ LOOPS: 15. ENTITY #: 696//510. VIEW #: 2. BACKLOGGED :: 104.400%! ~~ 
+19:25:11.165 WARN  ~~ LOOPS: 15. ENTITY #: 626//489. VIEW #: 2. BACKLOGGED :: 106.800%! ~~ 
+19:25:14.267 WARN  ~~ LOOPS: 14. ENTITY #: 648//444. VIEW #: 2. BACKLOGGED :: 106.929%! ~~ 
+19:25:23.487 WARN  ~~ LOOPS: 15. ENTITY #: 644//432. VIEW #: 2. BACKLOGGED :: 103.000%! ~~ 
+19:25:26.550 WARN  ~~ LOOPS: 14. ENTITY #: 647//424. VIEW #: 2. BACKLOGGED :: 118.500%! ~~ 
+19:28:34.704 WARN  ~~ LOOPS: 15. ENTITY #: 571//496. VIEW #: 1. BACKLOGGED :: 103.600%! ~~ 
+19:28:35.739 WARN  ~~ LOOPS: 15. ENTITY #: 611//534. VIEW #: 1. BACKLOGGED :: 103.400%! ~~ 
+19:28:36.781 WARN  ~~ LOOPS: 15. ENTITY #: 646//549. VIEW #: 1. BACKLOGGED :: 103.000%! ~~ 
+19:28:37.822 WARN  ~~ LOOPS: 14. ENTITY #: 702//587. VIEW #: 1. BACKLOGGED :: 121.286%! ~~ 
+19:28:38.823 WARN  ~~ LOOPS: 13. ENTITY #: 721//631. VIEW #: 1. BACKLOGGED :: 120.692%! ~~ 
+19:28:39.835 WARN  ~~ LOOPS: 14. ENTITY #: 730//632. VIEW #: 1. BACKLOGGED :: 115.286%! ~~ 
+19:28:40.859 WARN  ~~ LOOPS: 13. ENTITY #: 752//624. VIEW #: 1. BACKLOGGED :: 125.308%! ~~ 
+19:28:41.904 WARN  ~~ LOOPS: 14. ENTITY #: 730//628. VIEW #: 1. BACKLOGGED :: 122.143%! ~~ 
+19:28:42.923 WARN  ~~ LOOPS: 13. ENTITY #: 696//602. VIEW #: 1. BACKLOGGED :: 123.923%! ~~ 
+19:28:43.977 WARN  ~~ LOOPS: 14. ENTITY #: 691//585. VIEW #: 1. BACKLOGGED :: 116.143%! ~~ 
+19:28:45.032 WARN  ~~ LOOPS: 15. ENTITY #: 678//571. VIEW #: 1. BACKLOGGED :: 106.800%! ~~ 
+19:28:46.050 WARN  ~~ LOOPS: 14. ENTITY #: 667//560. VIEW #: 1. BACKLOGGED :: 112.071%! ~~ 
+19:28:47.070 WARN  ~~ LOOPS: 15. ENTITY #: 624//521. VIEW #: 1. BACKLOGGED :: 105.000%! ~~ 
+19:28:48.100 WARN  ~~ LOOPS: 15. ENTITY #: 595//495. VIEW #: 1. BACKLOGGED :: 100.400%! ~~ 
+19:28:57.377 WARN  ~~ LOOPS: 15. ENTITY #: 555//390. VIEW #: 1. BACKLOGGED :: 100.400%! ~~ 
+19:31:00.422 WARN  ~~ LOOPS: 15. ENTITY #: 603//401. VIEW #: 1. BACKLOGGED :: 106.000%! ~~ 
+19:31:07.600 WARN  ~~ LOOPS: 15. ENTITY #: 645//487. VIEW #: 1. BACKLOGGED :: 101.200%! ~~ 
+19:31:08.616 WARN  ~~ LOOPS: 14. ENTITY #: 637//508. VIEW #: 1. BACKLOGGED :: 108.643%! ~~ 
+19:31:13.737 WARN  ~~ LOOPS: 15. ENTITY #: 641//506. VIEW #: 1. BACKLOGGED :: 101.200%! ~~ 
+19:33:41.407 ERROR [ERROR] Detected an NaN position! 
+19:33:49.454 ERROR [ERROR] Detected an NaN position! 
+19:33:51.863 WARN  ~~ LOOPS: 15. ENTITY #: 645//524. VIEW #: 3. BACKLOGGED :: 103.200%! ~~ 
+19:33:55.989 WARN  ~~ LOOPS: 15. ENTITY #: 669//545. VIEW #: 3. BACKLOGGED :: 106.600%! ~~ 
+19:33:57.004 WARN  ~~ LOOPS: 14. ENTITY #: 624//537. VIEW #: 3. BACKLOGGED :: 110.143%! ~~ 
+19:33:58.043 WARN  ~~ LOOPS: 15. ENTITY #: 627//515. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+19:34:30.758 ERROR [ERROR] Detected an NaN position! 
+19:34:56.685 ERROR [ERROR] Detected an NaN position! 
+19:37:06.759 ERROR [ERROR] Detected an NaN position! 
+19:39:14.577 ERROR [ERROR] Detected an NaN position! 
+19:39:37.115 WARN  ~~ LOOPS: 14. ENTITY #: 724//497. VIEW #: 5. BACKLOGGED :: 111.857%! ~~ 
+19:39:38.138 WARN  ~~ LOOPS: 14. ENTITY #: 766//524. VIEW #: 5. BACKLOGGED :: 110.571%! ~~ 
+19:39:39.156 WARN  ~~ LOOPS: 14. ENTITY #: 753//533. VIEW #: 5. BACKLOGGED :: 114.214%! ~~ 
+19:39:40.175 WARN  ~~ LOOPS: 14. ENTITY #: 756//543. VIEW #: 5. BACKLOGGED :: 114.000%! ~~ 
+19:39:41.224 WARN  ~~ LOOPS: 14. ENTITY #: 765//542. VIEW #: 5. BACKLOGGED :: 118.714%! ~~ 
+19:39:42.277 WARN  ~~ LOOPS: 14. ENTITY #: 784//571. VIEW #: 5. BACKLOGGED :: 123.429%! ~~ 
+19:39:43.308 WARN  ~~ LOOPS: 14. ENTITY #: 807//573. VIEW #: 5. BACKLOGGED :: 116.357%! ~~ 
+19:39:44.329 WARN  ~~ LOOPS: 14. ENTITY #: 794//577. VIEW #: 5. BACKLOGGED :: 115.500%! ~~ 
+19:39:45.354 WARN  ~~ LOOPS: 13. ENTITY #: 787//573. VIEW #: 5. BACKLOGGED :: 120.462%! ~~ 
+19:39:46.380 WARN  ~~ LOOPS: 14. ENTITY #: 778//548. VIEW #: 5. BACKLOGGED :: 117.000%! ~~ 
+19:39:47.404 WARN  ~~ LOOPS: 14. ENTITY #: 750//524. VIEW #: 5. BACKLOGGED :: 115.500%! ~~ 
+19:39:48.445 WARN  ~~ LOOPS: 15. ENTITY #: 765//516. VIEW #: 5. BACKLOGGED :: 106.000%! ~~ 
+19:39:49.464 WARN  ~~ LOOPS: 14. ENTITY #: 718//520. VIEW #: 5. BACKLOGGED :: 110.143%! ~~ 
+19:39:50.495 WARN  ~~ LOOPS: 15. ENTITY #: 720//485. VIEW #: 5. BACKLOGGED :: 101.800%! ~~ 
+19:39:51.549 WARN  ~~ LOOPS: 16. ENTITY #: 700//465. VIEW #: 5. BACKLOGGED :: 100.313%! ~~ 
+19:39:56.643 WARN  ~~ LOOPS: 15. ENTITY #: 687//479. VIEW #: 5. BACKLOGGED :: 103.600%! ~~ 
+19:40:05.919 WARN  ~~ LOOPS: 15. ENTITY #: 700//461. VIEW #: 5. BACKLOGGED :: 101.600%! ~~ 
+19:40:10.065 WARN  ~~ LOOPS: 15. ENTITY #: 730//470. VIEW #: 5. BACKLOGGED :: 102.200%! ~~ 
+19:40:11.093 WARN  ~~ LOOPS: 15. ENTITY #: 724//470. VIEW #: 5. BACKLOGGED :: 105.600%! ~~ 
+19:40:22.420 WARN  ~~ LOOPS: 15. ENTITY #: 752//511. VIEW #: 5. BACKLOGGED :: 103.800%! ~~ 
+19:40:23.472 WARN  ~~ LOOPS: 15. ENTITY #: 718//507. VIEW #: 5. BACKLOGGED :: 103.800%! ~~ 
+19:40:27.600 WARN  ~~ LOOPS: 15. ENTITY #: 665//423. VIEW #: 5. BACKLOGGED :: 102.200%! ~~ 
+19:42:55.992 ERROR [ERROR] Detected an NaN position! 
+19:43:00.768 WARN  ~~ LOOPS: 15. ENTITY #: 646//384. VIEW #: 4. BACKLOGGED :: 108.200%! ~~ 
+19:43:10.024 WARN  ~~ LOOPS: 15. ENTITY #: 755//488. VIEW #: 4. BACKLOGGED :: 102.800%! ~~ 
+19:43:11.039 WARN  ~~ LOOPS: 15. ENTITY #: 676//438. VIEW #: 4. BACKLOGGED :: 100.800%! ~~ 
+19:43:49.839 WARN  ~~ LOOPS: 14. ENTITY #: 555//234. VIEW #: 4. BACKLOGGED :: 130.500%! ~~ 
+19:44:59.137 WARN  ~~ LOOPS: 16. ENTITY #: 729//421. VIEW #: 4. BACKLOGGED :: 100.500%! ~~ 
+19:45:02.222 WARN  ~~ LOOPS: 14. ENTITY #: 734//468. VIEW #: 4. BACKLOGGED :: 109.714%! ~~ 
+19:45:04.286 WARN  ~~ LOOPS: 15. ENTITY #: 747//463. VIEW #: 4. BACKLOGGED :: 101.600%! ~~ 
+19:45:36.173 WARN  ~~ LOOPS: 15. ENTITY #: 775//443. VIEW #: 4. BACKLOGGED :: 101.400%! ~~ 
+19:45:44.435 WARN  ~~ LOOPS: 15. ENTITY #: 752//466. VIEW #: 4. BACKLOGGED :: 107.800%! ~~ 
+19:45:45.476 WARN  ~~ LOOPS: 14. ENTITY #: 748//464. VIEW #: 4. BACKLOGGED :: 112.286%! ~~ 
+19:45:50.652 WARN  ~~ LOOPS: 15. ENTITY #: 731//486. VIEW #: 4. BACKLOGGED :: 103.600%! ~~ 
+19:45:51.679 WARN  ~~ LOOPS: 15. ENTITY #: 738//491. VIEW #: 4. BACKLOGGED :: 103.600%! ~~ 
+19:45:52.703 WARN  ~~ LOOPS: 15. ENTITY #: 745//497. VIEW #: 4. BACKLOGGED :: 103.600%! ~~ 
+19:45:53.717 ERROR [ERROR] Detected an NaN position! 
+19:45:53.745 WARN  ~~ LOOPS: 15. ENTITY #: 779//524. VIEW #: 4. BACKLOGGED :: 106.200%! ~~ 
+19:45:54.765 WARN  ~~ LOOPS: 14. ENTITY #: 771//513. VIEW #: 4. BACKLOGGED :: 110.357%! ~~ 
+19:45:55.790 WARN  ~~ LOOPS: 14. ENTITY #: 772//512. VIEW #: 4. BACKLOGGED :: 110.571%! ~~ 
+19:45:56.854 WARN  ~~ LOOPS: 16. ENTITY #: 780//522. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+19:45:57.865 WARN  ~~ LOOPS: 14. ENTITY #: 772//519. VIEW #: 4. BACKLOGGED :: 109.929%! ~~ 
+19:45:59.929 WARN  ~~ LOOPS: 15. ENTITY #: 766//517. VIEW #: 4. BACKLOGGED :: 109.200%! ~~ 
+19:46:00.954 WARN  ~~ LOOPS: 14. ENTITY #: 783//537. VIEW #: 4. BACKLOGGED :: 108.643%! ~~ 
+19:46:01.978 WARN  ~~ LOOPS: 14. ENTITY #: 791//547. VIEW #: 4. BACKLOGGED :: 116.571%! ~~ 
+19:46:03.030 WARN  ~~ LOOPS: 15. ENTITY #: 781//549. VIEW #: 4. BACKLOGGED :: 110.200%! ~~ 
+19:46:04.055 WARN  ~~ LOOPS: 14. ENTITY #: 755//526. VIEW #: 4. BACKLOGGED :: 115.500%! ~~ 
+19:46:06.129 WARN  ~~ LOOPS: 15. ENTITY #: 742//486. VIEW #: 4. BACKLOGGED :: 104.600%! ~~ 
+19:46:07.186 WARN  ~~ LOOPS: 15. ENTITY #: 729//474. VIEW #: 4. BACKLOGGED :: 109.600%! ~~ 
+19:46:09.274 WARN  ~~ LOOPS: 15. ENTITY #: 713//470. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+19:46:11.299 WARN  ~~ LOOPS: 15. ENTITY #: 646//416. VIEW #: 4. BACKLOGGED :: 101.200%! ~~ 
+19:46:19.566 WARN  ~~ LOOPS: 12. ENTITY #: 701//445. VIEW #: 4. BACKLOGGED :: 157.000%! ~~ 
+19:46:20.614 WARN  ~~ LOOPS: 15. ENTITY #: 709//457. VIEW #: 4. BACKLOGGED :: 106.600%! ~~ 
+19:46:21.654 WARN  ~~ LOOPS: 15. ENTITY #: 702//465. VIEW #: 4. BACKLOGGED :: 103.600%! ~~ 
+19:46:25.764 WARN  ~~ LOOPS: 15. ENTITY #: 656//422. VIEW #: 4. BACKLOGGED :: 103.000%! ~~ 
+19:50:16.289 WARN  ~~ LOOPS: 15. ENTITY #: 758//478. VIEW #: 3. BACKLOGGED :: 106.600%! ~~ 
+19:50:17.309 WARN  ~~ LOOPS: 15. ENTITY #: 739//458. VIEW #: 3. BACKLOGGED :: 103.200%! ~~ 
+19:50:18.361 WARN  ~~ LOOPS: 15. ENTITY #: 728//440. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+19:50:19.640 ERROR [ERROR] Detected an NaN position! 
+19:52:20.315 ERROR [ERROR] Detected an NaN position! 
+19:52:57.276 WARN  ~~ LOOPS: 15. ENTITY #: 604//267. VIEW #: 4. BACKLOGGED :: 105.200%! ~~ 
+19:53:04.581 WARN  ~~ LOOPS: 15. ENTITY #: 596//299. VIEW #: 4. BACKLOGGED :: 109.200%! ~~ 
+19:53:05.603 WARN  ~~ LOOPS: 15. ENTITY #: 617//321. VIEW #: 4. BACKLOGGED :: 103.200%! ~~ 
+19:53:09.743 WARN  ~~ LOOPS: 15. ENTITY #: 732//425. VIEW #: 4. BACKLOGGED :: 102.200%! ~~ 
+19:53:11.789 WARN  ~~ LOOPS: 14. ENTITY #: 763//469. VIEW #: 4. BACKLOGGED :: 113.143%! ~~ 
+19:53:12.810 WARN  ~~ LOOPS: 14. ENTITY #: 747//461. VIEW #: 4. BACKLOGGED :: 115.929%! ~~ 
+19:53:13.839 WARN  ~~ LOOPS: 15. ENTITY #: 688//416. VIEW #: 4. BACKLOGGED :: 106.200%! ~~ 
+19:54:20.846 ERROR [ERROR] Detected an NaN position! 
+19:55:09.918 WARN  ~~ LOOPS: 13. ENTITY #: 617//237. VIEW #: 4. BACKLOGGED :: 142.846%! ~~ 
+19:58:38.177 WARN  ~~ LOOPS: 12. ENTITY #: 605//256. VIEW #: 5. BACKLOGGED :: 150.500%! ~~ 
+20:13:04.188 ERROR [ERROR] Detected an NaN position! 
+20:13:04.839 ERROR [ERROR] Detected an NaN position! 
+20:13:05.390 ERROR [ERROR] Detected an NaN position! 
+20:14:11.465 ERROR [ERROR] Detected an NaN position! 
+20:16:38.536 WARN  ~~ LOOPS: 11. ENTITY #: 512//85. VIEW #: 4. BACKLOGGED :: 2294.182%! ~~ 
+20:19:58.178 ERROR [ERROR] Detected an NaN position! 
+20:19:58.181 ERROR [ERROR] Detected an NaN position! 
+20:32:47.837 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.837 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.838 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.838 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.838 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.838 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.839 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.840 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.840 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:47.840 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.600 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:48.601 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.364 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.365 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:49.366 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.125 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.126 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.127 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.899 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.900 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.901 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:50.901 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.686 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.687 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:51.688 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.460 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.461 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.461 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.461 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.461 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.461 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:52.462 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.242 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.243 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.244 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.244 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.244 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:53.244 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.024 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.024 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.024 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.024 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.025 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.026 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.026 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.026 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.026 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.026 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.807 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.807 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.807 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.808 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:54.809 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.586 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.587 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.588 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:32:55.588 ERROR [ROOM SETUP ERROR] TypeError: Cannot read property '5' of undefined 
+20:42:31.064 ERROR [ERROR] Detected an NaN position! 
+20:42:52.080 ERROR [ERROR] Detected an NaN position! 
+20:46:10.320 WARN  ~~ LOOPS: 9. ENTITY #: 577//118. VIEW #: 7. BACKLOGGED :: 198.667%! ~~ 
+20:49:23.822 WARN  ~~ LOOPS: 13. ENTITY #: 633//422. VIEW #: 8. BACKLOGGED :: 126.923%! ~~ 
+20:49:24.842 WARN  ~~ LOOPS: 14. ENTITY #: 633//442. VIEW #: 8. BACKLOGGED :: 115.714%! ~~ 
+20:49:25.895 WARN  ~~ LOOPS: 14. ENTITY #: 726//481. VIEW #: 8. BACKLOGGED :: 121.286%! ~~ 
+20:49:26.934 WARN  ~~ LOOPS: 14. ENTITY #: 757//529. VIEW #: 8. BACKLOGGED :: 118.071%! ~~ 
+20:49:27.963 WARN  ~~ LOOPS: 13. ENTITY #: 759//550. VIEW #: 8. BACKLOGGED :: 131.308%! ~~ 
+20:49:29.001 WARN  ~~ LOOPS: 13. ENTITY #: 785//575. VIEW #: 8. BACKLOGGED :: 129.923%! ~~ 
+20:49:30.055 WARN  ~~ LOOPS: 14. ENTITY #: 739//544. VIEW #: 8. BACKLOGGED :: 124.714%! ~~ 
+20:49:31.117 WARN  ~~ LOOPS: 15. ENTITY #: 682//495. VIEW #: 8. BACKLOGGED :: 114.200%! ~~ 
+20:49:32.195 WARN  ~~ LOOPS: 15. ENTITY #: 633//409. VIEW #: 8. BACKLOGGED :: 103.800%! ~~ 
+20:50:53.795 ERROR [ERROR] Detected an NaN position! 
+20:50:53.841 ERROR [ERROR] Detected an NaN position! 
+20:53:15.515 WARN  ~~ LOOPS: 15. ENTITY #: 610//413. VIEW #: 8. BACKLOGGED :: 103.600%! ~~ 
+20:54:10.817 ERROR [ERROR] Detected an NaN position! 
+20:54:35.128 WARN  ~~ LOOPS: 14. ENTITY #: 707//556. VIEW #: 8. BACKLOGGED :: 120.857%! ~~ 
+20:54:36.155 WARN  ~~ LOOPS: 13. ENTITY #: 769//624. VIEW #: 8. BACKLOGGED :: 127.154%! ~~ 
+20:54:37.213 WARN  ~~ LOOPS: 13. ENTITY #: 769//659. VIEW #: 8. BACKLOGGED :: 143.077%! ~~ 
+20:54:38.227 WARN  ~~ LOOPS: 13. ENTITY #: 610//516. VIEW #: 8. BACKLOGGED :: 130.615%! ~~ 
+20:54:46.372 WARN  ~~ LOOPS: 15. ENTITY #: 671//472. VIEW #: 8. BACKLOGGED :: 103.400%! ~~ 
+20:54:47.410 WARN  ~~ LOOPS: 15. ENTITY #: 708//521. VIEW #: 8. BACKLOGGED :: 104.600%! ~~ 
+20:54:48.424 WARN  ~~ LOOPS: 14. ENTITY #: 718//550. VIEW #: 8. BACKLOGGED :: 111.000%! ~~ 
+20:54:49.468 WARN  ~~ LOOPS: 14. ENTITY #: 712//532. VIEW #: 8. BACKLOGGED :: 119.357%! ~~ 
+20:54:50.537 WARN  ~~ LOOPS: 15. ENTITY #: 710//519. VIEW #: 8. BACKLOGGED :: 116.400%! ~~ 
+20:54:51.537 WARN  ~~ LOOPS: 14. ENTITY #: 575//443. VIEW #: 8. BACKLOGGED :: 106.071%! ~~ 
+21:00:04.287 ERROR [ERROR] Detected an NaN position! 
+21:04:11.839 ERROR [ERROR] Detected an NaN position! 
+21:04:31.653 ERROR [ERROR] Detected an NaN position! 
+21:05:06.924 WARN  ~~ LOOPS: 16. ENTITY #: 566//125. VIEW #: 8. BACKLOGGED :: 140.250%! ~~ 
+21:11:01.754 ERROR [ERROR] Detected an NaN position! 
+21:11:49.564 ERROR [ERROR] Detected an NaN position! 
+21:11:49.564 ERROR [ERROR] Detected an NaN position! 
+21:11:49.897 ERROR [ERROR] Detected an NaN position! 
+21:11:50.014 ERROR [ERROR] Detected an NaN position! 
+21:14:03.928 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1810:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2567:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2591:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+21:14:03.928 ERROR stream 
+21:14:03.929 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"HAS_NO_SKILL_POINTS":false,"IGNORE_SHAPES":false,"LAYER":-1,"DONT_HIT_OBSTACLES":false,"INVISIBLE":[0,0,1],"IS_TELEPORTER":false,"ALPHA":1,"index":35,"mockup":{"body":{"type":7,"id":35,"index":35,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Streamliner","DANGER":7,"BODY":{"FOV":1.3},"GUNS":[{"POSITION":[25,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[23,8,1,0,0,0,0.2],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[21,8,1,0,0,0,0.4],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[19,8,1,0,0,0,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[17,8,1,0,0,0,0.8],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"UPGRADES_TIER_4":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"COLOR_OVERRIDE":-1,"HAS_NO_SKILL_POINTS":false,"IGNORE_SHAPES":false,"LAYER":-1,"DONT_HIT_OBSTACLES":false,"INVISIBLE":[0,0,1],"IS_TELEPORTER":false,"ALPHA":1,"index":35,"mockup":{"body":{"type":7,"id":35,"index":35,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Flank-Liner","DANGER":7,"GUNS":[{"POSITION":[18,8,1,0,2,20,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[16,8,1,0,2,20,0.3333333333333333],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[14,8,1,0,2,20,0.6666666666666666],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[18,8,1,0,-2,-20,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[16,8,1,0,-2,-20,0.3333333333333333],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[14,8,1,0,-2,-20,0.6666666666666666],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":22.5,"recoil":0.84,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.3375,"pen":1.25,"speed":5.985,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[21,8,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[19,8,1,0,0,0,0.2],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[17,8,1,0,0,0,0.4],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[15,8,1,0,0,0,0.6],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[13,8,1,0,0,0,0.8],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":24.750000000000004,"recoil":0.504,"shudder":0.1,"size":0.8,"health":0.55,"damage":0.21937500000000001,"pen":1.25,"speed":7.4214,"maxSpeed":1,"range":1,"density":1.25,"spray":7.5,"resist":1.1},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":266,"mockup":{"body":{"type":7,"id":470,"index":266,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Flank-Liner","score":0,"guns":[{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0},{"time":0,"power":0}],"turrets":[],"alpha":1,"position":{"middle":{"x":0.585532,"y":0},"axis":3.17805,"points":[{"x":2.1,"y":0.4},{"x":-1,"y":0},{"x":1.48623,"y":-1.17945},{"x":2.1,"y":-0.4}]}},"position":{"middle":{"x":0.585532,"y":0},"axis":3.17805,"points":[{"x":2.1,"y":0.4},{"x":-1,"y":0},{"x":1.48623,"y":-1.17945},{"x":2.1,"y":-0.4}]}}},null],"index":130} 
+21:27:31.321 WARN  ~~ LOOPS: 15. ENTITY #: 722//487. VIEW #: 5. BACKLOGGED :: 100.200%! ~~ 
+21:27:37.537 WARN  ~~ LOOPS: 15. ENTITY #: 682//461. VIEW #: 5. BACKLOGGED :: 109.400%! ~~ 
+21:27:38.569 WARN  ~~ LOOPS: 15. ENTITY #: 682//449. VIEW #: 5. BACKLOGGED :: 103.600%! ~~ 
+21:27:39.621 WARN  ~~ LOOPS: 15. ENTITY #: 684//447. VIEW #: 5. BACKLOGGED :: 103.800%! ~~ 
+21:27:53.978 ERROR [ERROR] Detected an NaN position! 
+21:27:54.048 ERROR [ERROR] Detected an NaN position! 
+21:27:54.955 WARN  ~~ LOOPS: 14. ENTITY #: 613//471. VIEW #: 5. BACKLOGGED :: 106.071%! ~~ 
+21:27:55.988 WARN  ~~ LOOPS: 14. ENTITY #: 655//503. VIEW #: 5. BACKLOGGED :: 122.143%! ~~ 
+21:27:57.012 WARN  ~~ LOOPS: 14. ENTITY #: 698//530. VIEW #: 5. BACKLOGGED :: 113.357%! ~~ 
+21:27:58.059 WARN  ~~ LOOPS: 14. ENTITY #: 683//530. VIEW #: 5. BACKLOGGED :: 122.786%! ~~ 
+21:27:59.104 WARN  ~~ LOOPS: 14. ENTITY #: 709//541. VIEW #: 5. BACKLOGGED :: 116.571%! ~~ 
+21:28:00.154 WARN  ~~ LOOPS: 15. ENTITY #: 689//537. VIEW #: 5. BACKLOGGED :: 109.000%! ~~ 
+21:28:01.179 WARN  ~~ LOOPS: 14. ENTITY #: 675//514. VIEW #: 5. BACKLOGGED :: 104.571%! ~~ 
+21:28:02.194 WARN  ~~ LOOPS: 15. ENTITY #: 659//498. VIEW #: 5. BACKLOGGED :: 102.400%! ~~ 
+21:28:15.661 ERROR [ERROR] Detected an NaN position! 
+21:35:05.036 ERROR [ERROR] Detected an NaN position! 
+21:35:54.929 ERROR [ERROR] Detected an NaN position! 
+21:39:20.031 ERROR [ERROR] Detected an NaN position! 
+21:39:20.085 ERROR [ERROR] Detected an NaN position! 
+21:39:21.065 WARN  ~~ LOOPS: 13. ENTITY #: 577//161. VIEW #: 2. BACKLOGGED :: 113.769%! ~~ 
+21:43:17.236 WARN  ~~ LOOPS: 11. ENTITY #: 553//156. VIEW #: 3. BACKLOGGED :: 151.909%! ~~ 
+21:47:52.277 WARN  ~~ LOOPS: 12. ENTITY #: 591//197. VIEW #: 4. BACKLOGGED :: 132.000%! ~~ 
+21:48:53.643 WARN  ~~ LOOPS: 16. ENTITY #: 542//177. VIEW #: 4. BACKLOGGED :: 111.000%! ~~ 
+21:49:05.022 WARN  ~~ LOOPS: 14. ENTITY #: 552//186. VIEW #: 4. BACKLOGGED :: 105.214%! ~~ 
+21:49:22.445 WARN  ~~ LOOPS: 14. ENTITY #: 514//136. VIEW #: 4. BACKLOGGED :: 103.929%! ~~ 
+21:49:54.317 WARN  ~~ LOOPS: 14. ENTITY #: 584//212. VIEW #: 4. BACKLOGGED :: 109.071%! ~~ 
+21:50:33.514 WARN  ~~ LOOPS: 14. ENTITY #: 556//202. VIEW #: 4. BACKLOGGED :: 105.857%! ~~ 
+21:51:03.275 WARN  ~~ LOOPS: 12. ENTITY #: 561//182. VIEW #: 4. BACKLOGGED :: 146.000%! ~~ 
+21:51:04.289 WARN  ~~ LOOPS: 15. ENTITY #: 555//177. VIEW #: 4. BACKLOGGED :: 104.600%! ~~ 
+21:51:15.668 WARN  ~~ LOOPS: 12. ENTITY #: 494//130. VIEW #: 4. BACKLOGGED :: 144.750%! ~~ 
+21:51:38.072 WARN  ~~ LOOPS: 14. ENTITY #: 563//185. VIEW #: 4. BACKLOGGED :: 102.643%! ~~ 
+21:51:41.328 ERROR [ERROR] Detected an NaN position! 
+21:51:46.281 WARN  ~~ LOOPS: 13. ENTITY #: 624//253. VIEW #: 4. BACKLOGGED :: 117.462%! ~~ 
+21:51:48.319 WARN  ~~ LOOPS: 14. ENTITY #: 627//250. VIEW #: 4. BACKLOGGED :: 100.286%! ~~ 
+21:51:50.423 WARN  ~~ LOOPS: 15. ENTITY #: 626//243. VIEW #: 4. BACKLOGGED :: 104.000%! ~~ 
+21:51:51.453 WARN  ~~ LOOPS: 14. ENTITY #: 617//242. VIEW #: 4. BACKLOGGED :: 119.143%! ~~ 
+21:52:06.100 WARN  ~~ LOOPS: 14. ENTITY #: 579//184. VIEW #: 4. BACKLOGGED :: 121.500%! ~~ 
+21:52:07.116 WARN  ~~ LOOPS: 14. ENTITY #: 582//188. VIEW #: 4. BACKLOGGED :: 111.000%! ~~ 
+21:52:08.222 WARN  ~~ LOOPS: 16. ENTITY #: 583//184. VIEW #: 4. BACKLOGGED :: 102.750%! ~~ 
+21:52:10.250 WARN  ~~ LOOPS: 14. ENTITY #: 556//165. VIEW #: 4. BACKLOGGED :: 106.071%! ~~ 
+21:52:55.657 ERROR [ERROR] Detected an NaN position! 
+21:53:36.128 WARN  ~~ LOOPS: 12. ENTITY #: 550//119. VIEW #: 5. BACKLOGGED :: 142.750%! ~~ 
+21:53:46.423 WARN  ~~ LOOPS: 13. ENTITY #: 523//116. VIEW #: 5. BACKLOGGED :: 127.615%! ~~ 
+21:54:01.714 WARN  ~~ LOOPS: 14. ENTITY #: 636//176. VIEW #: 5. BACKLOGGED :: 112.714%! ~~ 
+21:54:04.614 ERROR [ERROR] Detected an NaN position! 
+21:54:23.469 WARN  ~~ LOOPS: 14. ENTITY #: 571//154. VIEW #: 4. BACKLOGGED :: 112.929%! ~~ 
+21:55:45.116 ERROR [ERROR] Detected an NaN position! 
+21:57:12.888 WARN  ~~ LOOPS: 11. ENTITY #: 539//182. VIEW #: 4. BACKLOGGED :: 156.818%! ~~ 
+21:57:26.281 WARN  ~~ LOOPS: 14. ENTITY #: 542//157. VIEW #: 4. BACKLOGGED :: 106.071%! ~~ 
+21:58:13.248 WARN  ~~ LOOPS: 15. ENTITY #: 626//233. VIEW #: 5. BACKLOGGED :: 106.600%! ~~ 
+21:58:14.269 WARN  ~~ LOOPS: 10. ENTITY #: 626//235. VIEW #: 5. BACKLOGGED :: 150.600%! ~~ 
+21:58:15.315 WARN  ~~ LOOPS: 14. ENTITY #: 612//235. VIEW #: 5. BACKLOGGED :: 124.500%! ~~ 
+21:58:17.431 WARN  ~~ LOOPS: 14. ENTITY #: 639//246. VIEW #: 5. BACKLOGGED :: 112.500%! ~~ 
+21:58:18.441 WARN  ~~ LOOPS: 13. ENTITY #: 644//255. VIEW #: 5. BACKLOGGED :: 116.538%! ~~ 
+21:58:19.461 WARN  ~~ LOOPS: 13. ENTITY #: 633//237. VIEW #: 5. BACKLOGGED :: 121.615%! ~~ 
+21:58:20.476 WARN  ~~ LOOPS: 14. ENTITY #: 650//233. VIEW #: 5. BACKLOGGED :: 101.143%! ~~ 
+21:58:21.508 WARN  ~~ LOOPS: 11. ENTITY #: 661//238. VIEW #: 5. BACKLOGGED :: 175.636%! ~~ 
+21:58:23.639 WARN  ~~ LOOPS: 14. ENTITY #: 679//255. VIEW #: 5. BACKLOGGED :: 118.286%! ~~ 
+21:58:34.055 WARN  ~~ LOOPS: 13. ENTITY #: 590//214. VIEW #: 5. BACKLOGGED :: 133.385%! ~~ 
+21:58:35.097 WARN  ~~ LOOPS: 15. ENTITY #: 592//217. VIEW #: 5. BACKLOGGED :: 106.000%! ~~ 
+21:58:48.335 WARN  ~~ LOOPS: 15. ENTITY #: 571//197. VIEW #: 5. BACKLOGGED :: 105.200%! ~~ 
+21:59:03.702 WARN  ~~ LOOPS: 14. ENTITY #: 529//154. VIEW #: 5. BACKLOGGED :: 109.929%! ~~ 
+21:59:19.220 WARN  ~~ LOOPS: 14. ENTITY #: 519//192. VIEW #: 5. BACKLOGGED :: 122.357%! ~~ 
+22:00:16.335 WARN  ~~ LOOPS: 6. ENTITY #: 474//112. VIEW #: 5. BACKLOGGED :: 336.500%! ~~ 
+22:03:15.027 WARN  ~~ LOOPS: 15. ENTITY #: 552//214. VIEW #: 6. BACKLOGGED :: 109.200%! ~~ 
+22:03:17.092 WARN  ~~ LOOPS: 13. ENTITY #: 564//247. VIEW #: 6. BACKLOGGED :: 109.385%! ~~ 
+22:03:18.107 WARN  ~~ LOOPS: 13. ENTITY #: 589//254. VIEW #: 6. BACKLOGGED :: 123.692%! ~~ 
+22:03:19.251 WARN  ~~ LOOPS: 12. ENTITY #: 569//258. VIEW #: 6. BACKLOGGED :: 142.750%! ~~ 
+22:03:20.449 WARN  ~~ LOOPS: 10. ENTITY #: 577//251. VIEW #: 6. BACKLOGGED :: 208.200%! ~~ 
+22:03:21.450 WARN  ~~ LOOPS: 13. ENTITY #: 591//261. VIEW #: 6. BACKLOGGED :: 124.154%! ~~ 
+22:03:23.451 WARN  ~~ LOOPS: 13. ENTITY #: 576//252. VIEW #: 6. BACKLOGGED :: 108.462%! ~~ 
+22:03:25.468 WARN  ~~ LOOPS: 15. ENTITY #: 552//225. VIEW #: 6. BACKLOGGED :: 100.600%! ~~ 
+22:03:27.494 WARN  ~~ LOOPS: 14. ENTITY #: 562//228. VIEW #: 6. BACKLOGGED :: 110.786%! ~~ 
+22:03:33.705 WARN  ~~ LOOPS: 15. ENTITY #: 556//224. VIEW #: 6. BACKLOGGED :: 102.600%! ~~ 
+22:03:36.824 WARN  ~~ LOOPS: 13. ENTITY #: 536//195. VIEW #: 6. BACKLOGGED :: 104.538%! ~~ 
+22:03:47.094 WARN  ~~ LOOPS: 14. ENTITY #: 568//194. VIEW #: 6. BACKLOGGED :: 121.500%! ~~ 
+22:03:49.217 WARN  ~~ LOOPS: 15. ENTITY #: 583//211. VIEW #: 6. BACKLOGGED :: 104.800%! ~~ 
+22:04:30.271 WARN  ~~ LOOPS: 14. ENTITY #: 545//208. VIEW #: 6. BACKLOGGED :: 111.429%! ~~ 
+22:05:04.088 WARN  ~~ LOOPS: 12. ENTITY #: 532//178. VIEW #: 6. BACKLOGGED :: 159.500%! ~~ 
+22:06:14.903 WARN  ~~ LOOPS: 13. ENTITY #: 566//203. VIEW #: 6. BACKLOGGED :: 104.308%! ~~ 
+22:06:16.933 WARN  ~~ LOOPS: 14. ENTITY #: 577//205. VIEW #: 6. BACKLOGGED :: 104.143%! ~~ 
+22:06:20.070 WARN  ~~ LOOPS: 14. ENTITY #: 558//191. VIEW #: 6. BACKLOGGED :: 110.786%! ~~ 
+22:06:25.230 WARN  ~~ LOOPS: 13. ENTITY #: 544//159. VIEW #: 6. BACKLOGGED :: 117.692%! ~~ 
+22:06:36.625 WARN  ~~ LOOPS: 11. ENTITY #: 558//214. VIEW #: 6. BACKLOGGED :: 138.000%! ~~ 
+22:06:37.654 WARN  ~~ LOOPS: 15. ENTITY #: 541//211. VIEW #: 6. BACKLOGGED :: 105.000%! ~~ 
+22:06:38.669 WARN  ~~ LOOPS: 13. ENTITY #: 543//197. VIEW #: 6. BACKLOGGED :: 126.923%! ~~ 
+22:06:47.057 WARN  ~~ LOOPS: 13. ENTITY #: 570//232. VIEW #: 6. BACKLOGGED :: 123.923%! ~~ 
+22:06:48.087 WARN  ~~ LOOPS: 15. ENTITY #: 557//227. VIEW #: 6. BACKLOGGED :: 100.200%! ~~ 
+22:06:49.098 WARN  ~~ LOOPS: 14. ENTITY #: 566//212. VIEW #: 6. BACKLOGGED :: 110.571%! ~~ 
+22:07:07.632 WARN  ~~ LOOPS: 13. ENTITY #: 576//179. VIEW #: 6. BACKLOGGED :: 102.923%! ~~ 
+22:07:10.696 WARN  ~~ LOOPS: 15. ENTITY #: 609//208. VIEW #: 6. BACKLOGGED :: 107.200%! ~~ 
+22:07:11.712 WARN  ~~ LOOPS: 14. ENTITY #: 606//208. VIEW #: 6. BACKLOGGED :: 110.571%! ~~ 
+22:07:12.741 WARN  ~~ LOOPS: 13. ENTITY #: 599//218. VIEW #: 6. BACKLOGGED :: 137.308%! ~~ 
+22:07:15.870 WARN  ~~ LOOPS: 14. ENTITY #: 599//226. VIEW #: 6. BACKLOGGED :: 113.786%! ~~ 
+22:07:16.909 WARN  ~~ LOOPS: 14. ENTITY #: 620//245. VIEW #: 6. BACKLOGGED :: 116.357%! ~~ 
+22:07:18.030 WARN  ~~ LOOPS: 9. ENTITY #: 634//263. VIEW #: 6. BACKLOGGED :: 183.333%! ~~ 
+22:07:19.053 WARN  ~~ LOOPS: 12. ENTITY #: 640//265. VIEW #: 6. BACKLOGGED :: 116.750%! ~~ 
+22:07:20.106 WARN  ~~ LOOPS: 12. ENTITY #: 637//264. VIEW #: 6. BACKLOGGED :: 161.500%! ~~ 
+22:07:21.235 WARN  ~~ LOOPS: 12. ENTITY #: 624//271. VIEW #: 6. BACKLOGGED :: 187.000%! ~~ 
+22:07:22.242 WARN  ~~ LOOPS: 13. ENTITY #: 594//241. VIEW #: 6. BACKLOGGED :: 100.846%! ~~ 
+22:07:23.249 WARN  ~~ LOOPS: 13. ENTITY #: 584//234. VIEW #: 6. BACKLOGGED :: 126.000%! ~~ 
+22:07:25.294 WARN  ~~ LOOPS: 13. ENTITY #: 596//263. VIEW #: 6. BACKLOGGED :: 137.769%! ~~ 
+22:07:26.314 WARN  ~~ LOOPS: 13. ENTITY #: 604//275. VIEW #: 6. BACKLOGGED :: 124.615%! ~~ 
+22:07:27.448 WARN  ~~ LOOPS: 10. ENTITY #: 583//273. VIEW #: 6. BACKLOGGED :: 153.000%! ~~ 
+22:07:28.453 WARN  ~~ LOOPS: 13. ENTITY #: 591//280. VIEW #: 6. BACKLOGGED :: 125.308%! ~~ 
+22:07:29.469 WARN  ~~ LOOPS: 12. ENTITY #: 607//305. VIEW #: 6. BACKLOGGED :: 149.750%! ~~ 
+22:07:30.616 WARN  ~~ LOOPS: 13. ENTITY #: 604//312. VIEW #: 6. BACKLOGGED :: 123.923%! ~~ 
+22:07:31.647 WARN  ~~ LOOPS: 13. ENTITY #: 601//310. VIEW #: 6. BACKLOGGED :: 107.077%! ~~ 
+22:07:32.656 WARN  ~~ LOOPS: 12. ENTITY #: 603//305. VIEW #: 6. BACKLOGGED :: 132.250%! ~~ 
+22:07:33.688 WARN  ~~ LOOPS: 13. ENTITY #: 581//294. VIEW #: 6. BACKLOGGED :: 132.231%! ~~ 
+22:07:34.697 WARN  ~~ LOOPS: 13. ENTITY #: 567//274. VIEW #: 6. BACKLOGGED :: 126.692%! ~~ 
+22:07:35.714 WARN  ~~ LOOPS: 14. ENTITY #: 558//257. VIEW #: 6. BACKLOGGED :: 113.357%! ~~ 
+22:07:36.823 WARN  ~~ LOOPS: 12. ENTITY #: 552//248. VIEW #: 6. BACKLOGGED :: 134.000%! ~~ 
+22:07:38.869 WARN  ~~ LOOPS: 14. ENTITY #: 500//209. VIEW #: 6. BACKLOGGED :: 109.071%! ~~ 
+22:07:48.061 WARN  ~~ LOOPS: 8. ENTITY #: 507//177. VIEW #: 6. BACKLOGGED :: 228.750%! ~~ 
+22:08:29.928 WARN  ~~ LOOPS: 14. ENTITY #: 506//156. VIEW #: 5. BACKLOGGED :: 100.714%! ~~ 
+22:09:11.915 WARN  ~~ LOOPS: 14. ENTITY #: 547//224. VIEW #: 5. BACKLOGGED :: 113.143%! ~~ 
+22:09:14.047 WARN  ~~ LOOPS: 14. ENTITY #: 552//246. VIEW #: 5. BACKLOGGED :: 114.214%! ~~ 
+22:09:15.061 WARN  ~~ LOOPS: 13. ENTITY #: 557//257. VIEW #: 5. BACKLOGGED :: 129.000%! ~~ 
+22:09:16.090 WARN  ~~ LOOPS: 14. ENTITY #: 543//261. VIEW #: 5. BACKLOGGED :: 121.500%! ~~ 
+22:09:18.133 WARN  ~~ LOOPS: 15. ENTITY #: 505//238. VIEW #: 5. BACKLOGGED :: 106.600%! ~~ 
+22:09:20.223 WARN  ~~ LOOPS: 13. ENTITY #: 508//212. VIEW #: 5. BACKLOGGED :: 115.385%! ~~ 
+22:09:22.261 WARN  ~~ LOOPS: 13. ENTITY #: 528//230. VIEW #: 4. BACKLOGGED :: 116.769%! ~~ 
+22:09:41.688 WARN  ~~ LOOPS: 12. ENTITY #: 516//168. VIEW #: 5. BACKLOGGED :: 131.250%! ~~ 
+22:10:15.162 WARN  ~~ LOOPS: 14. ENTITY #: 529//175. VIEW #: 5. BACKLOGGED :: 109.714%! ~~ 
+22:10:19.270 WARN  ~~ LOOPS: 14. ENTITY #: 554//218. VIEW #: 5. BACKLOGGED :: 108.857%! ~~ 
+22:10:20.293 WARN  ~~ LOOPS: 15. ENTITY #: 538//222. VIEW #: 4. BACKLOGGED :: 106.800%! ~~ 
+22:10:21.305 WARN  ~~ LOOPS: 13. ENTITY #: 557//195. VIEW #: 4. BACKLOGGED :: 109.846%! ~~ 
+22:10:32.695 WARN  ~~ LOOPS: 15. ENTITY #: 579//224. VIEW #: 5. BACKLOGGED :: 107.200%! ~~ 
+22:10:34.724 WARN  ~~ LOOPS: 13. ENTITY #: 622//249. VIEW #: 4. BACKLOGGED :: 118.385%! ~~ 
+22:10:35.843 WARN  ~~ LOOPS: 15. ENTITY #: 651//282. VIEW #: 5. BACKLOGGED :: 102.000%! ~~ 
+22:10:36.851 WARN  ~~ LOOPS: 12. ENTITY #: 643//297. VIEW #: 5. BACKLOGGED :: 137.500%! ~~ 
+22:10:37.866 WARN  ~~ LOOPS: 11. ENTITY #: 665//306. VIEW #: 5. BACKLOGGED :: 132.818%! ~~ 
+22:10:38.879 WARN  ~~ LOOPS: 11. ENTITY #: 626//286. VIEW #: 5. BACKLOGGED :: 169.364%! ~~ 
+22:10:39.894 WARN  ~~ LOOPS: 13. ENTITY #: 647//282. VIEW #: 5. BACKLOGGED :: 113.077%! ~~ 
+22:10:41.026 WARN  ~~ LOOPS: 10. ENTITY #: 652//294. VIEW #: 5. BACKLOGGED :: 190.800%! ~~ 
+22:10:42.056 WARN  ~~ LOOPS: 13. ENTITY #: 635//277. VIEW #: 4. BACKLOGGED :: 102.462%! ~~ 
+22:14:44.938 WARN  ~~ LOOPS: 14. ENTITY #: 572//135. VIEW #: 13. BACKLOGGED :: 101.357%! ~~ 
+22:14:58.434 WARN  ~~ LOOPS: 16. ENTITY #: 525//66. VIEW #: 15. BACKLOGGED :: 107.250%! ~~ 
+22:15:40.300 WARN  ~~ LOOPS: 12. ENTITY #: 559//172. VIEW #: 17. BACKLOGGED :: 124.250%! ~~ 
+22:16:03.916 WARN  ~~ LOOPS: 13. ENTITY #: 545//155. VIEW #: 21. BACKLOGGED :: 110.538%! ~~ 
+22:16:10.112 WARN  ~~ LOOPS: 13. ENTITY #: 536//142. VIEW #: 21. BACKLOGGED :: 113.538%! ~~ 
+22:16:11.223 WARN  ~~ LOOPS: 14. ENTITY #: 542//139. VIEW #: 22. BACKLOGGED :: 100.929%! ~~ 
+22:16:12.242 WARN  ~~ LOOPS: 15. ENTITY #: 537//139. VIEW #: 23. BACKLOGGED :: 100.600%! ~~ 
+22:16:14.291 WARN  ~~ LOOPS: 14. ENTITY #: 542//138. VIEW #: 23. BACKLOGGED :: 104.571%! ~~ 
+22:16:19.467 WARN  ~~ LOOPS: 12. ENTITY #: 534//129. VIEW #: 24. BACKLOGGED :: 113.500%! ~~ 
+22:16:24.634 WARN  ~~ LOOPS: 13. ENTITY #: 550//143. VIEW #: 26. BACKLOGGED :: 148.615%! ~~ 
+22:16:37.017 WARN  ~~ LOOPS: 14. ENTITY #: 560//143. VIEW #: 25. BACKLOGGED :: 120.643%! ~~ 
+22:16:38.032 WARN  ~~ LOOPS: 14. ENTITY #: 556//152. VIEW #: 26. BACKLOGGED :: 108.214%! ~~ 
+22:16:40.067 WARN  ~~ LOOPS: 11. ENTITY #: 554//169. VIEW #: 26. BACKLOGGED :: 105.000%! ~~ 
+22:16:46.259 WARN  ~~ LOOPS: 13. ENTITY #: 557//156. VIEW #: 26. BACKLOGGED :: 113.077%! ~~ 
+22:16:49.420 WARN  ~~ LOOPS: 13. ENTITY #: 553//159. VIEW #: 26. BACKLOGGED :: 121.154%! ~~ 
+22:16:53.488 WARN  ~~ LOOPS: 9. ENTITY #: 583//184. VIEW #: 27. BACKLOGGED :: 157.667%! ~~ 
+22:16:54.506 WARN  ~~ LOOPS: 11. ENTITY #: 584//192. VIEW #: 27. BACKLOGGED :: 131.182%! ~~ 
+22:16:55.529 WARN  ~~ LOOPS: 13. ENTITY #: 582//182. VIEW #: 27. BACKLOGGED :: 123.462%! ~~ 
+22:16:56.628 WARN  ~~ LOOPS: 12. ENTITY #: 574//178. VIEW #: 28. BACKLOGGED :: 117.500%! ~~ 
+22:16:59.708 WARN  ~~ LOOPS: 12. ENTITY #: 565//162. VIEW #: 28. BACKLOGGED :: 115.750%! ~~ 
+22:17:02.867 WARN  ~~ LOOPS: 10. ENTITY #: 578//169. VIEW #: 29. BACKLOGGED :: 110.100%! ~~ 
+22:17:04.024 WARN  ~~ LOOPS: 11. ENTITY #: 587//179. VIEW #: 30. BACKLOGGED :: 142.909%! ~~ 
+22:17:06.065 WARN  ~~ LOOPS: 11. ENTITY #: 580//180. VIEW #: 30. BACKLOGGED :: 129.000%! ~~ 
+22:17:07.231 WARN  ~~ LOOPS: 10. ENTITY #: 586//174. VIEW #: 30. BACKLOGGED :: 106.500%! ~~ 
+22:17:08.247 WARN  ~~ LOOPS: 11. ENTITY #: 576//174. VIEW #: 30. BACKLOGGED :: 157.636%! ~~ 
+22:17:09.280 WARN  ~~ LOOPS: 12. ENTITY #: 586//173. VIEW #: 30. BACKLOGGED :: 119.750%! ~~ 
+22:17:10.291 WARN  ~~ LOOPS: 11. ENTITY #: 589//176. VIEW #: 31. BACKLOGGED :: 153.545%! ~~ 
+22:17:11.419 WARN  ~~ LOOPS: 11. ENTITY #: 600//190. VIEW #: 31. BACKLOGGED :: 159.545%! ~~ 
+22:17:13.471 WARN  ~~ LOOPS: 10. ENTITY #: 603//194. VIEW #: 31. BACKLOGGED :: 150.000%! ~~ 
+22:17:14.487 WARN  ~~ LOOPS: 10. ENTITY #: 611//198. VIEW #: 31. BACKLOGGED :: 148.800%! ~~ 
+22:17:15.511 WARN  ~~ LOOPS: 11. ENTITY #: 620//209. VIEW #: 31. BACKLOGGED :: 144.545%! ~~ 
+22:17:17.692 WARN  ~~ LOOPS: 8. ENTITY #: 645//239. VIEW #: 31. BACKLOGGED :: 196.500%! ~~ 
+22:17:18.831 WARN  ~~ LOOPS: 10. ENTITY #: 641//250. VIEW #: 31. BACKLOGGED :: 182.100%! ~~ 
+22:17:19.858 WARN  ~~ LOOPS: 10. ENTITY #: 620//236. VIEW #: 31. BACKLOGGED :: 208.500%! ~~ 
+22:17:21.018 WARN  ~~ LOOPS: 9. ENTITY #: 622//231. VIEW #: 31. BACKLOGGED :: 159.333%! ~~ 
+22:17:22.051 WARN  ~~ LOOPS: 10. ENTITY #: 622//226. VIEW #: 31. BACKLOGGED :: 177.900%! ~~ 
+22:17:23.069 WARN  ~~ LOOPS: 10. ENTITY #: 625//235. VIEW #: 31. BACKLOGGED :: 118.200%! ~~ 
+22:17:24.090 WARN  ~~ LOOPS: 9. ENTITY #: 632//251. VIEW #: 31. BACKLOGGED :: 118.000%! ~~ 
+22:17:25.246 WARN  ~~ LOOPS: 10. ENTITY #: 621//266. VIEW #: 31. BACKLOGGED :: 181.200%! ~~ 
+22:17:26.416 WARN  ~~ LOOPS: 6. ENTITY #: 639//268. VIEW #: 31. BACKLOGGED :: 397.500%! ~~ 
+22:17:27.473 WARN  ~~ LOOPS: 7. ENTITY #: 654//290. VIEW #: 31. BACKLOGGED :: 190.286%! ~~ 
+22:17:28.620 WARN  ~~ LOOPS: 8. ENTITY #: 630//272. VIEW #: 31. BACKLOGGED :: 244.125%! ~~ 
+22:17:29.671 WARN  ~~ LOOPS: 9. ENTITY #: 631//291. VIEW #: 31. BACKLOGGED :: 147.333%! ~~ 
+22:17:30.824 WARN  ~~ LOOPS: 9. ENTITY #: 640//297. VIEW #: 31. BACKLOGGED :: 180.000%! ~~ 
+22:17:31.875 WARN  ~~ LOOPS: 9. ENTITY #: 651//315. VIEW #: 31. BACKLOGGED :: 194.333%! ~~ 
+22:17:33.021 WARN  ~~ LOOPS: 8. ENTITY #: 631//309. VIEW #: 31. BACKLOGGED :: 247.875%! ~~ 
+22:17:34.057 WARN  ~~ LOOPS: 6. ENTITY #: 618//301. VIEW #: 31. BACKLOGGED :: 216.000%! ~~ 
+22:17:35.076 WARN  ~~ LOOPS: 8. ENTITY #: 621//279. VIEW #: 31. BACKLOGGED :: 238.125%! ~~ 
+22:17:36.111 WARN  ~~ LOOPS: 9. ENTITY #: 596//276. VIEW #: 31. BACKLOGGED :: 184.000%! ~~ 
+22:17:37.223 WARN  ~~ LOOPS: 10. ENTITY #: 607//257. VIEW #: 31. BACKLOGGED :: 154.200%! ~~ 
+22:17:38.270 WARN  ~~ LOOPS: 9. ENTITY #: 607//262. VIEW #: 32. BACKLOGGED :: 113.000%! ~~ 
+22:17:39.429 WARN  ~~ LOOPS: 9. ENTITY #: 599//259. VIEW #: 32. BACKLOGGED :: 211.000%! ~~ 
+22:17:40.463 WARN  ~~ LOOPS: 10. ENTITY #: 591//254. VIEW #: 32. BACKLOGGED :: 129.600%! ~~ 
+22:17:41.501 WARN  ~~ LOOPS: 10. ENTITY #: 590//243. VIEW #: 32. BACKLOGGED :: 157.200%! ~~ 
+22:17:42.624 WARN  ~~ LOOPS: 7. ENTITY #: 597//263. VIEW #: 32. BACKLOGGED :: 166.714%! ~~ 
+22:17:43.655 WARN  ~~ LOOPS: 10. ENTITY #: 607//261. VIEW #: 32. BACKLOGGED :: 209.700%! ~~ 
+22:17:44.672 WARN  ~~ LOOPS: 9. ENTITY #: 606//268. VIEW #: 32. BACKLOGGED :: 117.000%! ~~ 
+22:17:45.838 WARN  ~~ LOOPS: 11. ENTITY #: 574//239. VIEW #: 32. BACKLOGGED :: 169.909%! ~~ 
+22:17:46.849 WARN  ~~ LOOPS: 7. ENTITY #: 566//219. VIEW #: 32. BACKLOGGED :: 222.429%! ~~ 
+22:17:47.855 WARN  ~~ LOOPS: 9. ENTITY #: 576//228. VIEW #: 32. BACKLOGGED :: 163.667%! ~~ 
+22:17:48.855 WARN  ~~ LOOPS: 9. ENTITY #: 592//232. VIEW #: 31. BACKLOGGED :: 196.333%! ~~ 
+22:17:49.890 WARN  ~~ LOOPS: 11. ENTITY #: 606//252. VIEW #: 31. BACKLOGGED :: 158.727%! ~~ 
+22:17:51.033 WARN  ~~ LOOPS: 8. ENTITY #: 613//251. VIEW #: 31. BACKLOGGED :: 119.250%! ~~ 
+22:17:52.073 WARN  ~~ LOOPS: 9. ENTITY #: 583//212. VIEW #: 30. BACKLOGGED :: 173.000%! ~~ 
+22:17:53.088 WARN  ~~ LOOPS: 10. ENTITY #: 586//205. VIEW #: 30. BACKLOGGED :: 163.500%! ~~ 
+22:17:54.099 WARN  ~~ LOOPS: 10. ENTITY #: 600//211. VIEW #: 30. BACKLOGGED :: 116.400%! ~~ 
+22:17:55.256 WARN  ~~ LOOPS: 9. ENTITY #: 607//214. VIEW #: 30. BACKLOGGED :: 122.333%! ~~ 
+22:17:56.262 WARN  ~~ LOOPS: 10. ENTITY #: 596//211. VIEW #: 30. BACKLOGGED :: 176.700%! ~~ 
+22:17:57.294 WARN  ~~ LOOPS: 11. ENTITY #: 572//183. VIEW #: 30. BACKLOGGED :: 135.818%! ~~ 
+22:18:00.479 WARN  ~~ LOOPS: 9. ENTITY #: 586//194. VIEW #: 31. BACKLOGGED :: 169.333%! ~~ 
+22:18:02.647 WARN  ~~ LOOPS: 10. ENTITY #: 607//212. VIEW #: 31. BACKLOGGED :: 203.700%! ~~ 
+22:18:03.663 WARN  ~~ LOOPS: 11. ENTITY #: 608//201. VIEW #: 31. BACKLOGGED :: 154.091%! ~~ 
+22:18:04.695 WARN  ~~ LOOPS: 11. ENTITY #: 612//209. VIEW #: 31. BACKLOGGED :: 156.000%! ~~ 
+22:18:05.822 WARN  ~~ LOOPS: 11. ENTITY #: 612//211. VIEW #: 31. BACKLOGGED :: 136.364%! ~~ 
+22:18:06.845 WARN  ~~ LOOPS: 12. ENTITY #: 586//188. VIEW #: 31. BACKLOGGED :: 126.750%! ~~ 
+22:18:07.039 ERROR [ERROR] Detected an NaN position! 
+22:18:07.868 WARN  ~~ LOOPS: 11. ENTITY #: 565//173. VIEW #: 31. BACKLOGGED :: 101.727%! ~~ 
+22:18:09.910 WARN  ~~ LOOPS: 12. ENTITY #: 587//176. VIEW #: 31. BACKLOGGED :: 107.000%! ~~ 
+22:18:12.041 WARN  ~~ LOOPS: 13. ENTITY #: 601//198. VIEW #: 31. BACKLOGGED :: 120.692%! ~~ 
+22:18:14.073 WARN  ~~ LOOPS: 12. ENTITY #: 595//190. VIEW #: 31. BACKLOGGED :: 119.500%! ~~ 
+22:18:16.111 WARN  ~~ LOOPS: 12. ENTITY #: 597//191. VIEW #: 31. BACKLOGGED :: 120.000%! ~~ 
+22:18:17.226 WARN  ~~ LOOPS: 12. ENTITY #: 602//188. VIEW #: 31. BACKLOGGED :: 123.750%! ~~ 
+22:18:18.240 WARN  ~~ LOOPS: 11. ENTITY #: 608//199. VIEW #: 31. BACKLOGGED :: 178.909%! ~~ 
+22:18:19.256 WARN  ~~ LOOPS: 11. ENTITY #: 606//200. VIEW #: 31. BACKLOGGED :: 156.273%! ~~ 
+22:18:20.287 WARN  ~~ LOOPS: 12. ENTITY #: 596//190. VIEW #: 31. BACKLOGGED :: 148.500%! ~~ 
+22:18:21.308 WARN  ~~ LOOPS: 11. ENTITY #: 607//189. VIEW #: 31. BACKLOGGED :: 128.455%! ~~ 
+22:18:23.444 WARN  ~~ LOOPS: 11. ENTITY #: 601//191. VIEW #: 30. BACKLOGGED :: 181.364%! ~~ 
+22:18:24.463 WARN  ~~ LOOPS: 11. ENTITY #: 601//196. VIEW #: 30. BACKLOGGED :: 127.909%! ~~ 
+22:18:25.479 WARN  ~~ LOOPS: 12. ENTITY #: 601//198. VIEW #: 30. BACKLOGGED :: 138.000%! ~~ 
+22:18:26.505 WARN  ~~ LOOPS: 13. ENTITY #: 570//167. VIEW #: 30. BACKLOGGED :: 111.000%! ~~ 
+22:18:27.615 WARN  ~~ LOOPS: 11. ENTITY #: 576//161. VIEW #: 30. BACKLOGGED :: 155.727%! ~~ 
+22:18:28.663 WARN  ~~ LOOPS: 14. ENTITY #: 574//163. VIEW #: 30. BACKLOGGED :: 100.071%! ~~ 
+22:18:30.701 WARN  ~~ LOOPS: 12. ENTITY #: 567//158. VIEW #: 30. BACKLOGGED :: 116.500%! ~~ 
+22:18:31.821 WARN  ~~ LOOPS: 13. ENTITY #: 573//160. VIEW #: 30. BACKLOGGED :: 119.077%! ~~ 
+22:18:33.864 WARN  ~~ LOOPS: 13. ENTITY #: 565//157. VIEW #: 30. BACKLOGGED :: 104.308%! ~~ 
+22:18:38.015 WARN  ~~ LOOPS: 14. ENTITY #: 557//142. VIEW #: 30. BACKLOGGED :: 118.929%! ~~ 
+22:18:41.060 WARN  ~~ LOOPS: 14. ENTITY #: 550//136. VIEW #: 30. BACKLOGGED :: 101.143%! ~~ 
+22:18:58.516 WARN  ~~ LOOPS: 13. ENTITY #: 556//132. VIEW #: 30. BACKLOGGED :: 112.385%! ~~ 
+22:19:10.060 WARN  ~~ LOOPS: 14. ENTITY #: 562//122. VIEW #: 29. BACKLOGGED :: 122.571%! ~~ 
+22:19:24.490 WARN  ~~ LOOPS: 15. ENTITY #: 567//127. VIEW #: 30. BACKLOGGED :: 104.400%! ~~ 
+22:19:26.531 WARN  ~~ LOOPS: 12. ENTITY #: 568//126. VIEW #: 30. BACKLOGGED :: 133.500%! ~~ 
+22:19:31.718 WARN  ~~ LOOPS: 10. ENTITY #: 567//121. VIEW #: 30. BACKLOGGED :: 130.800%! ~~ 
+22:19:36.030 WARN  ~~ LOOPS: 12. ENTITY #: 589//195. VIEW #: 30. BACKLOGGED :: 139.750%! ~~ 
+22:19:37.050 WARN  ~~ LOOPS: 7. ENTITY #: 606//249. VIEW #: 29. BACKLOGGED :: 119.571%! ~~ 
+22:19:38.074 WARN  ~~ LOOPS: 9. ENTITY #: 621//251. VIEW #: 29. BACKLOGGED :: 197.333%! ~~ 
+22:19:39.218 WARN  ~~ LOOPS: 11. ENTITY #: 640//270. VIEW #: 29. BACKLOGGED :: 100.364%! ~~ 
+22:19:40.238 WARN  ~~ LOOPS: 11. ENTITY #: 643//287. VIEW #: 29. BACKLOGGED :: 156.000%! ~~ 
+22:19:41.259 WARN  ~~ LOOPS: 7. ENTITY #: 654//281. VIEW #: 29. BACKLOGGED :: 214.714%! ~~ 
+22:19:42.282 WARN  ~~ LOOPS: 9. ENTITY #: 663//296. VIEW #: 29. BACKLOGGED :: 111.000%! ~~ 
+22:19:43.417 WARN  ~~ LOOPS: 9. ENTITY #: 669//290. VIEW #: 29. BACKLOGGED :: 241.000%! ~~ 
+22:19:44.626 WARN  ~~ LOOPS: 9. ENTITY #: 673//309. VIEW #: 29. BACKLOGGED :: 172.667%! ~~ 
+22:19:45.660 WARN  ~~ LOOPS: 8. ENTITY #: 683//310. VIEW #: 29. BACKLOGGED :: 198.375%! ~~ 
+22:19:46.683 WARN  ~~ LOOPS: 8. ENTITY #: 688//328. VIEW #: 29. BACKLOGGED :: 209.625%! ~~ 
+22:19:47.832 WARN  ~~ LOOPS: 7. ENTITY #: 694//324. VIEW #: 29. BACKLOGGED :: 288.857%! ~~ 
+22:19:49.041 WARN  ~~ LOOPS: 8. ENTITY #: 705//339. VIEW #: 29. BACKLOGGED :: 210.375%! ~~ 
+22:19:50.069 WARN  ~~ LOOPS: 7. ENTITY #: 701//332. VIEW #: 30. BACKLOGGED :: 189.000%! ~~ 
+22:19:51.215 WARN  ~~ LOOPS: 8. ENTITY #: 692//331. VIEW #: 30. BACKLOGGED :: 209.250%! ~~ 
+22:19:52.270 WARN  ~~ LOOPS: 7. ENTITY #: 694//334. VIEW #: 30. BACKLOGGED :: 221.143%! ~~ 
+22:19:53.298 WARN  ~~ LOOPS: 9. ENTITY #: 697//332. VIEW #: 30. BACKLOGGED :: 205.333%! ~~ 
+22:19:54.437 WARN  ~~ LOOPS: 10. ENTITY #: 702//335. VIEW #: 30. BACKLOGGED :: 180.300%! ~~ 
+22:19:55.466 WARN  ~~ LOOPS: 9. ENTITY #: 669//308. VIEW #: 31. BACKLOGGED :: 208.000%! ~~ 
+22:19:56.493 WARN  ~~ LOOPS: 8. ENTITY #: 672//305. VIEW #: 31. BACKLOGGED :: 208.500%! ~~ 
+22:19:57.647 WARN  ~~ LOOPS: 9. ENTITY #: 676//306. VIEW #: 31. BACKLOGGED :: 257.667%! ~~ 
+22:19:58.672 WARN  ~~ LOOPS: 9. ENTITY #: 676//316. VIEW #: 31. BACKLOGGED :: 150.000%! ~~ 
+22:19:59.843 WARN  ~~ LOOPS: 8. ENTITY #: 671//310. VIEW #: 32. BACKLOGGED :: 126.375%! ~~ 
+22:20:00.872 WARN  ~~ LOOPS: 8. ENTITY #: 676//313. VIEW #: 32. BACKLOGGED :: 237.750%! ~~ 
+22:20:02.022 WARN  ~~ LOOPS: 9. ENTITY #: 664//295. VIEW #: 32. BACKLOGGED :: 214.667%! ~~ 
+22:20:03.046 WARN  ~~ LOOPS: 9. ENTITY #: 673//301. VIEW #: 32. BACKLOGGED :: 211.667%! ~~ 
+22:20:04.075 WARN  ~~ LOOPS: 8. ENTITY #: 673//301. VIEW #: 31. BACKLOGGED :: 200.250%! ~~ 
+22:20:05.226 WARN  ~~ LOOPS: 9. ENTITY #: 677//310. VIEW #: 31. BACKLOGGED :: 163.333%! ~~ 
+22:20:06.250 WARN  ~~ LOOPS: 9. ENTITY #: 677//307. VIEW #: 31. BACKLOGGED :: 240.000%! ~~ 
+22:20:07.274 WARN  ~~ LOOPS: 9. ENTITY #: 678//307. VIEW #: 31. BACKLOGGED :: 171.667%! ~~ 
+22:20:08.441 WARN  ~~ LOOPS: 10. ENTITY #: 693//314. VIEW #: 31. BACKLOGGED :: 178.800%! ~~ 
+22:20:09.464 WARN  ~~ LOOPS: 6. ENTITY #: 702//320. VIEW #: 31. BACKLOGGED :: 190.000%! ~~ 
+22:20:10.625 WARN  ~~ LOOPS: 9. ENTITY #: 697//328. VIEW #: 31. BACKLOGGED :: 256.333%! ~~ 
+22:20:11.668 WARN  ~~ LOOPS: 9. ENTITY #: 709//327. VIEW #: 31. BACKLOGGED :: 207.667%! ~~ 
+22:20:12.824 WARN  ~~ LOOPS: 9. ENTITY #: 707//333. VIEW #: 31. BACKLOGGED :: 219.667%! ~~ 
+22:20:13.860 WARN  ~~ LOOPS: 6. ENTITY #: 706//324. VIEW #: 31. BACKLOGGED :: 209.000%! ~~ 
+22:20:14.885 WARN  ~~ LOOPS: 8. ENTITY #: 705//329. VIEW #: 31. BACKLOGGED :: 216.750%! ~~ 
+22:20:16.045 WARN  ~~ LOOPS: 8. ENTITY #: 699//331. VIEW #: 31. BACKLOGGED :: 216.750%! ~~ 
+22:20:17.058 WARN  ~~ LOOPS: 8. ENTITY #: 704//326. VIEW #: 31. BACKLOGGED :: 126.750%! ~~ 
+22:20:18.082 WARN  ~~ LOOPS: 7. ENTITY #: 701//329. VIEW #: 31. BACKLOGGED :: 174.429%! ~~ 
+22:20:19.230 WARN  ~~ LOOPS: 8. ENTITY #: 694//322. VIEW #: 31. BACKLOGGED :: 174.750%! ~~ 
+22:20:20.278 WARN  ~~ LOOPS: 9. ENTITY #: 694//327. VIEW #: 31. BACKLOGGED :: 173.333%! ~~ 
+22:20:21.298 WARN  ~~ LOOPS: 8. ENTITY #: 690//326. VIEW #: 31. BACKLOGGED :: 202.125%! ~~ 
+22:20:22.454 WARN  ~~ LOOPS: 7. ENTITY #: 692//328. VIEW #: 31. BACKLOGGED :: 231.000%! ~~ 
+22:20:23.481 WARN  ~~ LOOPS: 8. ENTITY #: 700//318. VIEW #: 31. BACKLOGGED :: 200.250%! ~~ 
+22:20:24.643 WARN  ~~ LOOPS: 10. ENTITY #: 694//325. VIEW #: 31. BACKLOGGED :: 174.000%! ~~ 
+22:20:25.665 WARN  ~~ LOOPS: 9. ENTITY #: 693//318. VIEW #: 30. BACKLOGGED :: 105.667%! ~~ 
+22:20:26.704 WARN  ~~ LOOPS: 7. ENTITY #: 691//323. VIEW #: 30. BACKLOGGED :: 180.429%! ~~ 
+22:20:27.830 WARN  ~~ LOOPS: 10. ENTITY #: 695//314. VIEW #: 30. BACKLOGGED :: 174.900%! ~~ 
+22:20:28.873 WARN  ~~ LOOPS: 10. ENTITY #: 684//315. VIEW #: 29. BACKLOGGED :: 110.400%! ~~ 
+22:20:30.027 WARN  ~~ LOOPS: 10. ENTITY #: 691//312. VIEW #: 29. BACKLOGGED :: 207.900%! ~~ 
+22:20:31.065 WARN  ~~ LOOPS: 7. ENTITY #: 686//317. VIEW #: 28. BACKLOGGED :: 220.286%! ~~ 
+22:20:32.219 WARN  ~~ LOOPS: 8. ENTITY #: 682//307. VIEW #: 27. BACKLOGGED :: 237.375%! ~~ 
+22:20:33.258 WARN  ~~ LOOPS: 10. ENTITY #: 679//304. VIEW #: 27. BACKLOGGED :: 210.900%! ~~ 
+22:20:34.296 WARN  ~~ LOOPS: 10. ENTITY #: 676//295. VIEW #: 27. BACKLOGGED :: 210.600%! ~~ 
+22:20:35.430 WARN  ~~ LOOPS: 8. ENTITY #: 688//305. VIEW #: 27. BACKLOGGED :: 101.625%! ~~ 
+22:20:36.477 WARN  ~~ LOOPS: 12. ENTITY #: 676//304. VIEW #: 27. BACKLOGGED :: 156.250%! ~~ 
+22:20:37.624 WARN  ~~ LOOPS: 10. ENTITY #: 675//292. VIEW #: 26. BACKLOGGED :: 127.500%! ~~ 
+22:20:38.675 WARN  ~~ LOOPS: 10. ENTITY #: 671//295. VIEW #: 26. BACKLOGGED :: 115.200%! ~~ 
+22:20:39.681 WARN  ~~ LOOPS: 9. ENTITY #: 670//289. VIEW #: 25. BACKLOGGED :: 107.333%! ~~ 
+22:20:40.699 WARN  ~~ LOOPS: 10. ENTITY #: 671//291. VIEW #: 25. BACKLOGGED :: 178.500%! ~~ 
+22:20:41.829 WARN  ~~ LOOPS: 11. ENTITY #: 577//253. VIEW #: 24. BACKLOGGED :: 116.727%! ~~ 
+22:20:42.856 WARN  ~~ LOOPS: 14. ENTITY #: 572//145. VIEW #: 25. BACKLOGGED :: 110.143%! ~~ 
+22:20:43.877 WARN  ~~ LOOPS: 13. ENTITY #: 568//138. VIEW #: 24. BACKLOGGED :: 101.769%! ~~ 
+22:20:53.118 WARN  ~~ LOOPS: 13. ENTITY #: 559//120. VIEW #: 22. BACKLOGGED :: 108.692%! ~~ 
+22:21:22.483 ERROR [ERROR] Detected an NaN position! 
+22:21:23.226 ERROR [ERROR] Detected an NaN position! 
+22:21:23.366 ERROR [ERROR] Detected an NaN position! 
+22:21:23.761 ERROR [ERROR] Detected an NaN position! 
+22:21:25.712 ERROR [ERROR] Detected an NaN position! 
+22:26:51.735 WARN  ~~ LOOPS: 15. ENTITY #: 549//164. VIEW #: 7. BACKLOGGED :: 101.600%! ~~ 
+22:26:59.075 WARN  ~~ LOOPS: 13. ENTITY #: 596//218. VIEW #: 7. BACKLOGGED :: 116.769%! ~~ 
+22:27:00.093 WARN  ~~ LOOPS: 14. ENTITY #: 592//230. VIEW #: 7. BACKLOGGED :: 119.143%! ~~ 
+22:27:02.126 WARN  ~~ LOOPS: 14. ENTITY #: 591//237. VIEW #: 7. BACKLOGGED :: 104.786%! ~~ 
+22:27:03.223 WARN  ~~ LOOPS: 10. ENTITY #: 602//242. VIEW #: 7. BACKLOGGED :: 137.100%! ~~ 
+22:27:05.268 WARN  ~~ LOOPS: 13. ENTITY #: 598//239. VIEW #: 7. BACKLOGGED :: 107.308%! ~~ 
+22:27:06.291 WARN  ~~ LOOPS: 14. ENTITY #: 591//235. VIEW #: 7. BACKLOGGED :: 112.071%! ~~ 
+22:27:08.326 WARN  ~~ LOOPS: 11. ENTITY #: 595//243. VIEW #: 7. BACKLOGGED :: 103.636%! ~~ 
+22:27:09.427 WARN  ~~ LOOPS: 11. ENTITY #: 598//242. VIEW #: 7. BACKLOGGED :: 157.909%! ~~ 
+22:27:10.468 WARN  ~~ LOOPS: 11. ENTITY #: 595//247. VIEW #: 7. BACKLOGGED :: 164.182%! ~~ 
+22:27:11.502 WARN  ~~ LOOPS: 13. ENTITY #: 600//244. VIEW #: 7. BACKLOGGED :: 128.308%! ~~ 
+22:27:12.615 WARN  ~~ LOOPS: 13. ENTITY #: 596//247. VIEW #: 7. BACKLOGGED :: 122.077%! ~~ 
+22:27:15.860 WARN  ~~ LOOPS: 13. ENTITY #: 610//251. VIEW #: 6. BACKLOGGED :: 131.538%! ~~ 
+22:27:19.029 WARN  ~~ LOOPS: 15. ENTITY #: 573//224. VIEW #: 5. BACKLOGGED :: 100.400%! ~~ 
+22:27:20.068 WARN  ~~ LOOPS: 11. ENTITY #: 578//231. VIEW #: 5. BACKLOGGED :: 115.091%! ~~ 
+22:27:21.101 WARN  ~~ LOOPS: 11. ENTITY #: 575//232. VIEW #: 5. BACKLOGGED :: 181.909%! ~~ 
+22:27:22.121 WARN  ~~ LOOPS: 12. ENTITY #: 573//229. VIEW #: 5. BACKLOGGED :: 140.000%! ~~ 
+22:27:49.027 WARN  ~~ LOOPS: 12. ENTITY #: 613//266. VIEW #: 3. BACKLOGGED :: 140.250%! ~~ 
+22:27:50.048 WARN  ~~ LOOPS: 7. ENTITY #: 596//293. VIEW #: 3. BACKLOGGED :: 219.857%! ~~ 
+22:27:51.067 WARN  ~~ LOOPS: 10. ENTITY #: 602//279. VIEW #: 3. BACKLOGGED :: 198.300%! ~~ 
+22:27:52.222 WARN  ~~ LOOPS: 13. ENTITY #: 619//300. VIEW #: 3. BACKLOGGED :: 159.923%! ~~ 
+22:27:53.247 WARN  ~~ LOOPS: 11. ENTITY #: 620//313. VIEW #: 3. BACKLOGGED :: 177.000%! ~~ 
+22:27:54.247 WARN  ~~ LOOPS: 11. ENTITY #: 615//281. VIEW #: 3. BACKLOGGED :: 151.091%! ~~ 
+22:27:55.255 WARN  ~~ LOOPS: 9. ENTITY #: 611//281. VIEW #: 3. BACKLOGGED :: 125.667%! ~~ 
+22:27:56.264 WARN  ~~ LOOPS: 11. ENTITY #: 615//307. VIEW #: 3. BACKLOGGED :: 156.000%! ~~ 
+22:27:57.418 WARN  ~~ LOOPS: 12. ENTITY #: 625//308. VIEW #: 3. BACKLOGGED :: 161.500%! ~~ 
+22:27:58.456 WARN  ~~ LOOPS: 13. ENTITY #: 614//296. VIEW #: 3. BACKLOGGED :: 117.231%! ~~ 
+22:27:59.499 WARN  ~~ LOOPS: 13. ENTITY #: 602//297. VIEW #: 3. BACKLOGGED :: 132.692%! ~~ 
+22:28:00.505 WARN  ~~ LOOPS: 9. ENTITY #: 606//291. VIEW #: 3. BACKLOGGED :: 121.333%! ~~ 
+22:28:01.525 WARN  ~~ LOOPS: 12. ENTITY #: 603//288. VIEW #: 3. BACKLOGGED :: 142.750%! ~~ 
+22:28:02.628 WARN  ~~ LOOPS: 12. ENTITY #: 625//316. VIEW #: 3. BACKLOGGED :: 139.000%! ~~ 
+22:28:03.651 WARN  ~~ LOOPS: 12. ENTITY #: 631//321. VIEW #: 3. BACKLOGGED :: 130.750%! ~~ 
+22:28:04.843 WARN  ~~ LOOPS: 11. ENTITY #: 632//323. VIEW #: 3. BACKLOGGED :: 173.727%! ~~ 
+22:28:05.866 WARN  ~~ LOOPS: 11. ENTITY #: 654//330. VIEW #: 3. BACKLOGGED :: 147.545%! ~~ 
+22:28:06.910 WARN  ~~ LOOPS: 11. ENTITY #: 688//372. VIEW #: 3. BACKLOGGED :: 135.545%! ~~ 
+22:28:08.033 WARN  ~~ LOOPS: 10. ENTITY #: 699//401. VIEW #: 3. BACKLOGGED :: 137.100%! ~~ 
+22:28:09.069 WARN  ~~ LOOPS: 10. ENTITY #: 691//416. VIEW #: 3. BACKLOGGED :: 210.600%! ~~ 
+22:28:10.223 WARN  ~~ LOOPS: 8. ENTITY #: 717//415. VIEW #: 3. BACKLOGGED :: 283.875%! ~~ 
+22:28:11.255 WARN  ~~ LOOPS: 9. ENTITY #: 721//429. VIEW #: 3. BACKLOGGED :: 180.667%! ~~ 
+22:28:12.287 WARN  ~~ LOOPS: 8. ENTITY #: 728//431. VIEW #: 3. BACKLOGGED :: 213.000%! ~~ 
+22:28:13.435 WARN  ~~ LOOPS: 9. ENTITY #: 742//457. VIEW #: 3. BACKLOGGED :: 219.333%! ~~ 
+22:28:14.464 WARN  ~~ LOOPS: 10. ENTITY #: 741//453. VIEW #: 3. BACKLOGGED :: 208.200%! ~~ 
+22:28:15.623 WARN  ~~ LOOPS: 7. ENTITY #: 757//460. VIEW #: 3. BACKLOGGED :: 203.571%! ~~ 
+22:28:16.666 WARN  ~~ LOOPS: 9. ENTITY #: 763//464. VIEW #: 3. BACKLOGGED :: 219.000%! ~~ 
+22:28:17.698 WARN  ~~ LOOPS: 9. ENTITY #: 749//461. VIEW #: 3. BACKLOGGED :: 187.000%! ~~ 
+22:28:18.850 WARN  ~~ LOOPS: 10. ENTITY #: 741//451. VIEW #: 3. BACKLOGGED :: 232.500%! ~~ 
+22:28:19.879 WARN  ~~ LOOPS: 7. ENTITY #: 757//457. VIEW #: 3. BACKLOGGED :: 204.857%! ~~ 
+22:28:21.243 WARN  ~~ LOOPS: 9. ENTITY #: 746//446. VIEW #: 3. BACKLOGGED :: 292.333%! ~~ 
+22:28:22.269 WARN  ~~ LOOPS: 8. ENTITY #: 732//446. VIEW #: 3. BACKLOGGED :: 246.000%! ~~ 
+22:28:23.293 WARN  ~~ LOOPS: 9. ENTITY #: 721//425. VIEW #: 3. BACKLOGGED :: 233.000%! ~~ 
+22:28:24.320 WARN  ~~ LOOPS: 10. ENTITY #: 689//406. VIEW #: 3. BACKLOGGED :: 207.900%! ~~ 
+22:28:25.445 WARN  ~~ LOOPS: 12. ENTITY #: 653//368. VIEW #: 3. BACKLOGGED :: 115.750%! ~~ 
+22:28:26.460 WARN  ~~ LOOPS: 12. ENTITY #: 618//341. VIEW #: 3. BACKLOGGED :: 138.750%! ~~ 
+22:28:27.499 WARN  ~~ LOOPS: 13. ENTITY #: 622//320. VIEW #: 3. BACKLOGGED :: 111.692%! ~~ 
+22:28:28.512 WARN  ~~ LOOPS: 13. ENTITY #: 621//314. VIEW #: 3. BACKLOGGED :: 108.000%! ~~ 
+22:28:29.631 WARN  ~~ LOOPS: 14. ENTITY #: 630//316. VIEW #: 3. BACKLOGGED :: 138.857%! ~~ 
+22:28:30.663 WARN  ~~ LOOPS: 13. ENTITY #: 598//319. VIEW #: 3. BACKLOGGED :: 114.000%! ~~ 
+22:28:31.663 WARN  ~~ LOOPS: 12. ENTITY #: 604//298. VIEW #: 3. BACKLOGGED :: 113.250%! ~~ 
+22:28:32.698 WARN  ~~ LOOPS: 14. ENTITY #: 610//301. VIEW #: 3. BACKLOGGED :: 116.357%! ~~ 
+22:28:33.699 WARN  ~~ LOOPS: 12. ENTITY #: 607//299. VIEW #: 3. BACKLOGGED :: 144.750%! ~~ 
+22:28:34.714 WARN  ~~ LOOPS: 13. ENTITY #: 585//295. VIEW #: 3. BACKLOGGED :: 130.154%! ~~ 
+22:28:35.749 WARN  ~~ LOOPS: 14. ENTITY #: 590//273. VIEW #: 3. BACKLOGGED :: 110.786%! ~~ 
+22:28:38.853 WARN  ~~ LOOPS: 14. ENTITY #: 568//221. VIEW #: 3. BACKLOGGED :: 112.071%! ~~ 
+22:28:39.912 WARN  ~~ LOOPS: 15. ENTITY #: 574//200. VIEW #: 3. BACKLOGGED :: 110.400%! ~~ 
+22:29:19.706 WARN  ~~ LOOPS: 13. ENTITY #: 562//171. VIEW #: 3. BACKLOGGED :: 124.615%! ~~ 
+22:29:21.846 WARN  ~~ LOOPS: 16. ENTITY #: 526//140. VIEW #: 3. BACKLOGGED :: 102.375%! ~~ 
+22:29:38.448 WARN  ~~ LOOPS: 15. ENTITY #: 588//245. VIEW #: 3. BACKLOGGED :: 111.400%! ~~ 
+22:29:39.468 WARN  ~~ LOOPS: 8. ENTITY #: 615//384. VIEW #: 3. BACKLOGGED :: 218.625%! ~~ 
+22:29:40.509 WARN  ~~ LOOPS: 10. ENTITY #: 629//411. VIEW #: 3. BACKLOGGED :: 212.700%! ~~ 
+22:29:41.632 WARN  ~~ LOOPS: 10. ENTITY #: 626//391. VIEW #: 3. BACKLOGGED :: 188.400%! ~~ 
+22:29:42.647 WARN  ~~ LOOPS: 10. ENTITY #: 645//426. VIEW #: 3. BACKLOGGED :: 196.800%! ~~ 
+22:29:43.815 WARN  ~~ LOOPS: 10. ENTITY #: 661//466. VIEW #: 3. BACKLOGGED :: 170.700%! ~~ 
+22:29:45.024 WARN  ~~ LOOPS: 6. ENTITY #: 665//514. VIEW #: 3. BACKLOGGED :: 172.500%! ~~ 
+22:29:46.051 WARN  ~~ LOOPS: 7. ENTITY #: 668//527. VIEW #: 3. BACKLOGGED :: 345.429%! ~~ 
+22:29:47.057 WARN  ~~ LOOPS: 7. ENTITY #: 686//543. VIEW #: 3. BACKLOGGED :: 296.571%! ~~ 
+22:29:48.082 WARN  ~~ LOOPS: 8. ENTITY #: 718//533. VIEW #: 3. BACKLOGGED :: 219.750%! ~~ 
+22:29:49.216 WARN  ~~ LOOPS: 6. ENTITY #: 758//548. VIEW #: 3. BACKLOGGED :: 288.000%! ~~ 
+22:29:50.268 WARN  ~~ LOOPS: 5. ENTITY #: 770//559. VIEW #: 3. BACKLOGGED :: 356.400%! ~~ 
+22:29:51.437 WARN  ~~ LOOPS: 6. ENTITY #: 784//563. VIEW #: 3. BACKLOGGED :: 371.000%! ~~ 
+22:29:52.463 WARN  ~~ LOOPS: 7. ENTITY #: 760//549. VIEW #: 3. BACKLOGGED :: 261.857%! ~~ 
+22:29:53.517 WARN  ~~ LOOPS: 7. ENTITY #: 759//539. VIEW #: 3. BACKLOGGED :: 353.571%! ~~ 
+22:29:54.663 WARN  ~~ LOOPS: 8. ENTITY #: 753//515. VIEW #: 3. BACKLOGGED :: 263.250%! ~~ 
+22:29:55.689 WARN  ~~ LOOPS: 5. ENTITY #: 716//505. VIEW #: 3. BACKLOGGED :: 361.200%! ~~ 
+22:29:56.825 WARN  ~~ LOOPS: 8. ENTITY #: 725//485. VIEW #: 3. BACKLOGGED :: 255.000%! ~~ 
+22:29:58.048 WARN  ~~ LOOPS: 9. ENTITY #: 717//482. VIEW #: 3. BACKLOGGED :: 283.000%! ~~ 
+22:29:59.068 WARN  ~~ LOOPS: 6. ENTITY #: 715//477. VIEW #: 3. BACKLOGGED :: 285.500%! ~~ 
+22:30:00.249 WARN  ~~ LOOPS: 9. ENTITY #: 726//484. VIEW #: 3. BACKLOGGED :: 274.333%! ~~ 
+22:30:01.469 WARN  ~~ LOOPS: 8. ENTITY #: 736//496. VIEW #: 3. BACKLOGGED :: 178.875%! ~~ 
+22:30:02.491 WARN  ~~ LOOPS: 7. ENTITY #: 715//490. VIEW #: 3. BACKLOGGED :: 303.000%! ~~ 
+22:30:03.639 WARN  ~~ LOOPS: 8. ENTITY #: 704//477. VIEW #: 3. BACKLOGGED :: 295.875%! ~~ 
+22:30:04.644 WARN  ~~ LOOPS: 8. ENTITY #: 707//467. VIEW #: 3. BACKLOGGED :: 243.000%! ~~ 
+22:30:05.659 WARN  ~~ LOOPS: 8. ENTITY #: 707//469. VIEW #: 3. BACKLOGGED :: 242.625%! ~~ 
+22:30:06.818 WARN  ~~ LOOPS: 9. ENTITY #: 667//432. VIEW #: 3. BACKLOGGED :: 207.000%! ~~ 
+22:30:07.853 WARN  ~~ LOOPS: 6. ENTITY #: 680//441. VIEW #: 3. BACKLOGGED :: 340.500%! ~~ 
+22:30:08.872 WARN  ~~ LOOPS: 8. ENTITY #: 668//428. VIEW #: 3. BACKLOGGED :: 271.875%! ~~ 
+22:30:09.922 WARN  ~~ LOOPS: 10. ENTITY #: 679//432. VIEW #: 3. BACKLOGGED :: 194.400%! ~~ 
+22:30:11.063 WARN  ~~ LOOPS: 10. ENTITY #: 678//430. VIEW #: 3. BACKLOGGED :: 144.300%! ~~ 
+22:30:12.068 WARN  ~~ LOOPS: 9. ENTITY #: 691//444. VIEW #: 3. BACKLOGGED :: 198.333%! ~~ 
+22:30:13.244 WARN  ~~ LOOPS: 9. ENTITY #: 661//415. VIEW #: 3. BACKLOGGED :: 222.333%! ~~ 
+22:30:14.260 WARN  ~~ LOOPS: 7. ENTITY #: 678//415. VIEW #: 3. BACKLOGGED :: 141.429%! ~~ 
+22:30:15.435 WARN  ~~ LOOPS: 9. ENTITY #: 662//403. VIEW #: 3. BACKLOGGED :: 243.000%! ~~ 
+22:30:16.464 WARN  ~~ LOOPS: 9. ENTITY #: 649//382. VIEW #: 3. BACKLOGGED :: 180.333%! ~~ 
+22:30:17.464 WARN  ~~ LOOPS: 10. ENTITY #: 547//258. VIEW #: 3. BACKLOGGED :: 177.000%! ~~ 
+22:30:36.856 WARN  ~~ LOOPS: 12. ENTITY #: 537//253. VIEW #: 3. BACKLOGGED :: 116.750%! ~~ 
+22:30:37.894 WARN  ~~ LOOPS: 15. ENTITY #: 547//253. VIEW #: 3. BACKLOGGED :: 106.000%! ~~ 
+22:30:38.895 WARN  ~~ LOOPS: 14. ENTITY #: 548//257. VIEW #: 3. BACKLOGGED :: 105.857%! ~~ 
+22:30:39.927 WARN  ~~ LOOPS: 15. ENTITY #: 552//262. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+22:30:43.047 WARN  ~~ LOOPS: 12. ENTITY #: 554//259. VIEW #: 3. BACKLOGGED :: 101.250%! ~~ 
+22:30:44.048 WARN  ~~ LOOPS: 13. ENTITY #: 561//265. VIEW #: 3. BACKLOGGED :: 122.538%! ~~ 
+22:30:45.084 WARN  ~~ LOOPS: 15. ENTITY #: 577//279. VIEW #: 3. BACKLOGGED :: 110.600%! ~~ 
+22:30:46.087 WARN  ~~ LOOPS: 13. ENTITY #: 580//285. VIEW #: 3. BACKLOGGED :: 103.615%! ~~ 
+22:30:48.243 WARN  ~~ LOOPS: 12. ENTITY #: 587//270. VIEW #: 3. BACKLOGGED :: 139.000%! ~~ 
+22:30:49.285 WARN  ~~ LOOPS: 13. ENTITY #: 596//270. VIEW #: 3. BACKLOGGED :: 117.462%! ~~ 
+22:30:50.291 WARN  ~~ LOOPS: 12. ENTITY #: 586//271. VIEW #: 3. BACKLOGGED :: 136.000%! ~~ 
+22:30:51.311 WARN  ~~ LOOPS: 12. ENTITY #: 592//267. VIEW #: 3. BACKLOGGED :: 152.500%! ~~ 
+22:30:52.345 WARN  ~~ LOOPS: 14. ENTITY #: 576//259. VIEW #: 3. BACKLOGGED :: 102.000%! ~~ 
+22:30:55.668 WARN  ~~ LOOPS: 12. ENTITY #: 583//244. VIEW #: 3. BACKLOGGED :: 134.000%! ~~ 
+22:30:56.682 WARN  ~~ LOOPS: 13. ENTITY #: 580//234. VIEW #: 3. BACKLOGGED :: 119.769%! ~~ 
+22:31:03.718 ERROR [ERROR] Detected an NaN position! 
+22:31:03.906 WARN  ~~ LOOPS: 14. ENTITY #: 566//281. VIEW #: 3. BACKLOGGED :: 104.571%! ~~ 
+22:31:06.060 WARN  ~~ LOOPS: 14. ENTITY #: 575//306. VIEW #: 3. BACKLOGGED :: 131.571%! ~~ 
+22:31:07.083 WARN  ~~ LOOPS: 11. ENTITY #: 571//318. VIEW #: 3. BACKLOGGED :: 156.545%! ~~ 
+22:31:08.114 WARN  ~~ LOOPS: 14. ENTITY #: 573//312. VIEW #: 3. BACKLOGGED :: 115.071%! ~~ 
+22:31:09.152 WARN  ~~ LOOPS: 13. ENTITY #: 563//310. VIEW #: 3. BACKLOGGED :: 118.385%! ~~ 
+22:31:11.254 WARN  ~~ LOOPS: 15. ENTITY #: 557//316. VIEW #: 3. BACKLOGGED :: 105.200%! ~~ 
+22:31:12.274 WARN  ~~ LOOPS: 9. ENTITY #: 569//314. VIEW #: 3. BACKLOGGED :: 131.333%! ~~ 
+22:31:13.292 WARN  ~~ LOOPS: 14. ENTITY #: 572//318. VIEW #: 3. BACKLOGGED :: 112.286%! ~~ 
+22:31:15.326 WARN  ~~ LOOPS: 13. ENTITY #: 589//321. VIEW #: 3. BACKLOGGED :: 126.462%! ~~ 
+22:31:17.459 WARN  ~~ LOOPS: 12. ENTITY #: 600//332. VIEW #: 3. BACKLOGGED :: 108.000%! ~~ 
+22:31:18.490 WARN  ~~ LOOPS: 13. ENTITY #: 597//335. VIEW #: 3. BACKLOGGED :: 128.769%! ~~ 
+22:31:19.625 WARN  ~~ LOOPS: 13. ENTITY #: 595//335. VIEW #: 3. BACKLOGGED :: 114.923%! ~~ 
+22:31:20.652 WARN  ~~ LOOPS: 13. ENTITY #: 606//336. VIEW #: 3. BACKLOGGED :: 135.000%! ~~ 
+22:31:21.678 WARN  ~~ LOOPS: 12. ENTITY #: 615//344. VIEW #: 3. BACKLOGGED :: 139.750%! ~~ 
+22:31:22.712 WARN  ~~ LOOPS: 10. ENTITY #: 617//349. VIEW #: 3. BACKLOGGED :: 162.000%! ~~ 
+22:31:23.817 WARN  ~~ LOOPS: 11. ENTITY #: 619//347. VIEW #: 3. BACKLOGGED :: 135.273%! ~~ 
+22:31:24.837 WARN  ~~ LOOPS: 12. ENTITY #: 612//353. VIEW #: 3. BACKLOGGED :: 155.250%! ~~ 
+22:31:25.861 WARN  ~~ LOOPS: 12. ENTITY #: 616//349. VIEW #: 3. BACKLOGGED :: 150.000%! ~~ 
+22:31:26.896 WARN  ~~ LOOPS: 12. ENTITY #: 621//349. VIEW #: 3. BACKLOGGED :: 109.250%! ~~ 
+22:31:27.917 WARN  ~~ LOOPS: 11. ENTITY #: 621//353. VIEW #: 3. BACKLOGGED :: 161.727%! ~~ 
+22:31:29.043 WARN  ~~ LOOPS: 9. ENTITY #: 619//353. VIEW #: 3. BACKLOGGED :: 215.333%! ~~ 
+22:31:30.060 WARN  ~~ LOOPS: 12. ENTITY #: 623//348. VIEW #: 3. BACKLOGGED :: 127.000%! ~~ 
+22:31:31.096 WARN  ~~ LOOPS: 12. ENTITY #: 611//348. VIEW #: 3. BACKLOGGED :: 148.500%! ~~ 
+22:31:32.109 WARN  ~~ LOOPS: 13. ENTITY #: 610//340. VIEW #: 3. BACKLOGGED :: 123.692%! ~~ 
+22:31:33.232 WARN  ~~ LOOPS: 13. ENTITY #: 604//335. VIEW #: 3. BACKLOGGED :: 138.692%! ~~ 
+22:31:34.437 WARN  ~~ LOOPS: 12. ENTITY #: 593//326. VIEW #: 3. BACKLOGGED :: 153.250%! ~~ 
+22:31:35.456 WARN  ~~ LOOPS: 11. ENTITY #: 595//328. VIEW #: 3. BACKLOGGED :: 165.818%! ~~ 
+22:31:36.472 WARN  ~~ LOOPS: 13. ENTITY #: 604//326. VIEW #: 3. BACKLOGGED :: 128.308%! ~~ 
+22:31:38.505 WARN  ~~ LOOPS: 14. ENTITY #: 606//329. VIEW #: 3. BACKLOGGED :: 116.143%! ~~ 
+22:31:39.519 WARN  ~~ LOOPS: 13. ENTITY #: 608//331. VIEW #: 3. BACKLOGGED :: 125.769%! ~~ 
+22:31:40.619 WARN  ~~ LOOPS: 11. ENTITY #: 611//329. VIEW #: 3. BACKLOGGED :: 141.818%! ~~ 
+22:31:41.636 WARN  ~~ LOOPS: 13. ENTITY #: 617//328. VIEW #: 3. BACKLOGGED :: 125.769%! ~~ 
+22:31:42.653 WARN  ~~ LOOPS: 13. ENTITY #: 595//321. VIEW #: 3. BACKLOGGED :: 109.154%! ~~ 
+22:32:21.437 WARN  ~~ LOOPS: 11. ENTITY #: 517//179. VIEW #: 3. BACKLOGGED :: 175.636%! ~~ 
+22:33:23.521 WARN  ~~ LOOPS: 12. ENTITY #: 526//162. VIEW #: 3. BACKLOGGED :: 112.000%! ~~ 
+22:34:02.221 WARN  ~~ LOOPS: 12. ENTITY #: 570//256. VIEW #: 3. BACKLOGGED :: 135.750%! ~~ 
+22:34:03.237 WARN  ~~ LOOPS: 14. ENTITY #: 558//256. VIEW #: 3. BACKLOGGED :: 112.286%! ~~ 
+22:34:04.249 WARN  ~~ LOOPS: 13. ENTITY #: 536//240. VIEW #: 3. BACKLOGGED :: 117.923%! ~~ 
+22:34:07.291 WARN  ~~ LOOPS: 13. ENTITY #: 519//206. VIEW #: 3. BACKLOGGED :: 128.308%! ~~ 
+22:34:58.257 WARN  ~~ LOOPS: 11. ENTITY #: 546//245. VIEW #: 3. BACKLOGGED :: 142.091%! ~~ 
+22:35:00.293 WARN  ~~ LOOPS: 14. ENTITY #: 564//258. VIEW #: 3. BACKLOGGED :: 121.071%! ~~ 
+22:35:01.306 WARN  ~~ LOOPS: 13. ENTITY #: 578//275. VIEW #: 3. BACKLOGGED :: 128.308%! ~~ 
+22:35:02.318 WARN  ~~ LOOPS: 13. ENTITY #: 585//295. VIEW #: 3. BACKLOGGED :: 127.615%! ~~ 
+22:35:03.345 WARN  ~~ LOOPS: 14. ENTITY #: 591//310. VIEW #: 3. BACKLOGGED :: 113.143%! ~~ 
+22:35:04.441 WARN  ~~ LOOPS: 15. ENTITY #: 593//305. VIEW #: 3. BACKLOGGED :: 109.800%! ~~ 
+22:35:05.452 WARN  ~~ LOOPS: 10. ENTITY #: 603//302. VIEW #: 3. BACKLOGGED :: 175.500%! ~~ 
+22:35:06.490 WARN  ~~ LOOPS: 12. ENTITY #: 593//301. VIEW #: 3. BACKLOGGED :: 160.500%! ~~ 
+22:35:07.505 WARN  ~~ LOOPS: 13. ENTITY #: 601//303. VIEW #: 3. BACKLOGGED :: 114.000%! ~~ 
+22:35:09.621 WARN  ~~ LOOPS: 13. ENTITY #: 606//313. VIEW #: 3. BACKLOGGED :: 117.923%! ~~ 
+22:35:10.651 WARN  ~~ LOOPS: 13. ENTITY #: 592//310. VIEW #: 3. BACKLOGGED :: 122.308%! ~~ 
+22:35:11.667 WARN  ~~ LOOPS: 13. ENTITY #: 605//326. VIEW #: 3. BACKLOGGED :: 108.692%! ~~ 
+22:35:12.714 WARN  ~~ LOOPS: 14. ENTITY #: 599//320. VIEW #: 3. BACKLOGGED :: 109.929%! ~~ 
+22:35:13.816 WARN  ~~ LOOPS: 9. ENTITY #: 589//307. VIEW #: 3. BACKLOGGED :: 104.333%! ~~ 
+22:35:14.837 WARN  ~~ LOOPS: 14. ENTITY #: 556//282. VIEW #: 3. BACKLOGGED :: 104.571%! ~~ 
+22:35:16.851 WARN  ~~ LOOPS: 12. ENTITY #: 585//289. VIEW #: 3. BACKLOGGED :: 132.750%! ~~ 
+22:35:18.864 WARN  ~~ LOOPS: 14. ENTITY #: 574//284. VIEW #: 3. BACKLOGGED :: 101.786%! ~~ 
+22:35:19.888 WARN  ~~ LOOPS: 15. ENTITY #: 578//283. VIEW #: 3. BACKLOGGED :: 104.400%! ~~ 
+22:35:21.918 WARN  ~~ LOOPS: 11. ENTITY #: 574//274. VIEW #: 3. BACKLOGGED :: 137.455%! ~~ 
+22:35:22.932 WARN  ~~ LOOPS: 14. ENTITY #: 565//267. VIEW #: 2. BACKLOGGED :: 112.071%! ~~ 
+22:35:26.048 WARN  ~~ LOOPS: 14. ENTITY #: 554//254. VIEW #: 2. BACKLOGGED :: 115.500%! ~~ 
+22:35:31.126 WARN  ~~ LOOPS: 14. ENTITY #: 543//251. VIEW #: 3. BACKLOGGED :: 106.714%! ~~ 
+22:35:32.216 WARN  ~~ LOOPS: 15. ENTITY #: 539//247. VIEW #: 3. BACKLOGGED :: 106.800%! ~~ 
+22:35:38.316 WARN  ~~ LOOPS: 13. ENTITY #: 513//213. VIEW #: 3. BACKLOGGED :: 108.692%! ~~ 
+22:35:46.511 WARN  ~~ LOOPS: 14. ENTITY #: 494//184. VIEW #: 3. BACKLOGGED :: 113.143%! ~~ 
+22:35:48.659 WARN  ~~ LOOPS: 14. ENTITY #: 507//204. VIEW #: 3. BACKLOGGED :: 112.500%! ~~ 
+22:35:49.682 WARN  ~~ LOOPS: 15. ENTITY #: 506//212. VIEW #: 3. BACKLOGGED :: 106.400%! ~~ 
+22:36:05.024 WARN  ~~ LOOPS: 14. ENTITY #: 509//214. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+22:36:07.121 ERROR [ERROR] Detected an NaN position! 
+22:36:43.241 WARN  ~~ LOOPS: 15. ENTITY #: 541//251. VIEW #: 3. BACKLOGGED :: 108.000%! ~~ 
+22:36:44.257 WARN  ~~ LOOPS: 13. ENTITY #: 539//258. VIEW #: 3. BACKLOGGED :: 116.769%! ~~ 
+22:36:51.437 WARN  ~~ LOOPS: 15. ENTITY #: 517//222. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+22:36:59.635 WARN  ~~ LOOPS: 14. ENTITY #: 542//226. VIEW #: 3. BACKLOGGED :: 119.571%! ~~ 
+22:37:00.655 WARN  ~~ LOOPS: 12. ENTITY #: 523//218. VIEW #: 3. BACKLOGGED :: 127.000%! ~~ 
+22:37:08.763 WARN  ~~ LOOPS: 14. ENTITY #: 524//196. VIEW #: 3. BACKLOGGED :: 105.214%! ~~ 
+22:37:50.926 ERROR [ERROR] Detected an NaN position! 
+22:37:51.721 WARN  ~~ LOOPS: 12. ENTITY #: 557//210. VIEW #: 3. BACKLOGGED :: 104.000%! ~~ 
+22:37:53.473 ERROR [ERROR] Detected an NaN position! 
+22:37:58.909 WARN  ~~ LOOPS: 14. ENTITY #: 605//223. VIEW #: 3. BACKLOGGED :: 114.000%! ~~ 
+22:37:59.926 WARN  ~~ LOOPS: 10. ENTITY #: 613//224. VIEW #: 3. BACKLOGGED :: 142.200%! ~~ 
+22:38:01.019 WARN  ~~ LOOPS: 13. ENTITY #: 629//235. VIEW #: 3. BACKLOGGED :: 115.846%! ~~ 
+22:38:02.039 WARN  ~~ LOOPS: 14. ENTITY #: 652//261. VIEW #: 3. BACKLOGGED :: 120.000%! ~~ 
+22:38:03.054 WARN  ~~ LOOPS: 12. ENTITY #: 645//281. VIEW #: 3. BACKLOGGED :: 138.750%! ~~ 
+22:38:04.068 WARN  ~~ LOOPS: 13. ENTITY #: 659//291. VIEW #: 3. BACKLOGGED :: 120.692%! ~~ 
+22:38:05.083 WARN  ~~ LOOPS: 12. ENTITY #: 651//294. VIEW #: 3. BACKLOGGED :: 138.750%! ~~ 
+22:38:06.111 WARN  ~~ LOOPS: 13. ENTITY #: 651//299. VIEW #: 3. BACKLOGGED :: 113.538%! ~~ 
+22:38:07.129 WARN  ~~ LOOPS: 12. ENTITY #: 634//287. VIEW #: 3. BACKLOGGED :: 137.000%! ~~ 
+22:38:08.236 WARN  ~~ LOOPS: 10. ENTITY #: 630//281. VIEW #: 3. BACKLOGGED :: 183.600%! ~~ 
+22:38:09.260 WARN  ~~ LOOPS: 14. ENTITY #: 602//267. VIEW #: 3. BACKLOGGED :: 108.857%! ~~ 
+22:38:10.281 WARN  ~~ LOOPS: 13. ENTITY #: 601//269. VIEW #: 3. BACKLOGGED :: 105.231%! ~~ 
+22:38:11.307 WARN  ~~ LOOPS: 14. ENTITY #: 618//274. VIEW #: 3. BACKLOGGED :: 111.214%! ~~ 
+22:38:12.331 WARN  ~~ LOOPS: 14. ENTITY #: 597//269. VIEW #: 3. BACKLOGGED :: 104.786%! ~~ 
+22:38:15.457 WARN  ~~ LOOPS: 14. ENTITY #: 564//236. VIEW #: 3. BACKLOGGED :: 112.286%! ~~ 
+22:38:16.480 WARN  ~~ LOOPS: 14. ENTITY #: 556//234. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+22:38:17.493 WARN  ~~ LOOPS: 15. ENTITY #: 551//230. VIEW #: 3. BACKLOGGED :: 101.400%! ~~ 
+22:38:42.441 WARN  ~~ LOOPS: 17. ENTITY #: 547//180. VIEW #: 3. BACKLOGGED :: 101.824%! ~~ 
+22:38:43.640 WARN  ~~ LOOPS: 15. ENTITY #: 545//179. VIEW #: 3. BACKLOGGED :: 133.800%! ~~ 
+22:38:44.658 WARN  ~~ LOOPS: 14. ENTITY #: 536//171. VIEW #: 3. BACKLOGGED :: 113.786%! ~~ 
+22:39:03.101 WARN  ~~ LOOPS: 12. ENTITY #: 529//136. VIEW #: 3. BACKLOGGED :: 111.250%! ~~ 
+22:39:19.078 ERROR [ERROR] Detected an NaN position! 
+22:40:29.237 WARN  ~~ LOOPS: 12. ENTITY #: 554//220. VIEW #: 3. BACKLOGGED :: 122.000%! ~~ 
+22:40:37.426 WARN  ~~ LOOPS: 11. ENTITY #: 563//236. VIEW #: 3. BACKLOGGED :: 144.818%! ~~ 
+22:40:41.498 WARN  ~~ LOOPS: 14. ENTITY #: 636//302. VIEW #: 3. BACKLOGGED :: 106.714%! ~~ 
+22:40:42.517 WARN  ~~ LOOPS: 13. ENTITY #: 640//311. VIEW #: 3. BACKLOGGED :: 122.769%! ~~ 
+22:40:44.674 WARN  ~~ LOOPS: 10. ENTITY #: 628//303. VIEW #: 3. BACKLOGGED :: 164.700%! ~~ 
+22:40:45.711 WARN  ~~ LOOPS: 13. ENTITY #: 602//284. VIEW #: 3. BACKLOGGED :: 140.538%! ~~ 
+22:40:47.818 WARN  ~~ LOOPS: 15. ENTITY #: 615//290. VIEW #: 3. BACKLOGGED :: 101.800%! ~~ 
+22:40:49.887 WARN  ~~ LOOPS: 15. ENTITY #: 579//260. VIEW #: 3. BACKLOGGED :: 105.600%! ~~ 
+22:40:52.035 WARN  ~~ LOOPS: 9. ENTITY #: 554//233. VIEW #: 3. BACKLOGGED :: 243.667%! ~~ 
+22:40:56.112 WARN  ~~ LOOPS: 14. ENTITY #: 545//219. VIEW #: 3. BACKLOGGED :: 107.357%! ~~ 
+22:42:07.038 WARN  ~~ LOOPS: 14. ENTITY #: 543//184. VIEW #: 3. BACKLOGGED :: 149.143%! ~~ 
+22:42:11.093 WARN  ~~ LOOPS: 15. ENTITY #: 568//222. VIEW #: 3. BACKLOGGED :: 103.400%! ~~ 
+22:42:18.270 WARN  ~~ LOOPS: 14. ENTITY #: 600//255. VIEW #: 3. BACKLOGGED :: 100.714%! ~~ 
+22:42:40.866 WARN  ~~ LOOPS: 13. ENTITY #: 579//236. VIEW #: 3. BACKLOGGED :: 136.615%! ~~ 
+22:42:41.880 WARN  ~~ LOOPS: 11. ENTITY #: 595//243. VIEW #: 3. BACKLOGGED :: 169.091%! ~~ 
+22:42:43.022 WARN  ~~ LOOPS: 13. ENTITY #: 588//240. VIEW #: 3. BACKLOGGED :: 137.077%! ~~ 
+22:42:44.042 WARN  ~~ LOOPS: 13. ENTITY #: 579//235. VIEW #: 3. BACKLOGGED :: 138.231%! ~~ 
+22:42:45.057 WARN  ~~ LOOPS: 14. ENTITY #: 588//231. VIEW #: 3. BACKLOGGED :: 112.929%! ~~ 
+22:42:53.178 WARN  ~~ LOOPS: 14. ENTITY #: 511//156. VIEW #: 3. BACKLOGGED :: 111.429%! ~~ 
+22:43:10.496 WARN  ~~ LOOPS: 13. ENTITY #: 557//202. VIEW #: 3. BACKLOGGED :: 139.615%! ~~ 
+22:43:33.105 WARN  ~~ LOOPS: 13. ENTITY #: 566//194. VIEW #: 3. BACKLOGGED :: 126.462%! ~~ 
+22:43:53.643 WARN  ~~ LOOPS: 15. ENTITY #: 532//152. VIEW #: 3. BACKLOGGED :: 103.400%! ~~ 
+22:44:07.931 WARN  ~~ LOOPS: 12. ENTITY #: 531//139. VIEW #: 3. BACKLOGGED :: 101.000%! ~~ 
+22:46:27.487 WARN  ~~ LOOPS: 13. ENTITY #: 573//205. VIEW #: 4. BACKLOGGED :: 114.462%! ~~ 
+22:46:29.520 WARN  ~~ LOOPS: 14. ENTITY #: 608//247. VIEW #: 4. BACKLOGGED :: 100.500%! ~~ 
+22:46:30.545 WARN  ~~ LOOPS: 13. ENTITY #: 611//251. VIEW #: 4. BACKLOGGED :: 114.923%! ~~ 
+22:46:31.626 WARN  ~~ LOOPS: 13. ENTITY #: 587//223. VIEW #: 4. BACKLOGGED :: 116.308%! ~~ 
+22:46:33.663 WARN  ~~ LOOPS: 13. ENTITY #: 553//229. VIEW #: 4. BACKLOGGED :: 119.077%! ~~ 
+22:46:38.750 WARN  ~~ LOOPS: 13. ENTITY #: 535//172. VIEW #: 4. BACKLOGGED :: 111.692%! ~~ 
+22:46:48.075 WARN  ~~ LOOPS: 14. ENTITY #: 574//213. VIEW #: 4. BACKLOGGED :: 103.071%! ~~ 
+22:46:50.121 WARN  ~~ LOOPS: 14. ENTITY #: 576//221. VIEW #: 4. BACKLOGGED :: 109.071%! ~~ 
+22:46:51.234 WARN  ~~ LOOPS: 12. ENTITY #: 576//220. VIEW #: 4. BACKLOGGED :: 117.500%! ~~ 
+22:46:53.266 WARN  ~~ LOOPS: 14. ENTITY #: 588//243. VIEW #: 4. BACKLOGGED :: 107.786%! ~~ 
+22:46:55.315 WARN  ~~ LOOPS: 12. ENTITY #: 592//258. VIEW #: 4. BACKLOGGED :: 107.000%! ~~ 
+22:46:56.335 WARN  ~~ LOOPS: 13. ENTITY #: 620//264. VIEW #: 4. BACKLOGGED :: 112.846%! ~~ 
+22:46:57.416 WARN  ~~ LOOPS: 13. ENTITY #: 625//269. VIEW #: 4. BACKLOGGED :: 127.385%! ~~ 
+22:46:59.495 WARN  ~~ LOOPS: 13. ENTITY #: 618//260. VIEW #: 4. BACKLOGGED :: 137.077%! ~~ 
+22:47:00.616 WARN  ~~ LOOPS: 15. ENTITY #: 608//259. VIEW #: 4. BACKLOGGED :: 125.000%! ~~ 
+22:47:01.629 WARN  ~~ LOOPS: 14. ENTITY #: 603//253. VIEW #: 4. BACKLOGGED :: 110.571%! ~~ 
+22:47:02.641 WARN  ~~ LOOPS: 9. ENTITY #: 610//252. VIEW #: 4. BACKLOGGED :: 151.000%! ~~ 
+22:47:03.662 WARN  ~~ LOOPS: 13. ENTITY #: 625//263. VIEW #: 4. BACKLOGGED :: 127.154%! ~~ 
+22:47:04.700 WARN  ~~ LOOPS: 14. ENTITY #: 611//267. VIEW #: 4. BACKLOGGED :: 108.000%! ~~ 
+22:47:05.700 WARN  ~~ LOOPS: 13. ENTITY #: 612//275. VIEW #: 4. BACKLOGGED :: 108.462%! ~~ 
+22:47:06.737 WARN  ~~ LOOPS: 14. ENTITY #: 621//284. VIEW #: 4. BACKLOGGED :: 113.571%! ~~ 
+22:47:08.853 WARN  ~~ LOOPS: 12. ENTITY #: 611//297. VIEW #: 4. BACKLOGGED :: 111.250%! ~~ 
+22:47:09.872 WARN  ~~ LOOPS: 14. ENTITY #: 613//281. VIEW #: 4. BACKLOGGED :: 104.357%! ~~ 
+22:47:12.068 WARN  ~~ LOOPS: 14. ENTITY #: 613//283. VIEW #: 4. BACKLOGGED :: 106.500%! ~~ 
+22:47:13.229 WARN  ~~ LOOPS: 9. ENTITY #: 617//286. VIEW #: 4. BACKLOGGED :: 150.667%! ~~ 
+22:47:14.249 WARN  ~~ LOOPS: 13. ENTITY #: 602//286. VIEW #: 4. BACKLOGGED :: 123.692%! ~~ 
+22:47:15.267 WARN  ~~ LOOPS: 12. ENTITY #: 580//261. VIEW #: 4. BACKLOGGED :: 130.500%! ~~ 
+22:47:16.284 WARN  ~~ LOOPS: 14. ENTITY #: 572//248. VIEW #: 4. BACKLOGGED :: 105.000%! ~~ 
+22:47:17.298 WARN  ~~ LOOPS: 15. ENTITY #: 574//240. VIEW #: 4. BACKLOGGED :: 101.000%! ~~ 
+22:47:18.314 WARN  ~~ LOOPS: 14. ENTITY #: 569//240. VIEW #: 4. BACKLOGGED :: 100.929%! ~~ 
+22:47:20.348 WARN  ~~ LOOPS: 15. ENTITY #: 567//228. VIEW #: 4. BACKLOGGED :: 105.000%! ~~ 
+22:47:22.483 WARN  ~~ LOOPS: 15. ENTITY #: 561//224. VIEW #: 4. BACKLOGGED :: 103.400%! ~~ 
+22:47:23.501 WARN  ~~ LOOPS: 15. ENTITY #: 562//218. VIEW #: 4. BACKLOGGED :: 105.200%! ~~ 
+22:47:37.267 WARN  ~~ LOOPS: 12. ENTITY #: 578//234. VIEW #: 4. BACKLOGGED :: 146.750%! ~~ 
+22:47:38.300 WARN  ~~ LOOPS: 14. ENTITY #: 591//238. VIEW #: 4. BACKLOGGED :: 122.143%! ~~ 
+22:47:39.315 WARN  ~~ LOOPS: 13. ENTITY #: 593//247. VIEW #: 4. BACKLOGGED :: 119.769%! ~~ 
+22:47:40.418 WARN  ~~ LOOPS: 14. ENTITY #: 602//251. VIEW #: 4. BACKLOGGED :: 121.071%! ~~ 
+22:47:41.451 WARN  ~~ LOOPS: 14. ENTITY #: 592//249. VIEW #: 4. BACKLOGGED :: 105.214%! ~~ 
+22:47:42.465 WARN  ~~ LOOPS: 12. ENTITY #: 599//246. VIEW #: 4. BACKLOGGED :: 145.250%! ~~ 
+22:47:43.483 WARN  ~~ LOOPS: 14. ENTITY #: 602//246. VIEW #: 4. BACKLOGGED :: 105.000%! ~~ 
+22:47:44.497 WARN  ~~ LOOPS: 14. ENTITY #: 597//248. VIEW #: 4. BACKLOGGED :: 100.071%! ~~ 
+22:47:45.511 WARN  ~~ LOOPS: 13. ENTITY #: 592//252. VIEW #: 4. BACKLOGGED :: 111.462%! ~~ 
+22:47:46.648 WARN  ~~ LOOPS: 14. ENTITY #: 603//244. VIEW #: 4. BACKLOGGED :: 123.214%! ~~ 
+22:47:47.648 WARN  ~~ LOOPS: 9. ENTITY #: 613//271. VIEW #: 4. BACKLOGGED :: 156.333%! ~~ 
+22:47:48.657 WARN  ~~ LOOPS: 12. ENTITY #: 626//278. VIEW #: 4. BACKLOGGED :: 150.250%! ~~ 
+22:47:50.691 WARN  ~~ LOOPS: 14. ENTITY #: 604//257. VIEW #: 4. BACKLOGGED :: 103.500%! ~~ 
+22:47:51.707 WARN  ~~ LOOPS: 14. ENTITY #: 596//249. VIEW #: 4. BACKLOGGED :: 115.500%! ~~ 
+22:47:52.722 WARN  ~~ LOOPS: 13. ENTITY #: 597//243. VIEW #: 4. BACKLOGGED :: 127.846%! ~~ 
+22:47:54.826 WARN  ~~ LOOPS: 14. ENTITY #: 604//247. VIEW #: 4. BACKLOGGED :: 104.143%! ~~ 
+22:47:56.860 WARN  ~~ LOOPS: 14. ENTITY #: 594//238. VIEW #: 4. BACKLOGGED :: 111.643%! ~~ 
+22:47:57.875 WARN  ~~ LOOPS: 14. ENTITY #: 596//242. VIEW #: 4. BACKLOGGED :: 111.643%! ~~ 
+22:48:00.264 WARN  ~~ LOOPS: 14. ENTITY #: 611//248. VIEW #: 4. BACKLOGGED :: 113.786%! ~~ 
+22:48:01.301 WARN  ~~ LOOPS: 13. ENTITY #: 587//238. VIEW #: 4. BACKLOGGED :: 124.385%! ~~ 
+22:48:02.317 WARN  ~~ LOOPS: 13. ENTITY #: 609//246. VIEW #: 4. BACKLOGGED :: 119.769%! ~~ 
+22:48:03.431 WARN  ~~ LOOPS: 13. ENTITY #: 619//268. VIEW #: 4. BACKLOGGED :: 134.769%! ~~ 
+22:48:04.450 WARN  ~~ LOOPS: 12. ENTITY #: 633//270. VIEW #: 4. BACKLOGGED :: 109.750%! ~~ 
+22:48:05.465 WARN  ~~ LOOPS: 13. ENTITY #: 623//268. VIEW #: 4. BACKLOGGED :: 120.692%! ~~ 
+22:48:06.483 WARN  ~~ LOOPS: 12. ENTITY #: 634//270. VIEW #: 4. BACKLOGGED :: 115.000%! ~~ 
+22:48:07.498 WARN  ~~ LOOPS: 12. ENTITY #: 625//267. VIEW #: 4. BACKLOGGED :: 154.000%! ~~ 
+22:48:08.515 WARN  ~~ LOOPS: 13. ENTITY #: 631//263. VIEW #: 4. BACKLOGGED :: 118.154%! ~~ 
+22:48:09.530 WARN  ~~ LOOPS: 13. ENTITY #: 619//239. VIEW #: 3. BACKLOGGED :: 129.231%! ~~ 
+22:48:10.547 WARN  ~~ LOOPS: 14. ENTITY #: 613//240. VIEW #: 3. BACKLOGGED :: 119.143%! ~~ 
+22:48:11.647 WARN  ~~ LOOPS: 10. ENTITY #: 589//227. VIEW #: 3. BACKLOGGED :: 193.500%! ~~ 
+22:48:12.665 WARN  ~~ LOOPS: 14. ENTITY #: 594//217. VIEW #: 3. BACKLOGGED :: 106.071%! ~~ 
+22:48:13.681 WARN  ~~ LOOPS: 13. ENTITY #: 575//207. VIEW #: 3. BACKLOGGED :: 121.615%! ~~ 
+22:48:37.223 ERROR [ERROR] Detected an NaN position! 
+22:49:06.117 WARN  ~~ LOOPS: 13. ENTITY #: 613//214. VIEW #: 3. BACKLOGGED :: 122.538%! ~~ 
+22:49:07.146 WARN  ~~ LOOPS: 14. ENTITY #: 593//207. VIEW #: 3. BACKLOGGED :: 113.143%! ~~ 
+22:49:10.280 WARN  ~~ LOOPS: 14. ENTITY #: 613//225. VIEW #: 3. BACKLOGGED :: 100.286%! ~~ 
+22:49:11.293 WARN  ~~ LOOPS: 15. ENTITY #: 617//219. VIEW #: 3. BACKLOGGED :: 103.400%! ~~ 
+22:49:13.343 WARN  ~~ LOOPS: 15. ENTITY #: 619//217. VIEW #: 3. BACKLOGGED :: 108.000%! ~~ 
+22:49:14.448 WARN  ~~ LOOPS: 13. ENTITY #: 597//213. VIEW #: 3. BACKLOGGED :: 123.462%! ~~ 
+22:49:15.463 WARN  ~~ LOOPS: 14. ENTITY #: 580//193. VIEW #: 3. BACKLOGGED :: 111.643%! ~~ 
+22:49:40.107 WARN  ~~ LOOPS: 10. ENTITY #: 556//189. VIEW #: 3. BACKLOGGED :: 119.700%! ~~ 
+22:49:41.125 WARN  ~~ LOOPS: 14. ENTITY #: 552//185. VIEW #: 3. BACKLOGGED :: 110.571%! ~~ 
+22:50:05.860 WARN  ~~ LOOPS: 12. ENTITY #: 533//215. VIEW #: 3. BACKLOGGED :: 150.500%! ~~ 
+22:50:17.124 WARN  ~~ LOOPS: 11. ENTITY #: 538//217. VIEW #: 3. BACKLOGGED :: 106.091%! ~~ 
+22:50:18.241 WARN  ~~ LOOPS: 14. ENTITY #: 545//223. VIEW #: 3. BACKLOGGED :: 140.357%! ~~ 
+22:50:20.271 WARN  ~~ LOOPS: 13. ENTITY #: 536//213. VIEW #: 3. BACKLOGGED :: 106.615%! ~~ 
+22:50:21.296 WARN  ~~ LOOPS: 15. ENTITY #: 535//208. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+22:50:29.462 WARN  ~~ LOOPS: 12. ENTITY #: 541//185. VIEW #: 3. BACKLOGGED :: 128.000%! ~~ 
+22:50:54.091 WARN  ~~ LOOPS: 12. ENTITY #: 579//222. VIEW #: 3. BACKLOGGED :: 120.250%! ~~ 
+22:51:18.658 WARN  ~~ LOOPS: 10. ENTITY #: 593//237. VIEW #: 3. BACKLOGGED :: 159.600%! ~~ 
+22:51:19.682 WARN  ~~ LOOPS: 12. ENTITY #: 603//247. VIEW #: 3. BACKLOGGED :: 136.500%! ~~ 
+22:51:20.697 WARN  ~~ LOOPS: 13. ENTITY #: 596//244. VIEW #: 3. BACKLOGGED :: 114.923%! ~~ 
+22:51:21.713 WARN  ~~ LOOPS: 15. ENTITY #: 603//244. VIEW #: 3. BACKLOGGED :: 100.200%! ~~ 
+22:51:22.839 WARN  ~~ LOOPS: 14. ENTITY #: 596//242. VIEW #: 3. BACKLOGGED :: 112.929%! ~~ 
+22:51:23.856 WARN  ~~ LOOPS: 15. ENTITY #: 593//235. VIEW #: 3. BACKLOGGED :: 103.200%! ~~ 
+22:51:26.914 WARN  ~~ LOOPS: 14. ENTITY #: 571//226. VIEW #: 3. BACKLOGGED :: 112.071%! ~~ 
+22:51:29.125 ERROR [ERROR] Detected an NaN position! 
+22:51:31.259 WARN  ~~ LOOPS: 14. ENTITY #: 574//228. VIEW #: 3. BACKLOGGED :: 118.714%! ~~ 
+22:51:32.295 WARN  ~~ LOOPS: 14. ENTITY #: 585//221. VIEW #: 3. BACKLOGGED :: 117.429%! ~~ 
+22:51:42.644 WARN  ~~ LOOPS: 11. ENTITY #: 591//233. VIEW #: 3. BACKLOGGED :: 100.909%! ~~ 
+22:51:45.718 WARN  ~~ LOOPS: 14. ENTITY #: 597//237. VIEW #: 3. BACKLOGGED :: 111.429%! ~~ 
+22:51:54.042 WARN  ~~ LOOPS: 13. ENTITY #: 577//213. VIEW #: 3. BACKLOGGED :: 123.462%! ~~ 
+22:51:55.060 WARN  ~~ LOOPS: 14. ENTITY #: 575//209. VIEW #: 3. BACKLOGGED :: 109.714%! ~~ 
+22:52:17.617 WARN  ~~ LOOPS: 13. ENTITY #: 548//183. VIEW #: 3. BACKLOGGED :: 112.846%! ~~ 
+22:52:28.889 WARN  ~~ LOOPS: 12. ENTITY #: 566//218. VIEW #: 3. BACKLOGGED :: 151.500%! ~~ 
+22:52:41.223 WARN  ~~ LOOPS: 11. ENTITY #: 534//192. VIEW #: 3. BACKLOGGED :: 119.727%! ~~ 
+22:52:57.437 WARN  ~~ LOOPS: 17. ENTITY #: 522//177. VIEW #: 3. BACKLOGGED :: 142.412%! ~~ 
+22:53:21.053 WARN  ~~ LOOPS: 15. ENTITY #: 522//228. VIEW #: 3. BACKLOGGED :: 103.000%! ~~ 
+22:53:23.091 WARN  ~~ LOOPS: 11. ENTITY #: 573//252. VIEW #: 3. BACKLOGGED :: 163.909%! ~~ 
+22:53:24.106 WARN  ~~ LOOPS: 14. ENTITY #: 575//256. VIEW #: 3. BACKLOGGED :: 103.500%! ~~ 
+22:53:25.120 WARN  ~~ LOOPS: 14. ENTITY #: 568//260. VIEW #: 3. BACKLOGGED :: 115.714%! ~~ 
+22:53:26.148 WARN  ~~ LOOPS: 14. ENTITY #: 560//243. VIEW #: 3. BACKLOGGED :: 121.714%! ~~ 
+22:53:27.236 WARN  ~~ LOOPS: 14. ENTITY #: 565//236. VIEW #: 3. BACKLOGGED :: 121.071%! ~~ 
+22:53:28.250 WARN  ~~ LOOPS: 13. ENTITY #: 560//235. VIEW #: 3. BACKLOGGED :: 118.154%! ~~ 
+22:53:42.523 WARN  ~~ LOOPS: 14. ENTITY #: 555//210. VIEW #: 3. BACKLOGGED :: 104.786%! ~~ 
+22:53:48.747 WARN  ~~ LOOPS: 15. ENTITY #: 547//204. VIEW #: 3. BACKLOGGED :: 101.000%! ~~ 
+22:54:31.957 WARN  ~~ LOOPS: 11. ENTITY #: 577//175. VIEW #: 3. BACKLOGGED :: 123.000%! ~~ 
+22:55:03.246 WARN  ~~ LOOPS: 14. ENTITY #: 586//210. VIEW #: 3. BACKLOGGED :: 119.357%! ~~ 
+22:55:04.261 WARN  ~~ LOOPS: 13. ENTITY #: 584//217. VIEW #: 3. BACKLOGGED :: 127.846%! ~~ 
+22:55:06.338 WARN  ~~ LOOPS: 14. ENTITY #: 588//228. VIEW #: 3. BACKLOGGED :: 121.071%! ~~ 
+22:55:09.424 WARN  ~~ LOOPS: 15. ENTITY #: 568//218. VIEW #: 3. BACKLOGGED :: 106.400%! ~~ 
+22:55:17.670 WARN  ~~ LOOPS: 11. ENTITY #: 573//210. VIEW #: 3. BACKLOGGED :: 135.273%! ~~ 
+22:55:46.652 WARN  ~~ LOOPS: 14. ENTITY #: 599//202. VIEW #: 3. BACKLOGGED :: 127.071%! ~~ 
+22:55:47.670 WARN  ~~ LOOPS: 13. ENTITY #: 607//214. VIEW #: 3. BACKLOGGED :: 127.615%! ~~ 
+22:56:16.653 WARN  ~~ LOOPS: 11. ENTITY #: 572//205. VIEW #: 3. BACKLOGGED :: 129.545%! ~~ 
+22:56:33.288 WARN  ~~ LOOPS: 15. ENTITY #: 548//183. VIEW #: 3. BACKLOGGED :: 104.800%! ~~ 
+22:56:43.541 WARN  ~~ LOOPS: 15. ENTITY #: 587//200. VIEW #: 3. BACKLOGGED :: 104.000%! ~~ 
+22:56:44.558 WARN  ~~ LOOPS: 13. ENTITY #: 606//221. VIEW #: 3. BACKLOGGED :: 119.308%! ~~ 
+22:56:45.637 WARN  ~~ LOOPS: 14. ENTITY #: 640//243. VIEW #: 3. BACKLOGGED :: 120.000%! ~~ 
+22:56:46.666 WARN  ~~ LOOPS: 8. ENTITY #: 647//262. VIEW #: 3. BACKLOGGED :: 189.000%! ~~ 
+22:56:47.698 WARN  ~~ LOOPS: 12. ENTITY #: 632//246. VIEW #: 3. BACKLOGGED :: 128.500%! ~~ 
+22:56:48.728 WARN  ~~ LOOPS: 12. ENTITY #: 651//262. VIEW #: 3. BACKLOGGED :: 133.750%! ~~ 
+22:56:49.841 WARN  ~~ LOOPS: 14. ENTITY #: 657//265. VIEW #: 3. BACKLOGGED :: 123.214%! ~~ 
+22:56:50.869 WARN  ~~ LOOPS: 13. ENTITY #: 648//269. VIEW #: 3. BACKLOGGED :: 123.231%! ~~ 
+22:56:51.909 WARN  ~~ LOOPS: 14. ENTITY #: 641//265. VIEW #: 3. BACKLOGGED :: 120.857%! ~~ 
+22:56:53.031 WARN  ~~ LOOPS: 15. ENTITY #: 617//245. VIEW #: 3. BACKLOGGED :: 128.200%! ~~ 
+22:56:55.052 WARN  ~~ LOOPS: 14. ENTITY #: 607//219. VIEW #: 3. BACKLOGGED :: 108.214%! ~~ 
+22:56:59.840 WARN  ~~ LOOPS: 12. ENTITY #: 578//188. VIEW #: 3. BACKLOGGED :: 246.000%! ~~ 
+22:57:00.857 WARN  ~~ LOOPS: 14. ENTITY #: 585//194. VIEW #: 3. BACKLOGGED :: 112.286%! ~~ 
+22:57:05.023 WARN  ~~ LOOPS: 15. ENTITY #: 619//228. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+22:57:08.092 WARN  ~~ LOOPS: 15. ENTITY #: 590//215. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+22:57:12.256 WARN  ~~ LOOPS: 15. ENTITY #: 627//232. VIEW #: 3. BACKLOGGED :: 102.400%! ~~ 
+22:57:15.314 WARN  ~~ LOOPS: 14. ENTITY #: 610//227. VIEW #: 3. BACKLOGGED :: 101.786%! ~~ 
+22:57:43.112 WARN  ~~ LOOPS: 14. ENTITY #: 583//195. VIEW #: 3. BACKLOGGED :: 114.214%! ~~ 
+22:57:44.139 WARN  ~~ LOOPS: 15. ENTITY #: 593//199. VIEW #: 3. BACKLOGGED :: 103.000%! ~~ 
+22:57:46.259 WARN  ~~ LOOPS: 15. ENTITY #: 592//207. VIEW #: 3. BACKLOGGED :: 106.000%! ~~ 
+22:57:47.286 WARN  ~~ LOOPS: 13. ENTITY #: 594//210. VIEW #: 3. BACKLOGGED :: 125.538%! ~~ 
+22:57:49.425 WARN  ~~ LOOPS: 14. ENTITY #: 583//217. VIEW #: 3. BACKLOGGED :: 106.286%! ~~ 
+22:57:57.654 WARN  ~~ LOOPS: 15. ENTITY #: 589//243. VIEW #: 3. BACKLOGGED :: 102.000%! ~~ 
+22:57:58.668 WARN  ~~ LOOPS: 13. ENTITY #: 586//239. VIEW #: 3. BACKLOGGED :: 115.385%! ~~ 
+22:57:59.697 WARN  ~~ LOOPS: 15. ENTITY #: 572//228. VIEW #: 3. BACKLOGGED :: 107.200%! ~~ 
+22:58:01.743 WARN  ~~ LOOPS: 15. ENTITY #: 576//217. VIEW #: 3. BACKLOGGED :: 105.000%! ~~ 
+22:58:09.020 WARN  ~~ LOOPS: 15. ENTITY #: 606//236. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+22:58:11.070 WARN  ~~ LOOPS: 11. ENTITY #: 603//236. VIEW #: 3. BACKLOGGED :: 158.455%! ~~ 
+22:58:12.115 WARN  ~~ LOOPS: 14. ENTITY #: 612//233. VIEW #: 3. BACKLOGGED :: 125.143%! ~~ 
+22:58:13.130 WARN  ~~ LOOPS: 13. ENTITY #: 611//242. VIEW #: 3. BACKLOGGED :: 125.538%! ~~ 
+22:58:14.225 WARN  ~~ LOOPS: 13. ENTITY #: 611//251. VIEW #: 3. BACKLOGGED :: 131.769%! ~~ 
+22:58:15.260 WARN  ~~ LOOPS: 13. ENTITY #: 605//253. VIEW #: 3. BACKLOGGED :: 122.077%! ~~ 
+22:58:16.277 WARN  ~~ LOOPS: 13. ENTITY #: 602//246. VIEW #: 3. BACKLOGGED :: 125.769%! ~~ 
+22:58:17.308 WARN  ~~ LOOPS: 13. ENTITY #: 614//251. VIEW #: 3. BACKLOGGED :: 103.846%! ~~ 
+22:58:18.427 WARN  ~~ LOOPS: 12. ENTITY #: 600//258. VIEW #: 3. BACKLOGGED :: 139.500%! ~~ 
+22:58:19.476 WARN  ~~ LOOPS: 13. ENTITY #: 606//257. VIEW #: 3. BACKLOGGED :: 129.000%! ~~ 
+22:58:20.504 WARN  ~~ LOOPS: 12. ENTITY #: 602//260. VIEW #: 3. BACKLOGGED :: 147.500%! ~~ 
+22:58:21.629 WARN  ~~ LOOPS: 12. ENTITY #: 599//263. VIEW #: 3. BACKLOGGED :: 145.750%! ~~ 
+22:58:22.639 WARN  ~~ LOOPS: 13. ENTITY #: 593//258. VIEW #: 3. BACKLOGGED :: 108.462%! ~~ 
+22:58:23.641 WARN  ~~ LOOPS: 12. ENTITY #: 596//258. VIEW #: 3. BACKLOGGED :: 135.000%! ~~ 
+22:58:24.657 WARN  ~~ LOOPS: 12. ENTITY #: 597//264. VIEW #: 3. BACKLOGGED :: 102.750%! ~~ 
+22:58:25.672 WARN  ~~ LOOPS: 12. ENTITY #: 608//272. VIEW #: 3. BACKLOGGED :: 121.750%! ~~ 
+22:58:26.822 WARN  ~~ LOOPS: 13. ENTITY #: 595//274. VIEW #: 3. BACKLOGGED :: 111.231%! ~~ 
+22:58:27.839 WARN  ~~ LOOPS: 13. ENTITY #: 566//258. VIEW #: 3. BACKLOGGED :: 135.462%! ~~ 
+22:58:28.858 WARN  ~~ LOOPS: 13. ENTITY #: 567//245. VIEW #: 3. BACKLOGGED :: 111.462%! ~~ 
+22:58:29.871 WARN  ~~ LOOPS: 12. ENTITY #: 563//248. VIEW #: 3. BACKLOGGED :: 101.500%! ~~ 
+22:58:32.032 WARN  ~~ LOOPS: 14. ENTITY #: 557//243. VIEW #: 3. BACKLOGGED :: 119.143%! ~~ 
+22:58:33.050 WARN  ~~ LOOPS: 12. ENTITY #: 553//241. VIEW #: 3. BACKLOGGED :: 152.500%! ~~ 
+22:58:35.101 WARN  ~~ LOOPS: 13. ENTITY #: 555//235. VIEW #: 3. BACKLOGGED :: 119.308%! ~~ 
+22:58:36.132 WARN  ~~ LOOPS: 15. ENTITY #: 556//235. VIEW #: 3. BACKLOGGED :: 109.400%! ~~ 
+22:58:37.241 WARN  ~~ LOOPS: 14. ENTITY #: 560//233. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+22:58:38.277 WARN  ~~ LOOPS: 14. ENTITY #: 565//237. VIEW #: 3. BACKLOGGED :: 102.000%! ~~ 
+22:58:40.314 WARN  ~~ LOOPS: 13. ENTITY #: 577//242. VIEW #: 3. BACKLOGGED :: 103.846%! ~~ 
+22:58:41.420 WARN  ~~ LOOPS: 13. ENTITY #: 573//246. VIEW #: 3. BACKLOGGED :: 113.538%! ~~ 
+22:58:43.018 WARN  ~~ LOOPS: 11. ENTITY #: 573//255. VIEW #: 3. BACKLOGGED :: 116.455%! ~~ 
+22:58:44.043 WARN  ~~ LOOPS: 11. ENTITY #: 580//257. VIEW #: 3. BACKLOGGED :: 167.455%! ~~ 
+22:58:45.059 WARN  ~~ LOOPS: 12. ENTITY #: 584//260. VIEW #: 3. BACKLOGGED :: 140.750%! ~~ 
+22:58:46.105 WARN  ~~ LOOPS: 13. ENTITY #: 591//263. VIEW #: 3. BACKLOGGED :: 141.692%! ~~ 
+22:58:48.228 WARN  ~~ LOOPS: 14. ENTITY #: 581//260. VIEW #: 3. BACKLOGGED :: 102.857%! ~~ 
+22:58:49.239 WARN  ~~ LOOPS: 13. ENTITY #: 579//255. VIEW #: 3. BACKLOGGED :: 116.769%! ~~ 
+22:58:50.243 WARN  ~~ LOOPS: 13. ENTITY #: 573//249. VIEW #: 3. BACKLOGGED :: 117.923%! ~~ 
+22:58:51.245 WARN  ~~ LOOPS: 14. ENTITY #: 583//254. VIEW #: 3. BACKLOGGED :: 102.643%! ~~ 
+22:58:52.260 WARN  ~~ LOOPS: 13. ENTITY #: 579//262. VIEW #: 3. BACKLOGGED :: 104.769%! ~~ 
+22:58:53.296 WARN  ~~ LOOPS: 14. ENTITY #: 581//258. VIEW #: 3. BACKLOGGED :: 102.857%! ~~ 
+22:58:54.321 WARN  ~~ LOOPS: 14. ENTITY #: 593//266. VIEW #: 3. BACKLOGGED :: 102.000%! ~~ 
+22:58:55.415 WARN  ~~ LOOPS: 14. ENTITY #: 587//277. VIEW #: 3. BACKLOGGED :: 107.786%! ~~ 
+22:58:56.439 WARN  ~~ LOOPS: 13. ENTITY #: 588//279. VIEW #: 3. BACKLOGGED :: 110.308%! ~~ 
+22:58:57.455 WARN  ~~ LOOPS: 13. ENTITY #: 598//278. VIEW #: 3. BACKLOGGED :: 129.923%! ~~ 
+22:58:58.469 WARN  ~~ LOOPS: 12. ENTITY #: 583//274. VIEW #: 3. BACKLOGGED :: 134.250%! ~~ 
+22:58:59.487 WARN  ~~ LOOPS: 14. ENTITY #: 592//270. VIEW #: 3. BACKLOGGED :: 119.786%! ~~ 
+22:59:00.503 WARN  ~~ LOOPS: 9. ENTITY #: 597//270. VIEW #: 3. BACKLOGGED :: 164.000%! ~~ 
+22:59:01.519 WARN  ~~ LOOPS: 12. ENTITY #: 601//271. VIEW #: 3. BACKLOGGED :: 147.500%! ~~ 
+22:59:02.534 WARN  ~~ LOOPS: 13. ENTITY #: 595//272. VIEW #: 3. BACKLOGGED :: 130.385%! ~~ 
+22:59:03.625 WARN  ~~ LOOPS: 14. ENTITY #: 596//270. VIEW #: 3. BACKLOGGED :: 103.714%! ~~ 
+22:59:04.638 WARN  ~~ LOOPS: 14. ENTITY #: 592//271. VIEW #: 3. BACKLOGGED :: 103.500%! ~~ 
+22:59:05.653 WARN  ~~ LOOPS: 13. ENTITY #: 580//265. VIEW #: 3. BACKLOGGED :: 119.769%! ~~ 
+22:59:06.681 WARN  ~~ LOOPS: 14. ENTITY #: 578//256. VIEW #: 3. BACKLOGGED :: 111.857%! ~~ 
+22:59:07.717 WARN  ~~ LOOPS: 15. ENTITY #: 578//258. VIEW #: 3. BACKLOGGED :: 105.600%! ~~ 
+22:59:09.836 WARN  ~~ LOOPS: 14. ENTITY #: 586//258. VIEW #: 3. BACKLOGGED :: 100.929%! ~~ 
+22:59:13.910 WARN  ~~ LOOPS: 13. ENTITY #: 534//204. VIEW #: 3. BACKLOGGED :: 130.846%! ~~ 
+22:59:15.950 WARN  ~~ LOOPS: 14. ENTITY #: 536//204. VIEW #: 3. BACKLOGGED :: 120.643%! ~~ 
+22:59:19.059 WARN  ~~ LOOPS: 14. ENTITY #: 529//198. VIEW #: 3. BACKLOGGED :: 109.929%! ~~ 
+22:59:24.248 WARN  ~~ LOOPS: 13. ENTITY #: 527//186. VIEW #: 3. BACKLOGGED :: 118.385%! ~~ 
+22:59:36.480 WARN  ~~ LOOPS: 8. ENTITY #: 622//292. VIEW #: 3. BACKLOGGED :: 203.250%! ~~ 
+22:59:37.506 WARN  ~~ LOOPS: 12. ENTITY #: 636//296. VIEW #: 3. BACKLOGGED :: 119.250%! ~~ 
+22:59:38.521 WARN  ~~ LOOPS: 11. ENTITY #: 638//298. VIEW #: 3. BACKLOGGED :: 166.636%! ~~ 
+22:59:39.536 WARN  ~~ LOOPS: 13. ENTITY #: 641//295. VIEW #: 3. BACKLOGGED :: 119.538%! ~~ 
+22:59:40.636 WARN  ~~ LOOPS: 13. ENTITY #: 629//290. VIEW #: 3. BACKLOGGED :: 146.077%! ~~ 
+22:59:41.649 WARN  ~~ LOOPS: 13. ENTITY #: 634//288. VIEW #: 3. BACKLOGGED :: 131.308%! ~~ 
+22:59:42.664 WARN  ~~ LOOPS: 12. ENTITY #: 616//287. VIEW #: 3. BACKLOGGED :: 112.750%! ~~ 
+22:59:43.696 WARN  ~~ LOOPS: 14. ENTITY #: 571//258. VIEW #: 3. BACKLOGGED :: 112.500%! ~~ 
+22:59:44.703 WARN  ~~ LOOPS: 14. ENTITY #: 573//248. VIEW #: 3. BACKLOGGED :: 101.786%! ~~ 
+22:59:45.737 WARN  ~~ LOOPS: 14. ENTITY #: 593//256. VIEW #: 3. BACKLOGGED :: 121.286%! ~~ 
+22:59:46.829 WARN  ~~ LOOPS: 14. ENTITY #: 603//266. VIEW #: 3. BACKLOGGED :: 130.714%! ~~ 
+22:59:47.834 WARN  ~~ LOOPS: 13. ENTITY #: 587//258. VIEW #: 3. BACKLOGGED :: 127.154%! ~~ 
+22:59:53.048 WARN  ~~ LOOPS: 15. ENTITY #: 576//225. VIEW #: 3. BACKLOGGED :: 102.000%! ~~ 
+22:59:54.072 WARN  ~~ LOOPS: 14. ENTITY #: 569//226. VIEW #: 3. BACKLOGGED :: 112.500%! ~~ 
+22:59:56.110 WARN  ~~ LOOPS: 14. ENTITY #: 551//225. VIEW #: 3. BACKLOGGED :: 104.571%! ~~ 
+23:00:10.640 WARN  ~~ LOOPS: 15. ENTITY #: 580//252. VIEW #: 3. BACKLOGGED :: 112.200%! ~~ 
+23:00:11.659 WARN  ~~ LOOPS: 14. ENTITY #: 586//259. VIEW #: 3. BACKLOGGED :: 117.857%! ~~ 
+23:00:12.690 WARN  ~~ LOOPS: 13. ENTITY #: 595//270. VIEW #: 3. BACKLOGGED :: 126.923%! ~~ 
+23:00:13.705 WARN  ~~ LOOPS: 14. ENTITY #: 594//277. VIEW #: 3. BACKLOGGED :: 114.214%! ~~ 
+23:00:15.826 WARN  ~~ LOOPS: 15. ENTITY #: 561//262. VIEW #: 3. BACKLOGGED :: 106.000%! ~~ 
+23:00:16.839 WARN  ~~ LOOPS: 14. ENTITY #: 580//253. VIEW #: 3. BACKLOGGED :: 104.143%! ~~ 
+23:00:17.853 WARN  ~~ LOOPS: 13. ENTITY #: 589//273. VIEW #: 3. BACKLOGGED :: 120.000%! ~~ 
+23:00:18.868 WARN  ~~ LOOPS: 13. ENTITY #: 601//281. VIEW #: 3. BACKLOGGED :: 114.231%! ~~ 
+23:00:19.902 WARN  ~~ LOOPS: 13. ENTITY #: 589//289. VIEW #: 3. BACKLOGGED :: 132.000%! ~~ 
+23:00:20.902 WARN  ~~ LOOPS: 12. ENTITY #: 603//285. VIEW #: 3. BACKLOGGED :: 141.750%! ~~ 
+23:00:21.905 WARN  ~~ LOOPS: 12. ENTITY #: 589//287. VIEW #: 3. BACKLOGGED :: 135.750%! ~~ 
+23:00:22.918 WARN  ~~ LOOPS: 14. ENTITY #: 590//277. VIEW #: 3. BACKLOGGED :: 102.643%! ~~ 
+23:00:24.018 WARN  ~~ LOOPS: 13. ENTITY #: 608//278. VIEW #: 3. BACKLOGGED :: 138.000%! ~~ 
+23:00:25.039 WARN  ~~ LOOPS: 15. ENTITY #: 612//275. VIEW #: 3. BACKLOGGED :: 106.400%! ~~ 
+23:00:26.051 WARN  ~~ LOOPS: 13. ENTITY #: 615//280. VIEW #: 3. BACKLOGGED :: 126.692%! ~~ 
+23:00:27.068 WARN  ~~ LOOPS: 10. ENTITY #: 612//279. VIEW #: 3. BACKLOGGED :: 181.500%! ~~ 
+23:00:28.103 WARN  ~~ LOOPS: 14. ENTITY #: 592//263. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+23:00:29.132 WARN  ~~ LOOPS: 14. ENTITY #: 575//248. VIEW #: 3. BACKLOGGED :: 120.857%! ~~ 
+23:00:44.501 WARN  ~~ LOOPS: 12. ENTITY #: 566//229. VIEW #: 3. BACKLOGGED :: 123.750%! ~~ 
+23:00:46.652 WARN  ~~ LOOPS: 13. ENTITY #: 576//249. VIEW #: 3. BACKLOGGED :: 139.385%! ~~ 
+23:00:47.665 WARN  ~~ LOOPS: 13. ENTITY #: 576//253. VIEW #: 3. BACKLOGGED :: 124.846%! ~~ 
+23:00:49.702 WARN  ~~ LOOPS: 14. ENTITY #: 563//255. VIEW #: 3. BACKLOGGED :: 101.786%! ~~ 
+23:00:50.714 WARN  ~~ LOOPS: 14. ENTITY #: 574//245. VIEW #: 3. BACKLOGGED :: 111.429%! ~~ 
+23:00:51.743 WARN  ~~ LOOPS: 15. ENTITY #: 591//254. VIEW #: 3. BACKLOGGED :: 106.600%! ~~ 
+23:00:52.818 WARN  ~~ LOOPS: 14. ENTITY #: 583//255. VIEW #: 3. BACKLOGGED :: 112.714%! ~~ 
+23:00:57.896 WARN  ~~ LOOPS: 14. ENTITY #: 549//215. VIEW #: 3. BACKLOGGED :: 112.071%! ~~ 
+23:01:02.244 WARN  ~~ LOOPS: 14. ENTITY #: 578//236. VIEW #: 3. BACKLOGGED :: 136.071%! ~~ 
+23:01:03.294 WARN  ~~ LOOPS: 15. ENTITY #: 589//244. VIEW #: 3. BACKLOGGED :: 110.600%! ~~ 
+23:01:04.300 WARN  ~~ LOOPS: 13. ENTITY #: 596//248. VIEW #: 3. BACKLOGGED :: 115.385%! ~~ 
+23:01:06.337 WARN  ~~ LOOPS: 14. ENTITY #: 611//260. VIEW #: 3. BACKLOGGED :: 114.643%! ~~ 
+23:01:07.354 WARN  ~~ LOOPS: 14. ENTITY #: 610//260. VIEW #: 3. BACKLOGGED :: 120.214%! ~~ 
+23:01:08.434 WARN  ~~ LOOPS: 14. ENTITY #: 609//257. VIEW #: 3. BACKLOGGED :: 120.000%! ~~ 
+23:01:09.447 WARN  ~~ LOOPS: 13. ENTITY #: 601//257. VIEW #: 3. BACKLOGGED :: 111.692%! ~~ 
+23:01:11.486 WARN  ~~ LOOPS: 14. ENTITY #: 596//244. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+23:01:13.518 WARN  ~~ LOOPS: 14. ENTITY #: 590//239. VIEW #: 3. BACKLOGGED :: 100.071%! ~~ 
+23:01:22.093 WARN  ~~ LOOPS: 15. ENTITY #: 587//233. VIEW #: 3. BACKLOGGED :: 106.200%! ~~ 
+23:01:33.312 WARN  ~~ LOOPS: 14. ENTITY #: 584//264. VIEW #: 3. BACKLOGGED :: 102.857%! ~~ 
+23:01:34.336 WARN  ~~ LOOPS: 14. ENTITY #: 571//254. VIEW #: 3. BACKLOGGED :: 111.429%! ~~ 
+23:01:35.417 WARN  ~~ LOOPS: 15. ENTITY #: 576//239. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+23:01:39.498 WARN  ~~ LOOPS: 15. ENTITY #: 554//226. VIEW #: 3. BACKLOGGED :: 103.600%! ~~ 
+23:01:48.481 ERROR [ERROR] Detected an NaN position! 
+23:01:50.755 WARN  ~~ LOOPS: 14. ENTITY #: 570//231. VIEW #: 3. BACKLOGGED :: 113.357%! ~~ 
+23:01:51.850 WARN  ~~ LOOPS: 13. ENTITY #: 576//241. VIEW #: 3. BACKLOGGED :: 109.385%! ~~ 
+23:01:52.874 WARN  ~~ LOOPS: 11. ENTITY #: 578//243. VIEW #: 3. BACKLOGGED :: 144.545%! ~~ 
+23:01:53.887 WARN  ~~ LOOPS: 12. ENTITY #: 571//242. VIEW #: 3. BACKLOGGED :: 135.500%! ~~ 
+23:01:55.222 WARN  ~~ LOOPS: 12. ENTITY #: 572//239. VIEW #: 3. BACKLOGGED :: 141.000%! ~~ 
+23:01:56.243 WARN  ~~ LOOPS: 14. ENTITY #: 548//223. VIEW #: 3. BACKLOGGED :: 119.571%! ~~ 
+23:02:05.451 WARN  ~~ LOOPS: 14. ENTITY #: 588//251. VIEW #: 3. BACKLOGGED :: 113.357%! ~~ 
+23:02:06.464 WARN  ~~ LOOPS: 14. ENTITY #: 586//259. VIEW #: 3. BACKLOGGED :: 110.357%! ~~ 
+23:02:08.500 WARN  ~~ LOOPS: 13. ENTITY #: 569//252. VIEW #: 3. BACKLOGGED :: 123.692%! ~~ 
+23:02:09.504 WARN  ~~ LOOPS: 12. ENTITY #: 560//239. VIEW #: 3. BACKLOGGED :: 137.750%! ~~ 
+23:02:10.516 WARN  ~~ LOOPS: 12. ENTITY #: 555//229. VIEW #: 3. BACKLOGGED :: 100.500%! ~~ 
+23:02:13.867 WARN  ~~ LOOPS: 14. ENTITY #: 586//256. VIEW #: 3. BACKLOGGED :: 117.643%! ~~ 
+23:02:15.911 WARN  ~~ LOOPS: 14. ENTITY #: 583//258. VIEW #: 3. BACKLOGGED :: 112.714%! ~~ 
+23:02:16.928 WARN  ~~ LOOPS: 13. ENTITY #: 578//249. VIEW #: 3. BACKLOGGED :: 129.000%! ~~ 
+23:02:32.483 WARN  ~~ LOOPS: 15. ENTITY #: 553//225. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+23:02:49.241 WARN  ~~ LOOPS: 13. ENTITY #: 545//203. VIEW #: 3. BACKLOGGED :: 136.615%! ~~ 
+23:03:06.839 WARN  ~~ LOOPS: 14. ENTITY #: 540//182. VIEW #: 3. BACKLOGGED :: 106.071%! ~~ 
+23:03:25.260 WARN  ~~ LOOPS: 14. ENTITY #: 606//237. VIEW #: 3. BACKLOGGED :: 101.143%! ~~ 
+23:03:26.277 WARN  ~~ LOOPS: 8. ENTITY #: 619//251. VIEW #: 3. BACKLOGGED :: 216.750%! ~~ 
+23:03:27.299 WARN  ~~ LOOPS: 13. ENTITY #: 635//256. VIEW #: 3. BACKLOGGED :: 135.923%! ~~ 
+23:03:28.320 WARN  ~~ LOOPS: 13. ENTITY #: 629//264. VIEW #: 3. BACKLOGGED :: 114.462%! ~~ 
+23:03:29.343 WARN  ~~ LOOPS: 13. ENTITY #: 628//270. VIEW #: 3. BACKLOGGED :: 115.615%! ~~ 
+23:03:30.429 WARN  ~~ LOOPS: 14. ENTITY #: 628//265. VIEW #: 3. BACKLOGGED :: 105.429%! ~~ 
+23:03:31.468 WARN  ~~ LOOPS: 14. ENTITY #: 618//262. VIEW #: 3. BACKLOGGED :: 120.857%! ~~ 
+23:03:32.496 WARN  ~~ LOOPS: 14. ENTITY #: 619//255. VIEW #: 3. BACKLOGGED :: 120.429%! ~~ 
+23:03:33.515 WARN  ~~ LOOPS: 13. ENTITY #: 614//249. VIEW #: 3. BACKLOGGED :: 127.846%! ~~ 
+23:03:34.554 WARN  ~~ LOOPS: 14. ENTITY #: 609//248. VIEW #: 3. BACKLOGGED :: 113.571%! ~~ 
+23:03:35.630 WARN  ~~ LOOPS: 15. ENTITY #: 603//240. VIEW #: 3. BACKLOGGED :: 105.400%! ~~ 
+23:03:43.852 WARN  ~~ LOOPS: 12. ENTITY #: 592//230. VIEW #: 3. BACKLOGGED :: 127.750%! ~~ 
+23:03:44.871 WARN  ~~ LOOPS: 13. ENTITY #: 593//235. VIEW #: 3. BACKLOGGED :: 129.462%! ~~ 
+23:03:45.894 WARN  ~~ LOOPS: 15. ENTITY #: 597//238. VIEW #: 3. BACKLOGGED :: 106.600%! ~~ 
+23:03:54.084 WARN  ~~ LOOPS: 15. ENTITY #: 605//247. VIEW #: 3. BACKLOGGED :: 103.600%! ~~ 
+23:03:55.097 WARN  ~~ LOOPS: 15. ENTITY #: 615//247. VIEW #: 3. BACKLOGGED :: 100.200%! ~~ 
+23:03:57.130 WARN  ~~ LOOPS: 13. ENTITY #: 616//265. VIEW #: 3. BACKLOGGED :: 115.615%! ~~ 
+23:03:58.144 WARN  ~~ LOOPS: 15. ENTITY #: 619//254. VIEW #: 3. BACKLOGGED :: 102.800%! ~~ 
+23:04:00.236 WARN  ~~ LOOPS: 10. ENTITY #: 605//244. VIEW #: 3. BACKLOGGED :: 182.400%! ~~ 
+23:04:01.252 WARN  ~~ LOOPS: 14. ENTITY #: 595//252. VIEW #: 3. BACKLOGGED :: 106.714%! ~~ 
+23:04:04.420 WARN  ~~ LOOPS: 14. ENTITY #: 598//260. VIEW #: 3. BACKLOGGED :: 100.071%! ~~ 
+23:04:05.434 WARN  ~~ LOOPS: 14. ENTITY #: 591//258. VIEW #: 3. BACKLOGGED :: 112.500%! ~~ 
+23:04:06.453 WARN  ~~ LOOPS: 14. ENTITY #: 588//257. VIEW #: 3. BACKLOGGED :: 106.714%! ~~ 
+23:04:07.469 WARN  ~~ LOOPS: 14. ENTITY #: 583//246. VIEW #: 3. BACKLOGGED :: 111.214%! ~~ 
+23:04:10.525 WARN  ~~ LOOPS: 13. ENTITY #: 612//261. VIEW #: 3. BACKLOGGED :: 120.000%! ~~ 
+23:04:11.625 WARN  ~~ LOOPS: 14. ENTITY #: 606//266. VIEW #: 3. BACKLOGGED :: 115.071%! ~~ 
+23:04:12.645 WARN  ~~ LOOPS: 14. ENTITY #: 584//246. VIEW #: 3. BACKLOGGED :: 104.357%! ~~ 
+23:04:13.669 WARN  ~~ LOOPS: 14. ENTITY #: 590//248. VIEW #: 3. BACKLOGGED :: 103.929%! ~~ 
+23:04:15.703 WARN  ~~ LOOPS: 14. ENTITY #: 600//248. VIEW #: 3. BACKLOGGED :: 113.571%! ~~ 
+23:04:16.864 WARN  ~~ LOOPS: 13. ENTITY #: 613//251. VIEW #: 3. BACKLOGGED :: 109.154%! ~~ 
+23:04:17.880 WARN  ~~ LOOPS: 12. ENTITY #: 588//245. VIEW #: 3. BACKLOGGED :: 147.000%! ~~ 
+23:04:19.917 WARN  ~~ LOOPS: 14. ENTITY #: 595//239. VIEW #: 3. BACKLOGGED :: 113.571%! ~~ 
+23:05:01.243 WARN  ~~ LOOPS: 13. ENTITY #: 574//205. VIEW #: 3. BACKLOGGED :: 133.385%! ~~ 
+23:05:02.255 WARN  ~~ LOOPS: 15. ENTITY #: 576//203. VIEW #: 3. BACKLOGGED :: 100.400%! ~~ 
+23:05:07.430 WARN  ~~ LOOPS: 14. ENTITY #: 559//208. VIEW #: 3. BACKLOGGED :: 109.286%! ~~ 
+23:05:26.110 WARN  ~~ LOOPS: 15. ENTITY #: 580//198. VIEW #: 3. BACKLOGGED :: 100.600%! ~~ 
+23:05:30.240 WARN  ~~ LOOPS: 12. ENTITY #: 570//162. VIEW #: 3. BACKLOGGED :: 114.250%! ~~ 
+23:06:29.456 WARN  ~~ LOOPS: 14. ENTITY #: 612//215. VIEW #: 2. BACKLOGGED :: 110.357%! ~~ 
+23:06:31.496 WARN  ~~ LOOPS: 11. ENTITY #: 563//160. VIEW #: 2. BACKLOGGED :: 100.091%! ~~ 
+23:06:39.672 WARN  ~~ LOOPS: 14. ENTITY #: 605//233. VIEW #: 3. BACKLOGGED :: 110.357%! ~~ 
+23:06:40.688 WARN  ~~ LOOPS: 14. ENTITY #: 616//243. VIEW #: 3. BACKLOGGED :: 111.214%! ~~ 
+23:06:42.722 WARN  ~~ LOOPS: 12. ENTITY #: 625//257. VIEW #: 3. BACKLOGGED :: 136.000%! ~~ 
+23:06:43.818 WARN  ~~ LOOPS: 13. ENTITY #: 613//253. VIEW #: 3. BACKLOGGED :: 109.385%! ~~ 
+23:07:07.447 WARN  ~~ LOOPS: 17. ENTITY #: 546//187. VIEW #: 3. BACKLOGGED :: 108.529%! ~~ 
+23:07:09.486 WARN  ~~ LOOPS: 13. ENTITY #: 546//176. VIEW #: 3. BACKLOGGED :: 107.769%! ~~ 
+23:07:26.051 WARN  ~~ LOOPS: 10. ENTITY #: 589//210. VIEW #: 3. BACKLOGGED :: 178.500%! ~~ 
+23:07:27.065 WARN  ~~ LOOPS: 13. ENTITY #: 589//208. VIEW #: 3. BACKLOGGED :: 124.615%! ~~ 
+23:07:29.102 WARN  ~~ LOOPS: 12. ENTITY #: 585//199. VIEW #: 3. BACKLOGGED :: 119.500%! ~~ 
+23:08:54.699 WARN  ~~ LOOPS: 10. ENTITY #: 612//211. VIEW #: 2. BACKLOGGED :: 142.800%! ~~ 
+23:08:55.816 ERROR [ERROR] Detected an NaN position! 
+23:09:31.508 WARN  ~~ LOOPS: 11. ENTITY #: 615//220. VIEW #: 2. BACKLOGGED :: 155.455%! ~~ 
+23:09:32.618 WARN  ~~ LOOPS: 14. ENTITY #: 598//222. VIEW #: 2. BACKLOGGED :: 111.000%! ~~ 
+23:09:49.508 ERROR [ERROR] Detected an NaN position! 
+23:10:39.843 WARN  ~~ LOOPS: 9. ENTITY #: 572//177. VIEW #: 2. BACKLOGGED :: 362.333%! ~~ 
+23:13:05.057 WARN  ~~ LOOPS: 14. ENTITY #: 600//172. VIEW #: 2. BACKLOGGED :: 110.571%! ~~ 
+23:13:13.646 WARN  ~~ LOOPS: 16. ENTITY #: 591//185. VIEW #: 2. BACKLOGGED :: 108.563%! ~~ 
+23:13:15.699 WARN  ~~ LOOPS: 14. ENTITY #: 613//208. VIEW #: 2. BACKLOGGED :: 113.357%! ~~ 
+23:14:44.460 WARN  ~~ LOOPS: 12. ENTITY #: 557//172. VIEW #: 2. BACKLOGGED :: 103.000%! ~~ 
+23:18:58.634 WARN  ~~ LOOPS: 9. ENTITY #: 522//103. VIEW #: 2. BACKLOGGED :: 3493.667%! ~~ 
+23:21:51.622 WARN  ~~ LOOPS: 13. ENTITY #: 563//179. VIEW #: 2. BACKLOGGED :: 104.538%! ~~ 
+23:22:43.949 WARN  ~~ LOOPS: 13. ENTITY #: 547//134. VIEW #: 2. BACKLOGGED :: 121.385%! ~~ 
+23:23:11.686 WARN  ~~ LOOPS: 12. ENTITY #: 545//179. VIEW #: 2. BACKLOGGED :: 113.250%! ~~ 
+23:23:13.722 WARN  ~~ LOOPS: 14. ENTITY #: 565//207. VIEW #: 2. BACKLOGGED :: 108.643%! ~~ 
+23:23:15.841 WARN  ~~ LOOPS: 15. ENTITY #: 568//223. VIEW #: 2. BACKLOGGED :: 106.800%! ~~ 
+23:23:16.862 WARN  ~~ LOOPS: 14. ENTITY #: 580//227. VIEW #: 2. BACKLOGGED :: 111.429%! ~~ 
+23:23:17.880 WARN  ~~ LOOPS: 13. ENTITY #: 581//234. VIEW #: 2. BACKLOGGED :: 126.462%! ~~ 
+23:23:21.022 WARN  ~~ LOOPS: 15. ENTITY #: 592//249. VIEW #: 2. BACKLOGGED :: 105.600%! ~~ 
+23:23:35.372 WARN  ~~ LOOPS: 11. ENTITY #: 556//188. VIEW #: 2. BACKLOGGED :: 139.364%! ~~ 
+23:24:52.005 ERROR [ERROR] Detected an NaN position! 
+23:26:16.903 WARN  ~~ LOOPS: 15. ENTITY #: 615//254. VIEW #: 2. BACKLOGGED :: 109.200%! ~~ 
+23:26:19.022 WARN  ~~ LOOPS: 11. ENTITY #: 596//237. VIEW #: 2. BACKLOGGED :: 143.727%! ~~ 
+23:26:20.053 WARN  ~~ LOOPS: 14. ENTITY #: 575//220. VIEW #: 2. BACKLOGGED :: 113.357%! ~~ 
+23:26:21.070 WARN  ~~ LOOPS: 14. ENTITY #: 549//200. VIEW #: 2. BACKLOGGED :: 108.857%! ~~ 
+23:26:24.222 WARN  ~~ LOOPS: 16. ENTITY #: 612//236. VIEW #: 2. BACKLOGGED :: 101.813%! ~~ 
+23:26:25.258 WARN  ~~ LOOPS: 14. ENTITY #: 628//257. VIEW #: 2. BACKLOGGED :: 115.071%! ~~ 
+23:26:27.433 WARN  ~~ LOOPS: 14. ENTITY #: 633//262. VIEW #: 2. BACKLOGGED :: 107.357%! ~~ 
+23:26:28.461 WARN  ~~ LOOPS: 14. ENTITY #: 631//265. VIEW #: 2. BACKLOGGED :: 106.071%! ~~ 
+23:26:31.552 WARN  ~~ LOOPS: 14. ENTITY #: 575//217. VIEW #: 2. BACKLOGGED :: 104.571%! ~~ 
+23:26:37.708 WARN  ~~ LOOPS: 13. ENTITY #: 556//176. VIEW #: 2. BACKLOGGED :: 131.538%! ~~ 
+23:26:43.902 WARN  ~~ LOOPS: 13. ENTITY #: 558//177. VIEW #: 2. BACKLOGGED :: 103.846%! ~~ 
+23:29:59.690 WARN  ~~ LOOPS: 14. ENTITY #: 631//243. VIEW #: 3. BACKLOGGED :: 105.000%! ~~ 
+23:30:00.708 WARN  ~~ LOOPS: 14. ENTITY #: 621//253. VIEW #: 3. BACKLOGGED :: 100.071%! ~~ 
+23:30:03.849 WARN  ~~ LOOPS: 14. ENTITY #: 636//261. VIEW #: 3. BACKLOGGED :: 120.214%! ~~ 
+23:30:04.865 WARN  ~~ LOOPS: 14. ENTITY #: 637//264. VIEW #: 3. BACKLOGGED :: 113.786%! ~~ 
+23:30:05.883 WARN  ~~ LOOPS: 14. ENTITY #: 637//266. VIEW #: 3. BACKLOGGED :: 112.500%! ~~ 
+23:30:06.909 WARN  ~~ LOOPS: 14. ENTITY #: 626//258. VIEW #: 3. BACKLOGGED :: 113.571%! ~~ 
+23:30:07.925 WARN  ~~ LOOPS: 14. ENTITY #: 624//252. VIEW #: 3. BACKLOGGED :: 109.500%! ~~ 
+23:30:10.049 WARN  ~~ LOOPS: 14. ENTITY #: 614//247. VIEW #: 4. BACKLOGGED :: 109.714%! ~~ 
+23:30:11.065 WARN  ~~ LOOPS: 11. ENTITY #: 616//286. VIEW #: 4. BACKLOGGED :: 144.545%! ~~ 
+23:30:12.103 WARN  ~~ LOOPS: 13. ENTITY #: 609//293. VIEW #: 4. BACKLOGGED :: 108.231%! ~~ 
+23:30:13.423 WARN  ~~ LOOPS: 13. ENTITY #: 585//271. VIEW #: 4. BACKLOGGED :: 117.462%! ~~ 
+23:30:14.446 WARN  ~~ LOOPS: 13. ENTITY #: 579//257. VIEW #: 4. BACKLOGGED :: 127.385%! ~~ 
+23:30:15.496 WARN  ~~ LOOPS: 14. ENTITY #: 577//257. VIEW #: 4. BACKLOGGED :: 109.714%! ~~ 
+23:30:16.497 WARN  ~~ LOOPS: 14. ENTITY #: 570//252. VIEW #: 4. BACKLOGGED :: 101.357%! ~~ 
+23:30:18.524 WARN  ~~ LOOPS: 14. ENTITY #: 563//241. VIEW #: 4. BACKLOGGED :: 111.429%! ~~ 
+23:30:34.036 WARN  ~~ LOOPS: 14. ENTITY #: 572//250. VIEW #: 4. BACKLOGGED :: 112.929%! ~~ 
+23:30:35.054 WARN  ~~ LOOPS: 13. ENTITY #: 568//251. VIEW #: 4. BACKLOGGED :: 132.462%! ~~ 
+23:30:36.070 WARN  ~~ LOOPS: 9. ENTITY #: 575//241. VIEW #: 4. BACKLOGGED :: 125.000%! ~~ 
+23:30:37.106 WARN  ~~ LOOPS: 15. ENTITY #: 576//236. VIEW #: 4. BACKLOGGED :: 100.800%! ~~ 
+23:30:39.229 WARN  ~~ LOOPS: 14. ENTITY #: 585//253. VIEW #: 4. BACKLOGGED :: 122.786%! ~~ 
+23:30:41.262 WARN  ~~ LOOPS: 13. ENTITY #: 584//264. VIEW #: 4. BACKLOGGED :: 123.923%! ~~ 
+23:30:47.485 WARN  ~~ LOOPS: 14. ENTITY #: 580//237. VIEW #: 4. BACKLOGGED :: 104.786%! ~~ 
+23:30:48.509 WARN  ~~ LOOPS: 14. ENTITY #: 619//266. VIEW #: 4. BACKLOGGED :: 118.714%! ~~ 
+23:30:49.526 WARN  ~~ LOOPS: 12. ENTITY #: 624//284. VIEW #: 4. BACKLOGGED :: 146.250%! ~~ 
+23:30:50.543 WARN  ~~ LOOPS: 12. ENTITY #: 641//293. VIEW #: 4. BACKLOGGED :: 128.250%! ~~ 
+23:30:51.632 WARN  ~~ LOOPS: 12. ENTITY #: 636//302. VIEW #: 4. BACKLOGGED :: 145.000%! ~~ 
+23:30:52.648 WARN  ~~ LOOPS: 12. ENTITY #: 631//296. VIEW #: 4. BACKLOGGED :: 124.750%! ~~ 
+23:30:53.664 WARN  ~~ LOOPS: 13. ENTITY #: 627//289. VIEW #: 4. BACKLOGGED :: 123.000%! ~~ 
+23:30:54.679 WARN  ~~ LOOPS: 12. ENTITY #: 625//282. VIEW #: 4. BACKLOGGED :: 135.000%! ~~ 
+23:30:55.694 WARN  ~~ LOOPS: 14. ENTITY #: 602//242. VIEW #: 3. BACKLOGGED :: 119.571%! ~~ 
+23:30:56.708 WARN  ~~ LOOPS: 14. ENTITY #: 592//227. VIEW #: 3. BACKLOGGED :: 103.071%! ~~ 
+23:30:58.740 WARN  ~~ LOOPS: 11. ENTITY #: 585//203. VIEW #: 3. BACKLOGGED :: 133.091%! ~~ 
+23:31:00.851 WARN  ~~ LOOPS: 14. ENTITY #: 580//223. VIEW #: 3. BACKLOGGED :: 111.214%! ~~ 
+23:31:16.174 WARN  ~~ LOOPS: 14. ENTITY #: 561//182. VIEW #: 3. BACKLOGGED :: 110.571%! ~~ 
+23:31:19.450 WARN  ~~ LOOPS: 18. ENTITY #: 587//199. VIEW #: 3. BACKLOGGED :: 105.333%! ~~ 
+23:31:22.502 WARN  ~~ LOOPS: 13. ENTITY #: 534//189. VIEW #: 3. BACKLOGGED :: 115.615%! ~~ 
+23:32:19.552 WARN  ~~ LOOPS: 15. ENTITY #: 543//127. VIEW #: 3. BACKLOGGED :: 103.400%! ~~ 
+23:33:11.506 WARN  ~~ LOOPS: 14. ENTITY #: 551//187. VIEW #: 3. BACKLOGGED :: 110.357%! ~~ 
+23:34:54.827 WARN  ~~ LOOPS: 14. ENTITY #: 550//173. VIEW #: 3. BACKLOGGED :: 109.714%! ~~ 
+23:34:57.894 WARN  ~~ LOOPS: 14. ENTITY #: 599//235. VIEW #: 3. BACKLOGGED :: 104.786%! ~~ 
+23:34:58.897 WARN  ~~ LOOPS: 14. ENTITY #: 607//240. VIEW #: 3. BACKLOGGED :: 109.286%! ~~ 
+23:34:59.916 WARN  ~~ LOOPS: 13. ENTITY #: 619//246. VIEW #: 3. BACKLOGGED :: 129.231%! ~~ 
+23:35:00.933 WARN  ~~ LOOPS: 13. ENTITY #: 625//253. VIEW #: 3. BACKLOGGED :: 105.692%! ~~ 
+23:35:02.050 WARN  ~~ LOOPS: 14. ENTITY #: 624//259. VIEW #: 3. BACKLOGGED :: 138.643%! ~~ 
+23:35:03.081 WARN  ~~ LOOPS: 13. ENTITY #: 612//258. VIEW #: 3. BACKLOGGED :: 130.846%! ~~ 
+23:35:05.122 WARN  ~~ LOOPS: 13. ENTITY #: 589//232. VIEW #: 3. BACKLOGGED :: 121.385%! ~~ 
+23:35:06.151 WARN  ~~ LOOPS: 14. ENTITY #: 577//222. VIEW #: 3. BACKLOGGED :: 101.786%! ~~ 
+23:35:11.274 WARN  ~~ LOOPS: 13. ENTITY #: 560//203. VIEW #: 3. BACKLOGGED :: 128.538%! ~~ 
+23:35:12.321 WARN  ~~ LOOPS: 15. ENTITY #: 553//192. VIEW #: 3. BACKLOGGED :: 101.400%! ~~ 
+23:35:13.428 WARN  ~~ LOOPS: 10. ENTITY #: 547//181. VIEW #: 3. BACKLOGGED :: 142.200%! ~~ 
+23:36:01.455 WARN  ~~ LOOPS: 15. ENTITY #: 529//151. VIEW #: 3. BACKLOGGED :: 101.400%! ~~ 
+23:36:34.292 WARN  ~~ LOOPS: 15. ENTITY #: 569//179. VIEW #: 3. BACKLOGGED :: 104.600%! ~~ 
+23:36:38.466 WARN  ~~ LOOPS: 12. ENTITY #: 535//152. VIEW #: 3. BACKLOGGED :: 115.250%! ~~ 
+23:37:04.253 WARN  ~~ LOOPS: 15. ENTITY #: 581//239. VIEW #: 4. BACKLOGGED :: 102.800%! ~~ 
+23:37:05.459 WARN  ~~ LOOPS: 14. ENTITY #: 581//242. VIEW #: 4. BACKLOGGED :: 131.143%! ~~ 
+23:37:06.479 WARN  ~~ LOOPS: 12. ENTITY #: 584//242. VIEW #: 4. BACKLOGGED :: 130.750%! ~~ 
+23:37:08.523 WARN  ~~ LOOPS: 13. ENTITY #: 584//238. VIEW #: 4. BACKLOGGED :: 105.000%! ~~ 
+23:37:09.619 WARN  ~~ LOOPS: 15. ENTITY #: 567//235. VIEW #: 4. BACKLOGGED :: 106.200%! ~~ 
+23:37:14.720 WARN  ~~ LOOPS: 14. ENTITY #: 530//175. VIEW #: 4. BACKLOGGED :: 111.429%! ~~ 
+23:37:32.242 WARN  ~~ LOOPS: 11. ENTITY #: 550//208. VIEW #: 4. BACKLOGGED :: 130.364%! ~~ 
+23:37:34.293 WARN  ~~ LOOPS: 15. ENTITY #: 551//214. VIEW #: 4. BACKLOGGED :: 107.000%! ~~ 
+23:37:37.443 WARN  ~~ LOOPS: 14. ENTITY #: 546//223. VIEW #: 4. BACKLOGGED :: 120.857%! ~~ 
+23:37:58.019 WARN  ~~ LOOPS: 13. ENTITY #: 548//177. VIEW #: 4. BACKLOGGED :: 115.385%! ~~ 
+23:38:12.442 WARN  ~~ LOOPS: 16. ENTITY #: 566//206. VIEW #: 4. BACKLOGGED :: 109.875%! ~~ 
+23:38:21.688 WARN  ~~ LOOPS: 15. ENTITY #: 554//206. VIEW #: 4. BACKLOGGED :: 103.000%! ~~ 
+23:38:25.816 WARN  ~~ LOOPS: 10. ENTITY #: 558//197. VIEW #: 4. BACKLOGGED :: 132.300%! ~~ 
+23:38:52.431 WARN  ~~ LOOPS: 13. ENTITY #: 523//189. VIEW #: 4. BACKLOGGED :: 113.308%! ~~ 
+23:39:20.267 WARN  ~~ LOOPS: 10. ENTITY #: 533//236. VIEW #: 4. BACKLOGGED :: 144.000%! ~~ 
+23:39:21.293 WARN  ~~ LOOPS: 15. ENTITY #: 536//231. VIEW #: 4. BACKLOGGED :: 105.400%! ~~ 
+23:39:28.624 WARN  ~~ LOOPS: 14. ENTITY #: 532//217. VIEW #: 4. BACKLOGGED :: 116.571%! ~~ 
+23:39:34.818 WARN  ~~ LOOPS: 14. ENTITY #: 530//212. VIEW #: 4. BACKLOGGED :: 114.214%! ~~ 
+23:39:40.946 WARN  ~~ LOOPS: 15. ENTITY #: 533//205. VIEW #: 4. BACKLOGGED :: 102.200%! ~~ 
+23:39:47.117 WARN  ~~ LOOPS: 11. ENTITY #: 549//221. VIEW #: 4. BACKLOGGED :: 124.909%! ~~ 
+23:39:48.133 WARN  ~~ LOOPS: 14. ENTITY #: 552//225. VIEW #: 4. BACKLOGGED :: 111.857%! ~~ 
+23:39:49.218 WARN  ~~ LOOPS: 15. ENTITY #: 555//229. VIEW #: 4. BACKLOGGED :: 104.400%! ~~ 
+23:40:06.707 WARN  ~~ LOOPS: 14. ENTITY #: 562//222. VIEW #: 4. BACKLOGGED :: 115.500%! ~~ 
+23:40:07.722 WARN  ~~ LOOPS: 14. ENTITY #: 565//236. VIEW #: 4. BACKLOGGED :: 101.357%! ~~ 
+23:40:08.544 ERROR [ERROR] Detected an NaN position! 
+23:40:08.821 WARN  ~~ LOOPS: 15. ENTITY #: 555//227. VIEW #: 4. BACKLOGGED :: 108.000%! ~~ 
+23:40:09.857 WARN  ~~ LOOPS: 15. ENTITY #: 564//244. VIEW #: 4. BACKLOGGED :: 101.200%! ~~ 
+23:40:10.890 WARN  ~~ LOOPS: 13. ENTITY #: 566//246. VIEW #: 4. BACKLOGGED :: 136.615%! ~~ 
+23:40:11.905 WARN  ~~ LOOPS: 14. ENTITY #: 565//241. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+23:40:13.244 WARN  ~~ LOOPS: 14. ENTITY #: 570//241. VIEW #: 4. BACKLOGGED :: 149.357%! ~~ 
+23:40:14.271 WARN  ~~ LOOPS: 13. ENTITY #: 576//246. VIEW #: 4. BACKLOGGED :: 130.385%! ~~ 
+23:40:15.304 WARN  ~~ LOOPS: 14. ENTITY #: 577//258. VIEW #: 4. BACKLOGGED :: 110.357%! ~~ 
+23:40:16.324 WARN  ~~ LOOPS: 12. ENTITY #: 583//256. VIEW #: 4. BACKLOGGED :: 145.750%! ~~ 
+23:40:17.346 WARN  ~~ LOOPS: 14. ENTITY #: 614//259. VIEW #: 4. BACKLOGGED :: 112.500%! ~~ 
+23:40:18.417 WARN  ~~ LOOPS: 13. ENTITY #: 617//269. VIEW #: 4. BACKLOGGED :: 108.923%! ~~ 
+23:40:19.451 WARN  ~~ LOOPS: 14. ENTITY #: 616//283. VIEW #: 4. BACKLOGGED :: 115.500%! ~~ 
+23:40:20.469 WARN  ~~ LOOPS: 12. ENTITY #: 627//302. VIEW #: 4. BACKLOGGED :: 131.000%! ~~ 
+23:40:21.489 WARN  ~~ LOOPS: 12. ENTITY #: 629//308. VIEW #: 4. BACKLOGGED :: 147.000%! ~~ 
+23:40:22.509 WARN  ~~ LOOPS: 12. ENTITY #: 627//308. VIEW #: 4. BACKLOGGED :: 148.000%! ~~ 
+23:40:23.617 WARN  ~~ LOOPS: 12. ENTITY #: 625//313. VIEW #: 4. BACKLOGGED :: 149.000%! ~~ 
+23:40:24.651 WARN  ~~ LOOPS: 13. ENTITY #: 619//313. VIEW #: 4. BACKLOGGED :: 131.769%! ~~ 
+23:40:25.668 WARN  ~~ LOOPS: 12. ENTITY #: 612//312. VIEW #: 4. BACKLOGGED :: 140.750%! ~~ 
+23:40:26.691 WARN  ~~ LOOPS: 13. ENTITY #: 597//299. VIEW #: 4. BACKLOGGED :: 137.769%! ~~ 
+23:40:28.723 WARN  ~~ LOOPS: 13. ENTITY #: 604//300. VIEW #: 4. BACKLOGGED :: 110.077%! ~~ 
+23:40:29.740 WARN  ~~ LOOPS: 13. ENTITY #: 616//304. VIEW #: 4. BACKLOGGED :: 120.692%! ~~ 
+23:40:30.855 WARN  ~~ LOOPS: 13. ENTITY #: 623//299. VIEW #: 4. BACKLOGGED :: 147.231%! ~~ 
+23:40:31.903 WARN  ~~ LOOPS: 13. ENTITY #: 596//284. VIEW #: 4. BACKLOGGED :: 135.923%! ~~ 
+23:40:32.930 WARN  ~~ LOOPS: 13. ENTITY #: 573//271. VIEW #: 4. BACKLOGGED :: 125.077%! ~~ 
+23:40:33.945 WARN  ~~ LOOPS: 15. ENTITY #: 566//250. VIEW #: 4. BACKLOGGED :: 104.800%! ~~ 
+23:40:36.274 ERROR [ERROR] Detected an NaN position! 
+23:40:37.089 WARN  ~~ LOOPS: 15. ENTITY #: 568//245. VIEW #: 4. BACKLOGGED :: 103.800%! ~~ 
+23:40:38.105 WARN  ~~ LOOPS: 10. ENTITY #: 566//240. VIEW #: 4. BACKLOGGED :: 141.300%! ~~ 
+23:40:39.228 WARN  ~~ LOOPS: 15. ENTITY #: 567//243. VIEW #: 4. BACKLOGGED :: 125.200%! ~~ 
+23:40:44.290 WARN  ~~ LOOPS: 15. ENTITY #: 580//229. VIEW #: 4. BACKLOGGED :: 106.400%! ~~ 
+23:40:50.479 WARN  ~~ LOOPS: 14. ENTITY #: 589//237. VIEW #: 4. BACKLOGGED :: 111.857%! ~~ 
+23:41:15.433 WARN  ~~ LOOPS: 17. ENTITY #: 589//228. VIEW #: 4. BACKLOGGED :: 4270.059%! ~~ 
+23:41:16.450 WARN  ~~ LOOPS: 13. ENTITY #: 587//222. VIEW #: 4. BACKLOGGED :: 133.385%! ~~ 
+23:41:17.483 WARN  ~~ LOOPS: 15. ENTITY #: 581//221. VIEW #: 4. BACKLOGGED :: 110.200%! ~~ 
+23:42:04.460 WARN  ~~ LOOPS: 14. ENTITY #: 596//219. VIEW #: 4. BACKLOGGED :: 105.429%! ~~ 
+23:42:05.473 WARN  ~~ LOOPS: 13. ENTITY #: 590//228. VIEW #: 4. BACKLOGGED :: 120.000%! ~~ 
+23:42:06.487 WARN  ~~ LOOPS: 14. ENTITY #: 600//232. VIEW #: 4. BACKLOGGED :: 105.000%! ~~ 
+23:42:08.619 WARN  ~~ LOOPS: 9. ENTITY #: 598//232. VIEW #: 4. BACKLOGGED :: 151.000%! ~~ 
+23:42:09.640 WARN  ~~ LOOPS: 13. ENTITY #: 579//222. VIEW #: 4. BACKLOGGED :: 136.846%! ~~ 
+23:42:10.653 WARN  ~~ LOOPS: 14. ENTITY #: 591//220. VIEW #: 4. BACKLOGGED :: 105.429%! ~~ 
+23:42:11.678 WARN  ~~ LOOPS: 14. ENTITY #: 595//225. VIEW #: 4. BACKLOGGED :: 111.214%! ~~ 
+23:42:13.716 WARN  ~~ LOOPS: 13. ENTITY #: 602//234. VIEW #: 4. BACKLOGGED :: 118.154%! ~~ 
+23:42:15.818 WARN  ~~ LOOPS: 15. ENTITY #: 609//240. VIEW #: 4. BACKLOGGED :: 100.800%! ~~ 
+23:42:16.848 WARN  ~~ LOOPS: 15. ENTITY #: 625//248. VIEW #: 4. BACKLOGGED :: 106.800%! ~~ 
+23:42:17.862 WARN  ~~ LOOPS: 13. ENTITY #: 628//257. VIEW #: 4. BACKLOGGED :: 120.923%! ~~ 
+23:42:18.891 WARN  ~~ LOOPS: 14. ENTITY #: 637//259. VIEW #: 4. BACKLOGGED :: 107.143%! ~~ 
+23:42:20.922 WARN  ~~ LOOPS: 13. ENTITY #: 646//270. VIEW #: 4. BACKLOGGED :: 131.077%! ~~ 
+23:42:22.039 WARN  ~~ LOOPS: 14. ENTITY #: 650//274. VIEW #: 4. BACKLOGGED :: 108.000%! ~~ 
+23:42:23.051 WARN  ~~ LOOPS: 12. ENTITY #: 644//281. VIEW #: 4. BACKLOGGED :: 147.250%! ~~ 
+23:42:24.066 WARN  ~~ LOOPS: 12. ENTITY #: 646//279. VIEW #: 4. BACKLOGGED :: 145.000%! ~~ 
+23:42:25.096 WARN  ~~ LOOPS: 13. ENTITY #: 655//288. VIEW #: 4. BACKLOGGED :: 138.692%! ~~ 
+23:42:26.110 WARN  ~~ LOOPS: 12. ENTITY #: 647//294. VIEW #: 4. BACKLOGGED :: 138.000%! ~~ 
+23:42:27.125 WARN  ~~ LOOPS: 12. ENTITY #: 659//306. VIEW #: 4. BACKLOGGED :: 151.500%! ~~ 
+23:42:28.141 WARN  ~~ LOOPS: 11. ENTITY #: 664//328. VIEW #: 4. BACKLOGGED :: 170.455%! ~~ 
+23:42:29.243 WARN  ~~ LOOPS: 12. ENTITY #: 669//334. VIEW #: 4. BACKLOGGED :: 169.250%! ~~ 
+23:42:30.260 WARN  ~~ LOOPS: 10. ENTITY #: 651//335. VIEW #: 4. BACKLOGGED :: 196.200%! ~~ 
+23:42:31.305 WARN  ~~ LOOPS: 12. ENTITY #: 633//321. VIEW #: 4. BACKLOGGED :: 150.500%! ~~ 
+23:42:32.321 WARN  ~~ LOOPS: 11. ENTITY #: 628//304. VIEW #: 4. BACKLOGGED :: 171.273%! ~~ 
+23:42:33.452 WARN  ~~ LOOPS: 13. ENTITY #: 623//288. VIEW #: 4. BACKLOGGED :: 136.385%! ~~ 
+23:42:34.463 WARN  ~~ LOOPS: 11. ENTITY #: 625//297. VIEW #: 4. BACKLOGGED :: 156.545%! ~~ 
+23:42:35.514 WARN  ~~ LOOPS: 11. ENTITY #: 635//301. VIEW #: 4. BACKLOGGED :: 183.273%! ~~ 
+23:42:36.627 WARN  ~~ LOOPS: 10. ENTITY #: 632//306. VIEW #: 4. BACKLOGGED :: 170.100%! ~~ 
+23:42:37.669 WARN  ~~ LOOPS: 7. ENTITY #: 636//308. VIEW #: 4. BACKLOGGED :: 270.000%! ~~ 
+23:42:38.703 WARN  ~~ LOOPS: 9. ENTITY #: 646//316. VIEW #: 4. BACKLOGGED :: 188.333%! ~~ 
+23:42:39.819 WARN  ~~ LOOPS: 10. ENTITY #: 650//324. VIEW #: 4. BACKLOGGED :: 200.400%! ~~ 
+23:42:40.863 WARN  ~~ LOOPS: 11. ENTITY #: 654//335. VIEW #: 4. BACKLOGGED :: 186.818%! ~~ 
+23:42:41.898 WARN  ~~ LOOPS: 10. ENTITY #: 659//338. VIEW #: 4. BACKLOGGED :: 157.200%! ~~ 
+23:42:43.029 WARN  ~~ LOOPS: 11. ENTITY #: 641//327. VIEW #: 4. BACKLOGGED :: 173.727%! ~~ 
+23:42:44.050 WARN  ~~ LOOPS: 10. ENTITY #: 641//320. VIEW #: 4. BACKLOGGED :: 207.300%! ~~ 
+23:42:45.070 WARN  ~~ LOOPS: 11. ENTITY #: 636//314. VIEW #: 4. BACKLOGGED :: 169.636%! ~~ 
+23:42:46.097 WARN  ~~ LOOPS: 11. ENTITY #: 638//315. VIEW #: 4. BACKLOGGED :: 139.909%! ~~ 
+23:42:47.225 WARN  ~~ LOOPS: 11. ENTITY #: 632//309. VIEW #: 4. BACKLOGGED :: 165.000%! ~~ 
+23:42:48.257 WARN  ~~ LOOPS: 13. ENTITY #: 623//311. VIEW #: 4. BACKLOGGED :: 121.846%! ~~ 
+23:42:49.274 WARN  ~~ LOOPS: 11. ENTITY #: 632//305. VIEW #: 4. BACKLOGGED :: 159.545%! ~~ 
+23:42:50.319 WARN  ~~ LOOPS: 13. ENTITY #: 624//301. VIEW #: 4. BACKLOGGED :: 141.462%! ~~ 
+23:42:51.417 WARN  ~~ LOOPS: 11. ENTITY #: 621//297. VIEW #: 4. BACKLOGGED :: 139.909%! ~~ 
+23:42:52.443 WARN  ~~ LOOPS: 13. ENTITY #: 608//290. VIEW #: 4. BACKLOGGED :: 120.000%! ~~ 
+23:42:53.458 WARN  ~~ LOOPS: 13. ENTITY #: 602//277. VIEW #: 4. BACKLOGGED :: 113.538%! ~~ 
+23:42:54.472 WARN  ~~ LOOPS: 13. ENTITY #: 594//271. VIEW #: 4. BACKLOGGED :: 113.769%! ~~ 
+23:42:55.489 WARN  ~~ LOOPS: 14. ENTITY #: 591//271. VIEW #: 4. BACKLOGGED :: 119.786%! ~~ 
+23:42:56.502 WARN  ~~ LOOPS: 13. ENTITY #: 571//258. VIEW #: 4. BACKLOGGED :: 119.308%! ~~ 
+23:42:58.622 WARN  ~~ LOOPS: 15. ENTITY #: 566//244. VIEW #: 4. BACKLOGGED :: 123.400%! ~~ 
+23:43:00.649 WARN  ~~ LOOPS: 13. ENTITY #: 564//239. VIEW #: 4. BACKLOGGED :: 102.231%! ~~ 
+23:43:01.654 WARN  ~~ LOOPS: 15. ENTITY #: 564//240. VIEW #: 4. BACKLOGGED :: 100.600%! ~~ 
+23:43:02.667 WARN  ~~ LOOPS: 14. ENTITY #: 568//249. VIEW #: 4. BACKLOGGED :: 110.786%! ~~ 
+23:43:04.705 WARN  ~~ LOOPS: 14. ENTITY #: 575//254. VIEW #: 4. BACKLOGGED :: 109.714%! ~~ 
+23:43:05.729 WARN  ~~ LOOPS: 13. ENTITY #: 580//259. VIEW #: 4. BACKLOGGED :: 127.615%! ~~ 
+23:43:06.831 WARN  ~~ LOOPS: 10. ENTITY #: 588//261. VIEW #: 4. BACKLOGGED :: 150.600%! ~~ 
+23:43:07.849 WARN  ~~ LOOPS: 13. ENTITY #: 586//262. VIEW #: 4. BACKLOGGED :: 118.615%! ~~ 
+23:43:08.861 WARN  ~~ LOOPS: 13. ENTITY #: 576//257. VIEW #: 4. BACKLOGGED :: 127.154%! ~~ 
+23:43:09.902 WARN  ~~ LOOPS: 14. ENTITY #: 556//239. VIEW #: 4. BACKLOGGED :: 116.571%! ~~ 
+23:43:12.919 WARN  ~~ LOOPS: 14. ENTITY #: 552//241. VIEW #: 4. BACKLOGGED :: 107.357%! ~~ 
+23:43:14.019 WARN  ~~ LOOPS: 15. ENTITY #: 558//240. VIEW #: 4. BACKLOGGED :: 105.200%! ~~ 
+23:43:15.047 WARN  ~~ LOOPS: 14. ENTITY #: 558//238. VIEW #: 4. BACKLOGGED :: 121.286%! ~~ 
+23:43:16.071 WARN  ~~ LOOPS: 14. ENTITY #: 558//234. VIEW #: 4. BACKLOGGED :: 112.714%! ~~ 
+23:43:17.104 WARN  ~~ LOOPS: 15. ENTITY #: 559//232. VIEW #: 4. BACKLOGGED :: 107.400%! ~~ 
+23:43:18.118 WARN  ~~ LOOPS: 14. ENTITY #: 548//228. VIEW #: 4. BACKLOGGED :: 108.643%! ~~ 
+23:43:21.226 WARN  ~~ LOOPS: 15. ENTITY #: 573//232. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+23:43:24.279 WARN  ~~ LOOPS: 14. ENTITY #: 570//242. VIEW #: 4. BACKLOGGED :: 112.500%! ~~ 
+23:43:25.293 WARN  ~~ LOOPS: 15. ENTITY #: 567//231. VIEW #: 4. BACKLOGGED :: 103.600%! ~~ 
+23:43:26.306 WARN  ~~ LOOPS: 15. ENTITY #: 565//232. VIEW #: 4. BACKLOGGED :: 100.600%! ~~ 
+23:43:27.320 WARN  ~~ LOOPS: 14. ENTITY #: 560//224. VIEW #: 4. BACKLOGGED :: 109.929%! ~~ 
+23:43:29.441 WARN  ~~ LOOPS: 13. ENTITY #: 544//224. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+23:43:32.497 WARN  ~~ LOOPS: 15. ENTITY #: 538//204. VIEW #: 4. BACKLOGGED :: 104.400%! ~~ 
+23:43:35.621 WARN  ~~ LOOPS: 15. ENTITY #: 549//208. VIEW #: 4. BACKLOGGED :: 107.800%! ~~ 
+23:43:36.646 WARN  ~~ LOOPS: 15. ENTITY #: 549//207. VIEW #: 4. BACKLOGGED :: 105.600%! ~~ 
+23:43:37.667 WARN  ~~ LOOPS: 9. ENTITY #: 556//206. VIEW #: 4. BACKLOGGED :: 170.000%! ~~ 
+23:43:38.689 WARN  ~~ LOOPS: 14. ENTITY #: 552//206. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+23:43:43.841 WARN  ~~ LOOPS: 15. ENTITY #: 587//225. VIEW #: 4. BACKLOGGED :: 103.200%! ~~ 
+23:43:47.018 WARN  ~~ LOOPS: 14. ENTITY #: 576//220. VIEW #: 4. BACKLOGGED :: 122.571%! ~~ 
+23:43:48.050 WARN  ~~ LOOPS: 13. ENTITY #: 586//225. VIEW #: 4. BACKLOGGED :: 119.308%! ~~ 
+23:43:51.097 WARN  ~~ LOOPS: 15. ENTITY #: 586//234. VIEW #: 4. BACKLOGGED :: 101.000%! ~~ 
+23:43:53.124 WARN  ~~ LOOPS: 14. ENTITY #: 598//232. VIEW #: 4. BACKLOGGED :: 111.429%! ~~ 
+23:43:54.222 WARN  ~~ LOOPS: 15. ENTITY #: 592//230. VIEW #: 4. BACKLOGGED :: 107.800%! ~~ 
+23:43:55.247 WARN  ~~ LOOPS: 15. ENTITY #: 598//230. VIEW #: 4. BACKLOGGED :: 101.800%! ~~ 
+23:43:56.286 WARN  ~~ LOOPS: 15. ENTITY #: 550//223. VIEW #: 4. BACKLOGGED :: 110.800%! ~~ 
+23:44:07.656 WARN  ~~ LOOPS: 13. ENTITY #: 558//180. VIEW #: 4. BACKLOGGED :: 102.923%! ~~ 
+23:44:08.704 WARN  ~~ LOOPS: 15. ENTITY #: 546//180. VIEW #: 4. BACKLOGGED :: 106.800%! ~~ 
+23:44:09.720 WARN  ~~ LOOPS: 12. ENTITY #: 547//177. VIEW #: 4. BACKLOGGED :: 123.500%! ~~ 
+23:44:17.947 WARN  ~~ LOOPS: 15. ENTITY #: 555//195. VIEW #: 4. BACKLOGGED :: 107.800%! ~~ 
+23:44:28.165 WARN  ~~ LOOPS: 14. ENTITY #: 568//207. VIEW #: 4. BACKLOGGED :: 100.500%! ~~ 
+23:44:32.289 WARN  ~~ LOOPS: 14. ENTITY #: 591//229. VIEW #: 4. BACKLOGGED :: 115.929%! ~~ 
+23:44:33.301 WARN  ~~ LOOPS: 13. ENTITY #: 594//232. VIEW #: 4. BACKLOGGED :: 119.769%! ~~ 
+23:44:34.315 WARN  ~~ LOOPS: 14. ENTITY #: 580//232. VIEW #: 4. BACKLOGGED :: 109.714%! ~~ 
+23:44:35.443 WARN  ~~ LOOPS: 15. ENTITY #: 596//227. VIEW #: 4. BACKLOGGED :: 100.800%! ~~ 
+23:44:37.484 WARN  ~~ LOOPS: 13. ENTITY #: 573//221. VIEW #: 4. BACKLOGGED :: 111.231%! ~~ 
+23:44:38.493 WARN  ~~ LOOPS: 14. ENTITY #: 571//217. VIEW #: 4. BACKLOGGED :: 100.286%! ~~ 
+23:44:40.620 WARN  ~~ LOOPS: 10. ENTITY #: 576//214. VIEW #: 4. BACKLOGGED :: 100.800%! ~~ 
+23:44:45.822 WARN  ~~ LOOPS: 16. ENTITY #: 570//205. VIEW #: 4. BACKLOGGED :: 109.500%! ~~ 
+23:44:58.066 WARN  ~~ LOOPS: 13. ENTITY #: 591//250. VIEW #: 4. BACKLOGGED :: 125.769%! ~~ 
+23:44:59.100 WARN  ~~ LOOPS: 14. ENTITY #: 602//264. VIEW #: 4. BACKLOGGED :: 104.357%! ~~ 
+23:45:00.117 WARN  ~~ LOOPS: 13. ENTITY #: 616//279. VIEW #: 4. BACKLOGGED :: 120.923%! ~~ 
+23:45:01.144 WARN  ~~ LOOPS: 12. ENTITY #: 594//274. VIEW #: 4. BACKLOGGED :: 158.250%! ~~ 
+23:45:02.223 WARN  ~~ LOOPS: 14. ENTITY #: 585//255. VIEW #: 4. BACKLOGGED :: 103.500%! ~~ 
+23:45:05.297 WARN  ~~ LOOPS: 14. ENTITY #: 577//243. VIEW #: 4. BACKLOGGED :: 117.429%! ~~ 
+23:45:06.313 WARN  ~~ LOOPS: 13. ENTITY #: 572//241. VIEW #: 4. BACKLOGGED :: 119.538%! ~~ 
+23:45:09.445 WARN  ~~ LOOPS: 14. ENTITY #: 576//236. VIEW #: 4. BACKLOGGED :: 103.500%! ~~ 
+23:45:10.460 WARN  ~~ LOOPS: 14. ENTITY #: 575//231. VIEW #: 4. BACKLOGGED :: 109.500%! ~~ 
+23:45:11.485 WARN  ~~ LOOPS: 8. ENTITY #: 572//227. VIEW #: 4. BACKLOGGED :: 161.250%! ~~ 
+23:45:12.506 WARN  ~~ LOOPS: 13. ENTITY #: 569//220. VIEW #: 4. BACKLOGGED :: 126.923%! ~~ 
+23:45:13.541 WARN  ~~ LOOPS: 14. ENTITY #: 559//212. VIEW #: 4. BACKLOGGED :: 122.571%! ~~ 
+23:45:14.634 WARN  ~~ LOOPS: 14. ENTITY #: 560//208. VIEW #: 4. BACKLOGGED :: 104.143%! ~~ 
+23:45:36.069 WARN  ~~ LOOPS: 13. ENTITY #: 595//237. VIEW #: 4. BACKLOGGED :: 117.000%! ~~ 
+23:45:37.110 WARN  ~~ LOOPS: 15. ENTITY #: 602//239. VIEW #: 4. BACKLOGGED :: 107.200%! ~~ 
+23:45:38.125 WARN  ~~ LOOPS: 13. ENTITY #: 576//219. VIEW #: 4. BACKLOGGED :: 126.462%! ~~ 
+23:45:42.239 WARN  ~~ LOOPS: 15. ENTITY #: 568//213. VIEW #: 4. BACKLOGGED :: 102.800%! ~~ 
+23:45:43.258 WARN  ~~ LOOPS: 11. ENTITY #: 573//210. VIEW #: 4. BACKLOGGED :: 119.182%! ~~ 
+23:45:44.293 WARN  ~~ LOOPS: 15. ENTITY #: 565//208. VIEW #: 4. BACKLOGGED :: 105.400%! ~~ 
+23:45:45.295 WARN  ~~ LOOPS: 14. ENTITY #: 566//205. VIEW #: 4. BACKLOGGED :: 109.500%! ~~ 
+23:45:46.310 WARN  ~~ LOOPS: 14. ENTITY #: 572//216. VIEW #: 4. BACKLOGGED :: 109.929%! ~~ 
+23:45:49.422 WARN  ~~ LOOPS: 15. ENTITY #: 570//208. VIEW #: 4. BACKLOGGED :: 102.600%! ~~ 
+23:45:50.445 WARN  ~~ LOOPS: 15. ENTITY #: 555//201. VIEW #: 4. BACKLOGGED :: 105.800%! ~~ 
+23:46:15.098 WARN  ~~ LOOPS: 11. ENTITY #: 546//160. VIEW #: 4. BACKLOGGED :: 150.545%! ~~ 
+23:46:51.100 WARN  ~~ LOOPS: 15. ENTITY #: 561//165. VIEW #: 4. BACKLOGGED :: 107.600%! ~~ 
+23:46:53.232 WARN  ~~ LOOPS: 14. ENTITY #: 555//161. VIEW #: 4. BACKLOGGED :: 127.714%! ~~ 
+23:46:55.281 WARN  ~~ LOOPS: 14. ENTITY #: 545//155. VIEW #: 4. BACKLOGGED :: 117.429%! ~~ 
+23:47:03.480 WARN  ~~ LOOPS: 15. ENTITY #: 561//170. VIEW #: 4. BACKLOGGED :: 104.800%! ~~ 
+23:47:11.677 WARN  ~~ LOOPS: 13. ENTITY #: 576//195. VIEW #: 4. BACKLOGGED :: 126.692%! ~~ 
+23:47:17.858 WARN  ~~ LOOPS: 14. ENTITY #: 567//214. VIEW #: 4. BACKLOGGED :: 110.357%! ~~ 
+23:47:21.033 WARN  ~~ LOOPS: 16. ENTITY #: 573//226. VIEW #: 4. BACKLOGGED :: 112.313%! ~~ 
+23:47:22.052 WARN  ~~ LOOPS: 11. ENTITY #: 563//221. VIEW #: 4. BACKLOGGED :: 127.636%! ~~ 
+23:47:33.312 WARN  ~~ LOOPS: 14. ENTITY #: 596//241. VIEW #: 4. BACKLOGGED :: 103.714%! ~~ 
+23:47:35.456 WARN  ~~ LOOPS: 14. ENTITY #: 607//267. VIEW #: 4. BACKLOGGED :: 100.929%! ~~ 
+23:47:36.486 WARN  ~~ LOOPS: 13. ENTITY #: 628//282. VIEW #: 4. BACKLOGGED :: 123.923%! ~~ 
+23:47:37.519 WARN  ~~ LOOPS: 13. ENTITY #: 646//294. VIEW #: 4. BACKLOGGED :: 136.615%! ~~ 
+23:47:38.552 WARN  ~~ LOOPS: 11. ENTITY #: 641//294. VIEW #: 4. BACKLOGGED :: 170.182%! ~~ 
+23:47:39.649 WARN  ~~ LOOPS: 13. ENTITY #: 630//286. VIEW #: 4. BACKLOGGED :: 154.154%! ~~ 
+23:47:40.666 WARN  ~~ LOOPS: 12. ENTITY #: 618//266. VIEW #: 4. BACKLOGGED :: 150.250%! ~~ 
+23:47:41.701 WARN  ~~ LOOPS: 14. ENTITY #: 597//245. VIEW #: 4. BACKLOGGED :: 114.000%! ~~ 
+23:47:42.717 WARN  ~~ LOOPS: 13. ENTITY #: 591//235. VIEW #: 4. BACKLOGGED :: 100.615%! ~~ 
+23:47:43.837 WARN  ~~ LOOPS: 14. ENTITY #: 610//236. VIEW #: 4. BACKLOGGED :: 121.071%! ~~ 
+23:47:45.870 WARN  ~~ LOOPS: 13. ENTITY #: 610//217. VIEW #: 4. BACKLOGGED :: 128.077%! ~~ 
+23:47:46.898 WARN  ~~ LOOPS: 13. ENTITY #: 612//224. VIEW #: 4. BACKLOGGED :: 127.615%! ~~ 
+23:47:47.913 WARN  ~~ LOOPS: 13. ENTITY #: 621//234. VIEW #: 4. BACKLOGGED :: 113.538%! ~~ 
+23:47:48.930 WARN  ~~ LOOPS: 13. ENTITY #: 636//245. VIEW #: 4. BACKLOGGED :: 129.692%! ~~ 
+23:47:50.028 WARN  ~~ LOOPS: 13. ENTITY #: 636//245. VIEW #: 4. BACKLOGGED :: 128.308%! ~~ 
+23:47:51.049 WARN  ~~ LOOPS: 14. ENTITY #: 645//239. VIEW #: 4. BACKLOGGED :: 120.000%! ~~ 
+23:47:53.096 WARN  ~~ LOOPS: 12. ENTITY #: 645//245. VIEW #: 4. BACKLOGGED :: 156.500%! ~~ 
+23:47:54.115 WARN  ~~ LOOPS: 12. ENTITY #: 647//244. VIEW #: 4. BACKLOGGED :: 138.250%! ~~ 
+23:47:55.133 WARN  ~~ LOOPS: 13. ENTITY #: 647//247. VIEW #: 4. BACKLOGGED :: 129.231%! ~~ 
+23:47:56.250 WARN  ~~ LOOPS: 14. ENTITY #: 643//244. VIEW #: 4. BACKLOGGED :: 122.571%! ~~ 
+23:47:57.280 WARN  ~~ LOOPS: 12. ENTITY #: 649//246. VIEW #: 4. BACKLOGGED :: 142.000%! ~~ 
+23:47:58.313 WARN  ~~ LOOPS: 14. ENTITY #: 638//237. VIEW #: 4. BACKLOGGED :: 100.500%! ~~ 
+23:47:59.332 WARN  ~~ LOOPS: 12. ENTITY #: 624//228. VIEW #: 4. BACKLOGGED :: 145.250%! ~~ 
+23:48:00.434 WARN  ~~ LOOPS: 14. ENTITY #: 620//219. VIEW #: 4. BACKLOGGED :: 120.000%! ~~ 
+23:48:04.618 WARN  ~~ LOOPS: 14. ENTITY #: 642//246. VIEW #: 4. BACKLOGGED :: 104.786%! ~~ 
+23:48:05.645 WARN  ~~ LOOPS: 14. ENTITY #: 629//254. VIEW #: 4. BACKLOGGED :: 104.786%! ~~ 
+23:48:07.698 WARN  ~~ LOOPS: 14. ENTITY #: 633//247. VIEW #: 4. BACKLOGGED :: 101.571%! ~~ 
+23:48:08.714 WARN  ~~ LOOPS: 13. ENTITY #: 633//246. VIEW #: 4. BACKLOGGED :: 121.154%! ~~ 
+23:48:09.730 WARN  ~~ LOOPS: 13. ENTITY #: 626//235. VIEW #: 4. BACKLOGGED :: 112.846%! ~~ 
+23:48:10.832 WARN  ~~ LOOPS: 15. ENTITY #: 617//231. VIEW #: 4. BACKLOGGED :: 101.000%! ~~ 
+23:48:11.842 WARN  ~~ LOOPS: 13. ENTITY #: 619//232. VIEW #: 4. BACKLOGGED :: 116.538%! ~~ 
+23:48:12.857 WARN  ~~ LOOPS: 13. ENTITY #: 624//238. VIEW #: 4. BACKLOGGED :: 112.615%! ~~ 
+23:48:13.873 WARN  ~~ LOOPS: 12. ENTITY #: 629//243. VIEW #: 4. BACKLOGGED :: 146.500%! ~~ 
+23:48:14.898 WARN  ~~ LOOPS: 13. ENTITY #: 632//252. VIEW #: 4. BACKLOGGED :: 137.769%! ~~ 
+23:48:15.918 WARN  ~~ LOOPS: 12. ENTITY #: 636//252. VIEW #: 4. BACKLOGGED :: 148.750%! ~~ 
+23:48:17.044 WARN  ~~ LOOPS: 14. ENTITY #: 632//252. VIEW #: 4. BACKLOGGED :: 118.286%! ~~ 
+23:48:18.061 WARN  ~~ LOOPS: 13. ENTITY #: 637//250. VIEW #: 4. BACKLOGGED :: 117.692%! ~~ 
+23:48:19.078 WARN  ~~ LOOPS: 12. ENTITY #: 638//257. VIEW #: 4. BACKLOGGED :: 114.250%! ~~ 
+23:48:20.105 WARN  ~~ LOOPS: 13. ENTITY #: 632//259. VIEW #: 4. BACKLOGGED :: 113.769%! ~~ 
+23:48:21.123 WARN  ~~ LOOPS: 11. ENTITY #: 632//261. VIEW #: 4. BACKLOGGED :: 167.727%! ~~ 
+23:48:22.265 WARN  ~~ LOOPS: 11. ENTITY #: 628//265. VIEW #: 4. BACKLOGGED :: 162.818%! ~~ 
+23:48:23.310 WARN  ~~ LOOPS: 11. ENTITY #: 608//256. VIEW #: 4. BACKLOGGED :: 132.000%! ~~ 
+23:48:24.437 WARN  ~~ LOOPS: 12. ENTITY #: 601//242. VIEW #: 4. BACKLOGGED :: 147.750%! ~~ 
+23:48:25.453 WARN  ~~ LOOPS: 12. ENTITY #: 621//251. VIEW #: 4. BACKLOGGED :: 152.500%! ~~ 
+23:48:29.617 WARN  ~~ LOOPS: 14. ENTITY #: 600//233. VIEW #: 4. BACKLOGGED :: 111.857%! ~~ 
+23:48:30.635 WARN  ~~ LOOPS: 15. ENTITY #: 585//217. VIEW #: 4. BACKLOGGED :: 104.800%! ~~ 
+23:48:48.023 WARN  ~~ LOOPS: 14. ENTITY #: 567//218. VIEW #: 4. BACKLOGGED :: 103.714%! ~~ 
+23:48:50.079 WARN  ~~ LOOPS: 14. ENTITY #: 572//216. VIEW #: 4. BACKLOGGED :: 108.643%! ~~ 
+23:48:51.093 WARN  ~~ LOOPS: 15. ENTITY #: 526//182. VIEW #: 4. BACKLOGGED :: 102.000%! ~~ 
+23:50:01.665 WARN  ~~ LOOPS: 11. ENTITY #: 541//151. VIEW #: 4. BACKLOGGED :: 139.364%! ~~ 
+23:50:35.430 WARN  ~~ LOOPS: 15. ENTITY #: 538//137. VIEW #: 4. BACKLOGGED :: 107.000%! ~~ 
+23:50:39.845 WARN  ~~ LOOPS: 15. ENTITY #: 545//148. VIEW #: 4. BACKLOGGED :: 102.200%! ~~ 
+23:50:40.860 WARN  ~~ LOOPS: 14. ENTITY #: 549//152. VIEW #: 4. BACKLOGGED :: 100.929%! ~~ 
+23:50:53.250 WARN  ~~ LOOPS: 15. ENTITY #: 547//143. VIEW #: 4. BACKLOGGED :: 100.200%! ~~ 
+

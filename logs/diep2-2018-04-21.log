@@ -1,0 +1,65 @@
+01:39:14.634 WARN  ~~ LOOPS: 14. ENTITY #: 303//767. VIEW #: 1. BACKLOGGED :: 140.143%! ~~ 
+01:39:14.634 WARN  Total activation time: 71 
+01:39:14.634 WARN  Total collision time: 85 
+01:39:14.634 WARN  Total cycle time: 498 
+01:39:14.634 WARN  Total player update time: 100 
+01:39:14.634 WARN  Total lb+minimap processing time: 7 
+01:39:14.634 WARN  Total entity physics calculation time: 9 
+01:39:14.634 WARN  Total entity life+thought cycle time: 76 
+01:39:14.634 WARN  Total entity selfie-taking time: 14 
+01:39:14.634 WARN  Total time: 860 
+01:40:56.561 WARN  ~~ LOOPS: 14. ENTITY #: 1315//1042. VIEW #: 1. BACKLOGGED :: 110.143%! ~~ 
+01:40:56.561 WARN  Total activation time: 81 
+01:40:56.561 WARN  Total collision time: 176 
+01:40:56.561 WARN  Total cycle time: 257 
+01:40:56.561 WARN  Total player update time: 110 
+01:40:56.561 WARN  Total lb+minimap processing time: 39 
+01:40:56.561 WARN  Total entity physics calculation time: 12 
+01:40:56.561 WARN  Total entity life+thought cycle time: 87 
+01:40:56.561 WARN  Total entity selfie-taking time: 18 
+01:40:56.561 WARN  Total time: 780 
+01:40:57.625 WARN  ~~ LOOPS: 13. ENTITY #: 1355//1115. VIEW #: 1. BACKLOGGED :: 120.692%! ~~ 
+01:40:57.625 WARN  Total activation time: 77 
+01:40:57.625 WARN  Total collision time: 143 
+01:40:57.625 WARN  Total cycle time: 303 
+01:40:57.625 WARN  Total player update time: 140 
+01:40:57.625 WARN  Total lb+minimap processing time: 49 
+01:40:57.625 WARN  Total entity physics calculation time: 10 
+01:40:57.625 WARN  Total entity life+thought cycle time: 89 
+01:40:57.625 WARN  Total entity selfie-taking time: 30 
+01:40:57.625 WARN  Total time: 841 
+01:40:58.664 WARN  ~~ LOOPS: 14. ENTITY #: 1016//1003. VIEW #: 1. BACKLOGGED :: 118.500%! ~~ 
+01:40:58.664 WARN  Total activation time: 88 
+01:40:58.665 WARN  Total collision time: 136 
+01:40:58.665 WARN  Total cycle time: 329 
+01:40:58.665 WARN  Total player update time: 103 
+01:40:58.665 WARN  Total lb+minimap processing time: 33 
+01:40:58.665 WARN  Total entity physics calculation time: 20 
+01:40:58.665 WARN  Total entity life+thought cycle time: 76 
+01:40:58.665 WARN  Total entity selfie-taking time: 20 
+01:40:58.665 WARN  Total time: 805 
+01:57:40.101 ERROR [ERROR] A ghost has been found! 
+01:57:40.101 ERROR Type: Basic 
+01:57:40.101 ERROR Position: (335, 94) 
+01:57:40.103 ERROR [] 
+01:57:40.103 ERROR Health: 1.1066666666666665 
+01:57:40.103 WARN  Ghost removed successfully. 
+01:57:40.103 WARN  Ghost removed successfully. 
+01:58:29.005 ERROR Ghost entity found! 
+01:58:29.005 ERROR Type: Basic 
+01:58:29.005 ERROR Position: (99, 69) 
+01:58:29.005 ERROR [] 
+01:58:29.005 ERROR Health: -1 
+01:58:29.005 WARN  Ghost entity removed successfully. 
+01:58:30.856 ERROR Ghost entity found! 
+01:58:30.856 ERROR Type: Basic 
+01:58:30.856 ERROR Position: (113, 485) 
+01:58:30.856 ERROR [] 
+01:58:30.856 ERROR Health: -1 
+01:58:30.856 WARN  Ghost entity removed successfully. 
+21:25:32.701 ERROR Ghost entity found! 
+21:25:32.701 ERROR Type: Basic 
+21:25:32.701 ERROR Position: (178, 4207) 
+21:25:32.702 ERROR [] 
+21:25:32.702 ERROR Health: 1.1066666666666665 
+21:25:32.702 WARN  Ghost entity removed successfully. 

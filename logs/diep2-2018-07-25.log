@@ -1,0 +1,8 @@
+10:11:55.506 WARN  Bot connected and ready to use! 
+10:41:17.430 WARN  ~~ LOOPS: 14. ENTITY #: 938//57. VIEW #: 0. BACKLOGGED :: 126.000%! ~~ 
+17:21:40.639 WARN  ~~ LOOPS: 14. ENTITY #: 879//875. VIEW #: 1. BACKLOGGED :: 100.929%! ~~ 
+17:21:45.866 WARN  ~~ LOOPS: 14. ENTITY #: 882//882. VIEW #: 1. BACKLOGGED :: 102.214%! ~~ 
+17:23:21.444 ERROR [ERROR] Detected an NaN position! 
+17:31:19.645 WARN  Unknown beta-command request! Kicking. 
+17:31:31.236 WARN  Unknown beta-command request! Kicking. 
+17:48:26.680 WARN  ~~ LOOPS: 14. ENTITY #: 929//53. VIEW #: 0. BACKLOGGED :: 106.714%! ~~ 

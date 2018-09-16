@@ -1,0 +1,43 @@
+12:15:50.101 WARN  Bot connected and ready to use! 
+12:18:37.926 WARN  Bot connected and ready to use! 
+12:28:22.802 WARN  Bot connected and ready to use! 
+12:54:21.422 WARN  Bot connected and ready to use! 
+13:04:10.257 WARN  ~~ LOOPS: 13. ENTITY #: 912//56. VIEW #: 0. BACKLOGGED :: 106.615%! ~~ 
+10:36:52.423 WARN  Bot connected and ready to use! 
+10:38:08.534 WARN  Bot connected and ready to use! 
+10:40:09.913 ERROR read ECONNRESET
+Error: read ECONNRESET
+    at _errnoException (util.js:1024:11)
+    at TCP.onread (net.js:615:25) 
+10:46:17.298 WARN  ~~ LOOPS: 12. ENTITY #: 936//346. VIEW #: 1. BACKLOGGED :: 101.000%! ~~ 
+10:46:18.537 WARN  ~~ LOOPS: 15. ENTITY #: 936//355. VIEW #: 1. BACKLOGGED :: 101.600%! ~~ 
+10:46:23.405 WARN  ~~ LOOPS: 14. ENTITY #: 936//423. VIEW #: 1. BACKLOGGED :: 109.500%! ~~ 
+10:46:25.853 WARN  ~~ LOOPS: 14. ENTITY #: 936//488. VIEW #: 1. BACKLOGGED :: 110.143%! ~~ 
+10:46:27.088 WARN  ~~ LOOPS: 14. ENTITY #: 936//498. VIEW #: 1. BACKLOGGED :: 107.143%! ~~ 
+10:46:28.322 WARN  ~~ LOOPS: 12. ENTITY #: 936//503. VIEW #: 1. BACKLOGGED :: 142.750%! ~~ 
+10:46:29.527 WARN  ~~ LOOPS: 13. ENTITY #: 936//511. VIEW #: 1. BACKLOGGED :: 127.385%! ~~ 
+10:46:30.796 WARN  ~~ LOOPS: 12. ENTITY #: 936//508. VIEW #: 1. BACKLOGGED :: 123.000%! ~~ 
+10:46:32.005 WARN  ~~ LOOPS: 13. ENTITY #: 937//501. VIEW #: 1. BACKLOGGED :: 116.769%! ~~ 
+10:46:33.183 WARN  ~~ LOOPS: 14. ENTITY #: 937//508. VIEW #: 1. BACKLOGGED :: 112.286%! ~~ 
+10:46:34.427 WARN  ~~ LOOPS: 11. ENTITY #: 937//529. VIEW #: 1. BACKLOGGED :: 120.000%! ~~ 
+10:46:35.638 WARN  ~~ LOOPS: 13. ENTITY #: 937//524. VIEW #: 1. BACKLOGGED :: 124.385%! ~~ 
+10:46:36.839 WARN  ~~ LOOPS: 13. ENTITY #: 938//516. VIEW #: 1. BACKLOGGED :: 113.769%! ~~ 
+10:46:37.980 WARN  ~~ LOOPS: 13. ENTITY #: 938//492. VIEW #: 1. BACKLOGGED :: 113.308%! ~~ 
+10:46:39.246 WARN  ~~ LOOPS: 12. ENTITY #: 938//483. VIEW #: 1. BACKLOGGED :: 124.750%! ~~ 
+10:46:40.451 WARN  ~~ LOOPS: 14. ENTITY #: 938//478. VIEW #: 1. BACKLOGGED :: 109.286%! ~~ 
+10:46:41.687 WARN  ~~ LOOPS: 14. ENTITY #: 938//480. VIEW #: 1. BACKLOGGED :: 108.643%! ~~ 
+10:46:42.945 WARN  ~~ LOOPS: 12. ENTITY #: 938//493. VIEW #: 1. BACKLOGGED :: 112.250%! ~~ 
+10:46:44.164 WARN  ~~ LOOPS: 14. ENTITY #: 938//473. VIEW #: 1. BACKLOGGED :: 111.214%! ~~ 
+10:47:11.211 ERROR [ERROR] Detected an NaN position! 
+10:49:10.609 ERROR write ECONNABORTED
+Error: write ECONNABORTED
+    at _errnoException (util.js:1024:11)
+    at Socket._writeGeneric (net.js:767:25)
+    at Socket._write (net.js:786:8)
+    at doWrite (_stream_writable.js:387:12)
+    at writeOrBuffer (_stream_writable.js:373:5)
+    at Socket.Writable.write (_stream_writable.js:290:11)
+    at Socket.write (net.js:704:40)
+    at Sender.sendFrame (D:\Fariss stuff\Downloads\arras-io (2)\workspace\arras.io\node_modules\ws\lib\Sender.js:390:20)
+    at Sender.send (D:\Fariss stuff\Downloads\arras-io (2)\workspace\arras.io\node_modules\ws\lib\Sender.js:312:12)
+    at WebSocket.send (D:\Fariss stuff\Downloads\arras-io (2)\workspace\arras.io\node_modules\ws\lib\WebSocket.js:377:18) 

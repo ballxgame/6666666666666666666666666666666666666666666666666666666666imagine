@@ -1,0 +1,10 @@
+13:16:57.210 ERROR Ghost entity found! 
+13:16:57.210 ERROR Type: Basic 
+13:16:57.210 ERROR Position: (4334, 214) 
+13:16:57.211 ERROR [] 
+13:16:57.211 ERROR Health: 1.1066666666666665 
+13:16:57.211 WARN  Ghost entity removed successfully. 
+23:30:06.660 WARN  Malformed command packet! Kicking. 1 warning. 
+23:30:32.552 WARN  Malformed command packet! Kicking. 2 warnings. 
+23:30:35.447 WARN  Malformed command packet! Kicking. 3 warnings. 
+

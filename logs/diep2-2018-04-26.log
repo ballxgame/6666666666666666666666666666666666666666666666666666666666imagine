@@ -1,0 +1,697 @@
+01:08:45.406 WARN  ~~ LOOPS: 11. ENTITY #: 5666//0. VIEW #: 0. BACKLOGGED :: 121.636%! ~~ 
+01:08:45.406 WARN  Total activation time: 241 
+01:08:45.406 WARN  Total collision time: 25 
+01:08:45.406 WARN  Total cycle time: 178 
+01:08:45.406 WARN  Total player update time: 0 
+01:08:45.406 WARN  Total lb+minimap processing time: 169 
+01:08:45.406 WARN  Total entity physics calculation time: 45 
+01:08:45.406 WARN  Total entity life+thought cycle time: 0 
+01:08:45.406 WARN  Total entity selfie-taking time: 0 
+01:08:45.406 WARN  Total time: 658 
+01:08:46.610 WARN  ~~ LOOPS: 6. ENTITY #: 5686//941. VIEW #: 0. BACKLOGGED :: 279.500%! ~~ 
+01:08:46.610 WARN  Total activation time: 176 
+01:08:46.611 WARN  Total collision time: 113 
+01:08:46.611 WARN  Total cycle time: 270 
+01:08:46.611 WARN  Total player update time: 0 
+01:08:46.611 WARN  Total lb+minimap processing time: 438 
+01:08:46.611 WARN  Total entity physics calculation time: 21 
+01:08:46.611 WARN  Total entity life+thought cycle time: 102 
+01:08:46.611 WARN  Total entity selfie-taking time: 18 
+01:08:46.611 WARN  Total time: 1138 
+01:08:47.691 WARN  ~~ LOOPS: 4. ENTITY #: 5694//3. VIEW #: 0. BACKLOGGED :: 186.000%! ~~ 
+01:08:47.691 WARN  Total activation time: 66 
+01:08:47.691 WARN  Total collision time: 89 
+01:08:47.692 WARN  Total cycle time: 93 
+01:08:47.692 WARN  Total player update time: 0 
+01:08:47.692 WARN  Total lb+minimap processing time: 633 
+01:08:47.692 WARN  Total entity physics calculation time: 20 
+01:08:47.692 WARN  Total entity life+thought cycle time: 5 
+01:08:47.692 WARN  Total entity selfie-taking time: 0 
+01:08:47.692 WARN  Total time: 906 
+01:08:49.680 WARN  ~~ LOOPS: 14. ENTITY #: 5712//406. VIEW #: 0. BACKLOGGED :: 117.429%! ~~ 
+01:08:49.680 WARN  Total activation time: 212 
+01:08:49.680 WARN  Total collision time: 12 
+01:08:49.680 WARN  Total cycle time: 324 
+01:08:49.680 WARN  Total player update time: 0 
+01:08:49.681 WARN  Total lb+minimap processing time: 918 
+01:08:49.681 WARN  Total entity physics calculation time: 57 
+01:08:49.681 WARN  Total entity life+thought cycle time: 39 
+01:08:49.681 WARN  Total entity selfie-taking time: 18 
+01:08:49.681 WARN  Total time: 1580 
+01:08:54.246 WARN  ~~ LOOPS: 14. ENTITY #: 5754//408. VIEW #: 1. BACKLOGGED :: 112.286%! ~~ 
+01:08:54.246 WARN  Total activation time: 207 
+01:08:54.246 WARN  Total collision time: 13 
+01:08:54.246 WARN  Total cycle time: 304 
+01:08:54.246 WARN  Total player update time: 20 
+01:08:54.246 WARN  Total lb+minimap processing time: 1442 
+01:08:54.246 WARN  Total entity physics calculation time: 51 
+01:08:54.246 WARN  Total entity life+thought cycle time: 48 
+01:08:54.246 WARN  Total entity selfie-taking time: 14 
+01:08:54.247 WARN  Total time: 2099 
+01:08:56.596 WARN  ~~ LOOPS: 12. ENTITY #: 5751//479. VIEW #: 1. BACKLOGGED :: 136.500%! ~~ 
+01:08:56.596 WARN  Total activation time: 188 
+01:08:56.596 WARN  Total collision time: 10 
+01:08:56.596 WARN  Total cycle time: 348 
+01:08:56.596 WARN  Total player update time: 16 
+01:08:56.596 WARN  Total lb+minimap processing time: 1357 
+01:08:56.597 WARN  Total entity physics calculation time: 54 
+01:08:56.597 WARN  Total entity life+thought cycle time: 53 
+01:08:56.597 WARN  Total entity selfie-taking time: 17 
+01:08:56.597 WARN  Total time: 2043 
+01:08:59.030 WARN  ~~ LOOPS: 12. ENTITY #: 5765//477. VIEW #: 1. BACKLOGGED :: 132.750%! ~~ 
+01:08:59.030 WARN  Total activation time: 188 
+01:08:59.030 WARN  Total collision time: 82 
+01:08:59.030 WARN  Total cycle time: 261 
+01:08:59.030 WARN  Total player update time: 9 
+01:08:59.030 WARN  Total lb+minimap processing time: 1461 
+01:08:59.030 WARN  Total entity physics calculation time: 46 
+01:08:59.030 WARN  Total entity life+thought cycle time: 46 
+01:08:59.030 WARN  Total entity selfie-taking time: 22 
+01:08:59.030 WARN  Total time: 2115 
+01:09:01.693 WARN  ~~ LOOPS: 15. ENTITY #: 5793//384. VIEW #: 1. BACKLOGGED :: 100.600%! ~~ 
+01:09:01.693 WARN  Total activation time: 182 
+01:09:01.693 WARN  Total collision time: 31 
+01:09:01.693 WARN  Total cycle time: 290 
+01:09:01.693 WARN  Total player update time: 13 
+01:09:01.693 WARN  Total lb+minimap processing time: 1590 
+01:09:01.693 WARN  Total entity physics calculation time: 55 
+01:09:01.693 WARN  Total entity life+thought cycle time: 41 
+01:09:01.693 WARN  Total entity selfie-taking time: 25 
+01:09:01.694 WARN  Total time: 2227 
+01:09:09.496 WARN  ~~ LOOPS: 14. ENTITY #: 5880//416. VIEW #: 1. BACKLOGGED :: 112.929%! ~~ 
+01:09:09.496 WARN  Total activation time: 197 
+01:09:09.496 WARN  Total collision time: 12 
+01:09:09.496 WARN  Total cycle time: 318 
+01:09:09.496 WARN  Total player update time: 18 
+01:09:09.496 WARN  Total lb+minimap processing time: 1616 
+01:09:09.496 WARN  Total entity physics calculation time: 52 
+01:09:09.496 WARN  Total entity life+thought cycle time: 73 
+01:09:09.497 WARN  Total entity selfie-taking time: 15 
+01:09:09.497 WARN  Total time: 2301 
+01:09:14.722 WARN  ~~ LOOPS: 13. ENTITY #: 5925//451. VIEW #: 1. BACKLOGGED :: 120.923%! ~~ 
+01:09:14.722 WARN  Total activation time: 191 
+01:09:14.722 WARN  Total collision time: 15 
+01:09:14.722 WARN  Total cycle time: 318 
+01:09:14.722 WARN  Total player update time: 12 
+01:09:14.722 WARN  Total lb+minimap processing time: 1657 
+01:09:14.722 WARN  Total entity physics calculation time: 87 
+01:09:14.722 WARN  Total entity life+thought cycle time: 50 
+01:09:14.723 WARN  Total entity selfie-taking time: 12 
+01:09:14.723 WARN  Total time: 2342 
+01:09:17.366 WARN  ~~ LOOPS: 14. ENTITY #: 5964//420. VIEW #: 1. BACKLOGGED :: 100.500%! ~~ 
+01:09:17.366 WARN  Total activation time: 180 
+01:09:17.366 WARN  Total collision time: 10 
+01:09:17.367 WARN  Total cycle time: 279 
+01:09:17.367 WARN  Total player update time: 10 
+01:09:17.367 WARN  Total lb+minimap processing time: 1617 
+01:09:17.367 WARN  Total entity physics calculation time: 61 
+01:09:17.367 WARN  Total entity life+thought cycle time: 45 
+01:09:17.367 WARN  Total entity selfie-taking time: 12 
+01:09:17.367 WARN  Total time: 2214 
+01:09:23.554 WARN  ~~ LOOPS: 13. ENTITY #: 6033//504. VIEW #: 1. BACKLOGGED :: 131.308%! ~~ 
+01:09:23.554 WARN  Total activation time: 210 
+01:09:23.554 WARN  Total collision time: 23 
+01:09:23.554 WARN  Total cycle time: 336 
+01:09:23.554 WARN  Total player update time: 18 
+01:09:23.555 WARN  Total lb+minimap processing time: 2094 
+01:09:23.555 WARN  Total entity physics calculation time: 66 
+01:09:23.555 WARN  Total entity life+thought cycle time: 58 
+01:09:23.555 WARN  Total entity selfie-taking time: 18 
+01:09:23.555 WARN  Total time: 2823 
+01:09:26.199 WARN  ~~ LOOPS: 13. ENTITY #: 6049//527. VIEW #: 1. BACKLOGGED :: 122.769%! ~~ 
+01:09:26.199 WARN  Total activation time: 221 
+01:09:26.199 WARN  Total collision time: 17 
+01:09:26.200 WARN  Total cycle time: 293 
+01:09:26.200 WARN  Total player update time: 16 
+01:09:26.200 WARN  Total lb+minimap processing time: 1629 
+01:09:26.200 WARN  Total entity physics calculation time: 68 
+01:09:26.200 WARN  Total entity life+thought cycle time: 38 
+01:09:26.200 WARN  Total entity selfie-taking time: 15 
+01:09:26.200 WARN  Total time: 2297 
+01:09:28.856 WARN  ~~ LOOPS: 15. ENTITY #: 6067//492. VIEW #: 1. BACKLOGGED :: 105.000%! ~~ 
+01:09:28.856 WARN  Total activation time: 202 
+01:09:28.856 WARN  Total collision time: 19 
+01:09:28.856 WARN  Total cycle time: 304 
+01:09:28.856 WARN  Total player update time: 47 
+01:09:28.856 WARN  Total lb+minimap processing time: 1607 
+01:09:28.856 WARN  Total entity physics calculation time: 64 
+01:09:28.856 WARN  Total entity life+thought cycle time: 64 
+01:09:28.856 WARN  Total entity selfie-taking time: 10 
+01:09:28.856 WARN  Total time: 2317 
+01:09:31.509 WARN  ~~ LOOPS: 14. ENTITY #: 6083//559. VIEW #: 1. BACKLOGGED :: 118.500%! ~~ 
+01:09:31.509 WARN  Total activation time: 198 
+01:09:31.509 WARN  Total collision time: 22 
+01:09:31.509 WARN  Total cycle time: 333 
+01:09:31.509 WARN  Total player update time: 24 
+01:09:31.509 WARN  Total lb+minimap processing time: 1619 
+01:09:31.509 WARN  Total entity physics calculation time: 62 
+01:09:31.509 WARN  Total entity life+thought cycle time: 66 
+01:09:31.509 WARN  Total entity selfie-taking time: 15 
+01:09:31.509 WARN  Total time: 2339 
+01:09:34.228 WARN  ~~ LOOPS: 14. ENTITY #: 6096//593. VIEW #: 1. BACKLOGGED :: 112.714%! ~~ 
+01:09:34.228 WARN  Total activation time: 173 
+01:09:34.228 WARN  Total collision time: 11 
+01:09:34.228 WARN  Total cycle time: 342 
+01:09:34.228 WARN  Total player update time: 27 
+01:09:34.228 WARN  Total lb+minimap processing time: 1674 
+01:09:34.228 WARN  Total entity physics calculation time: 57 
+01:09:34.229 WARN  Total entity life+thought cycle time: 79 
+01:09:34.229 WARN  Total entity selfie-taking time: 13 
+01:09:34.229 WARN  Total time: 2376 
+01:09:39.428 WARN  ~~ LOOPS: 13. ENTITY #: 6137//652. VIEW #: 1. BACKLOGGED :: 117.000%! ~~ 
+01:09:39.428 WARN  Total activation time: 184 
+01:09:39.428 WARN  Total collision time: 20 
+01:09:39.428 WARN  Total cycle time: 303 
+01:09:39.428 WARN  Total player update time: 25 
+01:09:39.428 WARN  Total lb+minimap processing time: 1593 
+01:09:39.428 WARN  Total entity physics calculation time: 53 
+01:09:39.428 WARN  Total entity life+thought cycle time: 48 
+01:09:39.428 WARN  Total entity selfie-taking time: 14 
+01:09:39.428 WARN  Total time: 2240 
+01:09:42.011 WARN  ~~ LOOPS: 12. ENTITY #: 6155//693. VIEW #: 1. BACKLOGGED :: 141.250%! ~~ 
+01:09:42.011 WARN  Total activation time: 200 
+01:09:42.011 WARN  Total collision time: 20 
+01:09:42.011 WARN  Total cycle time: 345 
+01:09:42.011 WARN  Total player update time: 24 
+01:09:42.011 WARN  Total lb+minimap processing time: 1565 
+01:09:42.011 WARN  Total entity physics calculation time: 54 
+01:09:42.011 WARN  Total entity life+thought cycle time: 92 
+01:09:42.012 WARN  Total entity selfie-taking time: 28 
+01:09:42.012 WARN  Total time: 2328 
+01:09:44.772 WARN  ~~ LOOPS: 12. ENTITY #: 6185//708. VIEW #: 1. BACKLOGGED :: 136.750%! ~~ 
+01:09:44.773 WARN  Total activation time: 199 
+01:09:44.773 WARN  Total collision time: 26 
+01:09:44.773 WARN  Total cycle time: 322 
+01:09:44.773 WARN  Total player update time: 25 
+01:09:44.773 WARN  Total lb+minimap processing time: 1743 
+01:09:44.773 WARN  Total entity physics calculation time: 50 
+01:09:44.773 WARN  Total entity life+thought cycle time: 90 
+01:09:44.773 WARN  Total entity selfie-taking time: 20 
+01:09:44.773 WARN  Total time: 2475 
+01:09:47.526 WARN  ~~ LOOPS: 14. ENTITY #: 6208//249. VIEW #: 1. BACKLOGGED :: 102.857%! ~~ 
+01:09:47.526 WARN  Total activation time: 188 
+01:09:47.526 WARN  Total collision time: 13 
+01:09:47.526 WARN  Total cycle time: 279 
+01:09:47.526 WARN  Total player update time: 38 
+01:09:47.526 WARN  Total lb+minimap processing time: 1742 
+01:09:47.526 WARN  Total entity physics calculation time: 55 
+01:09:47.526 WARN  Total entity life+thought cycle time: 41 
+01:09:47.526 WARN  Total entity selfie-taking time: 12 
+01:09:47.526 WARN  Total time: 2368 
+01:09:50.256 WARN  ~~ LOOPS: 13. ENTITY #: 6238//694. VIEW #: 1. BACKLOGGED :: 132.231%! ~~ 
+01:09:50.256 WARN  Total activation time: 218 
+01:09:50.256 WARN  Total collision time: 23 
+01:09:50.256 WARN  Total cycle time: 332 
+01:09:50.257 WARN  Total player update time: 28 
+01:09:50.257 WARN  Total lb+minimap processing time: 1690 
+01:09:50.257 WARN  Total entity physics calculation time: 51 
+01:09:50.257 WARN  Total entity life+thought cycle time: 96 
+01:09:50.257 WARN  Total entity selfie-taking time: 29 
+01:09:50.257 WARN  Total time: 2467 
+01:09:52.941 WARN  ~~ LOOPS: 13. ENTITY #: 6254//720. VIEW #: 1. BACKLOGGED :: 125.308%! ~~ 
+01:09:52.941 WARN  Total activation time: 210 
+01:09:52.941 WARN  Total collision time: 20 
+01:09:52.942 WARN  Total cycle time: 313 
+01:09:52.942 WARN  Total player update time: 44 
+01:09:52.942 WARN  Total lb+minimap processing time: 1682 
+01:09:52.942 WARN  Total entity physics calculation time: 51 
+01:09:52.942 WARN  Total entity life+thought cycle time: 72 
+01:09:52.942 WARN  Total entity selfie-taking time: 20 
+01:09:52.942 WARN  Total time: 2412 
+01:09:55.647 WARN  ~~ LOOPS: 13. ENTITY #: 6288//743. VIEW #: 1. BACKLOGGED :: 126.692%! ~~ 
+01:09:55.647 WARN  Total activation time: 197 
+01:09:55.647 WARN  Total collision time: 26 
+01:09:55.647 WARN  Total cycle time: 326 
+01:09:55.647 WARN  Total player update time: 51 
+01:09:55.647 WARN  Total lb+minimap processing time: 1627 
+01:09:55.647 WARN  Total entity physics calculation time: 44 
+01:09:55.647 WARN  Total entity life+thought cycle time: 75 
+01:09:55.647 WARN  Total entity selfie-taking time: 17 
+01:09:55.647 WARN  Total time: 2363 
+01:09:58.386 WARN  ~~ LOOPS: 14. ENTITY #: 6308//716. VIEW #: 1. BACKLOGGED :: 116.786%! ~~ 
+01:09:58.386 WARN  Total activation time: 206 
+01:09:58.386 WARN  Total collision time: 17 
+01:09:58.386 WARN  Total cycle time: 322 
+01:09:58.386 WARN  Total player update time: 63 
+01:09:58.386 WARN  Total lb+minimap processing time: 1660 
+01:09:58.387 WARN  Total entity physics calculation time: 48 
+01:09:58.387 WARN  Total entity life+thought cycle time: 53 
+01:09:58.387 WARN  Total entity selfie-taking time: 23 
+01:09:58.387 WARN  Total time: 2392 
+01:10:01.015 WARN  ~~ LOOPS: 9. ENTITY #: 6335//334. VIEW #: 1. BACKLOGGED :: 171.333%! ~~ 
+01:10:01.015 WARN  Total activation time: 267 
+01:10:01.015 WARN  Total collision time: 20 
+01:10:01.015 WARN  Total cycle time: 227 
+01:10:01.015 WARN  Total player update time: 28 
+01:10:01.015 WARN  Total lb+minimap processing time: 1658 
+01:10:01.015 WARN  Total entity physics calculation time: 51 
+01:10:01.015 WARN  Total entity life+thought cycle time: 49 
+01:10:01.015 WARN  Total entity selfie-taking time: 6 
+01:10:01.015 WARN  Total time: 2306 
+01:10:03.832 WARN  ~~ LOOPS: 12. ENTITY #: 6357//786. VIEW #: 1. BACKLOGGED :: 147.750%! ~~ 
+01:10:03.832 WARN  Total activation time: 243 
+01:10:03.832 WARN  Total collision time: 29 
+01:10:03.833 WARN  Total cycle time: 319 
+01:10:03.833 WARN  Total player update time: 54 
+01:10:03.833 WARN  Total lb+minimap processing time: 1761 
+01:10:03.833 WARN  Total entity physics calculation time: 51 
+01:10:03.833 WARN  Total entity life+thought cycle time: 62 
+01:10:03.833 WARN  Total entity selfie-taking time: 17 
+01:10:03.833 WARN  Total time: 2536 
+01:10:06.665 WARN  ~~ LOOPS: 13. ENTITY #: 6373//748. VIEW #: 1. BACKLOGGED :: 122.077%! ~~ 
+01:10:06.665 WARN  Total activation time: 191 
+01:10:06.665 WARN  Total collision time: 14 
+01:10:06.665 WARN  Total cycle time: 324 
+01:10:06.665 WARN  Total player update time: 61 
+01:10:06.665 WARN  Total lb+minimap processing time: 1743 
+01:10:06.665 WARN  Total entity physics calculation time: 56 
+01:10:06.665 WARN  Total entity life+thought cycle time: 65 
+01:10:06.665 WARN  Total entity selfie-taking time: 14 
+01:10:06.665 WARN  Total time: 2468 
+01:10:09.527 WARN  ~~ LOOPS: 11. ENTITY #: 6390//341. VIEW #: 1. BACKLOGGED :: 130.909%! ~~ 
+01:10:09.527 WARN  Total activation time: 175 
+01:10:09.527 WARN  Total collision time: 26 
+01:10:09.527 WARN  Total cycle time: 279 
+01:10:09.527 WARN  Total player update time: 26 
+01:10:09.527 WARN  Total lb+minimap processing time: 1900 
+01:10:09.527 WARN  Total entity physics calculation time: 64 
+01:10:09.527 WARN  Total entity life+thought cycle time: 50 
+01:10:09.527 WARN  Total entity selfie-taking time: 5 
+01:10:09.527 WARN  Total time: 2525 
+01:10:12.288 WARN  ~~ LOOPS: 12. ENTITY #: 6396//784. VIEW #: 1. BACKLOGGED :: 143.250%! ~~ 
+01:10:12.288 WARN  Total activation time: 211 
+01:10:12.288 WARN  Total collision time: 27 
+01:10:12.288 WARN  Total cycle time: 335 
+01:10:12.288 WARN  Total player update time: 31 
+01:10:12.288 WARN  Total lb+minimap processing time: 1745 
+01:10:12.288 WARN  Total entity physics calculation time: 51 
+01:10:12.288 WARN  Total entity life+thought cycle time: 79 
+01:10:12.288 WARN  Total entity selfie-taking time: 18 
+01:10:12.288 WARN  Total time: 2497 
+01:10:15.214 WARN  ~~ LOOPS: 12. ENTITY #: 6407//790. VIEW #: 1. BACKLOGGED :: 141.750%! ~~ 
+01:10:15.214 WARN  Total activation time: 189 
+01:10:15.214 WARN  Total collision time: 21 
+01:10:15.214 WARN  Total cycle time: 357 
+01:10:15.214 WARN  Total player update time: 26 
+01:10:15.214 WARN  Total lb+minimap processing time: 1851 
+01:10:15.214 WARN  Total entity physics calculation time: 58 
+01:10:15.215 WARN  Total entity life+thought cycle time: 114 
+01:10:15.215 WARN  Total entity selfie-taking time: 15 
+01:10:15.215 WARN  Total time: 2631 
+01:10:17.955 WARN  ~~ LOOPS: 12. ENTITY #: 6424//337. VIEW #: 1. BACKLOGGED :: 118.000%! ~~ 
+01:10:17.955 WARN  Total activation time: 179 
+01:10:17.955 WARN  Total collision time: 13 
+01:10:17.955 WARN  Total cycle time: 280 
+01:10:17.955 WARN  Total player update time: 40 
+01:10:17.955 WARN  Total lb+minimap processing time: 1743 
+01:10:17.956 WARN  Total entity physics calculation time: 63 
+01:10:17.956 WARN  Total entity life+thought cycle time: 47 
+01:10:17.956 WARN  Total entity selfie-taking time: 12 
+01:10:17.956 WARN  Total time: 2377 
+01:10:20.988 WARN  ~~ LOOPS: 11. ENTITY #: 6434//830. VIEW #: 1. BACKLOGGED :: 141.545%! ~~ 
+01:10:20.988 WARN  Total activation time: 185 
+01:10:20.988 WARN  Total collision time: 22 
+01:10:20.988 WARN  Total cycle time: 312 
+01:10:20.988 WARN  Total player update time: 38 
+01:10:20.988 WARN  Total lb+minimap processing time: 1987 
+01:10:20.988 WARN  Total entity physics calculation time: 52 
+01:10:20.988 WARN  Total entity life+thought cycle time: 68 
+01:10:20.988 WARN  Total entity selfie-taking time: 18 
+01:10:20.988 WARN  Total time: 2682 
+01:10:23.999 WARN  ~~ LOOPS: 12. ENTITY #: 6458//788. VIEW #: 1. BACKLOGGED :: 153.500%! ~~ 
+01:10:24.000 WARN  Total activation time: 199 
+01:10:24.000 WARN  Total collision time: 29 
+01:10:24.000 WARN  Total cycle time: 386 
+01:10:24.000 WARN  Total player update time: 36 
+01:10:24.000 WARN  Total lb+minimap processing time: 1965 
+01:10:24.000 WARN  Total entity physics calculation time: 59 
+01:10:24.000 WARN  Total entity life+thought cycle time: 92 
+01:10:24.000 WARN  Total entity selfie-taking time: 35 
+01:10:24.000 WARN  Total time: 2801 
+01:10:26.988 WARN  ~~ LOOPS: 13. ENTITY #: 6473//340. VIEW #: 1. BACKLOGGED :: 119.308%! ~~ 
+01:10:26.988 WARN  Total activation time: 190 
+01:10:26.988 WARN  Total collision time: 14 
+01:10:26.988 WARN  Total cycle time: 313 
+01:10:26.988 WARN  Total player update time: 40 
+01:10:26.988 WARN  Total lb+minimap processing time: 1985 
+01:10:26.988 WARN  Total entity physics calculation time: 63 
+01:10:26.988 WARN  Total entity life+thought cycle time: 59 
+01:10:26.988 WARN  Total entity selfie-taking time: 8 
+01:10:26.988 WARN  Total time: 2672 
+01:10:29.937 WARN  ~~ LOOPS: 10. ENTITY #: 6493//885. VIEW #: 1. BACKLOGGED :: 161.400%! ~~ 
+21:51:03.190 ERROR [ERROR] A ghost has been found! 
+21:51:03.190 ERROR Type: Arena Closer 
+21:51:03.190 ERROR Position: (719.8221607128227, 4236.110396918816) 
+21:51:03.192 ERROR [] 
+21:51:03.192 ERROR Health: 533334.8133333334 
+21:51:03.192 WARN  Ghost removed successfully. 
+21:51:03.192 WARN  Ghost removed successfully. 
+21:51:03.192 ERROR [ERROR] A ghost has been found! 
+21:51:03.192 ERROR Type: Arena Closer 
+21:51:03.192 ERROR Position: (719.8221607128227, 4236.110396918816) 
+21:51:03.193 ERROR [] 
+21:51:03.193 ERROR Health: 533334.8133333334 
+21:51:03.193 WARN  Ghost removed successfully. 
+22:02:39.263 WARN  ~~ LOOPS: 13. ENTITY #: 1741//1396. VIEW #: 3. BACKLOGGED :: 142.385%! ~~ 
+22:02:40.304 WARN  ~~ LOOPS: 12. ENTITY #: 1248//1211. VIEW #: 4. BACKLOGGED :: 152.250%! ~~ 
+22:04:00.366 WARN  ~~ LOOPS: 15. ENTITY #: 461//724. VIEW #: 4. BACKLOGGED :: 106.800%! ~~ 
+22:09:45.192 WARN  ~~ LOOPS: 15. ENTITY #: 1057//765. VIEW #: 4. BACKLOGGED :: 107.000%! ~~ 
+22:09:46.279 WARN  ~~ LOOPS: 14. ENTITY #: 1209//871. VIEW #: 4. BACKLOGGED :: 113.143%! ~~ 
+22:09:47.337 WARN  ~~ LOOPS: 14. ENTITY #: 1345//1006. VIEW #: 4. BACKLOGGED :: 121.500%! ~~ 
+22:09:48.404 WARN  ~~ LOOPS: 13. ENTITY #: 1467//1138. VIEW #: 4. BACKLOGGED :: 137.769%! ~~ 
+22:09:49.492 WARN  ~~ LOOPS: 11. ENTITY #: 1486//1197. VIEW #: 4. BACKLOGGED :: 154.091%! ~~ 
+22:09:50.540 WARN  ~~ LOOPS: 11. ENTITY #: 1427//1172. VIEW #: 4. BACKLOGGED :: 173.727%! ~~ 
+22:09:51.605 WARN  ~~ LOOPS: 12. ENTITY #: 1437//1164. VIEW #: 4. BACKLOGGED :: 153.250%! ~~ 
+22:09:52.665 WARN  ~~ LOOPS: 11. ENTITY #: 1449//1175. VIEW #: 4. BACKLOGGED :: 159.273%! ~~ 
+22:09:53.772 WARN  ~~ LOOPS: 12. ENTITY #: 1427//1163. VIEW #: 4. BACKLOGGED :: 164.500%! ~~ 
+22:09:54.865 WARN  ~~ LOOPS: 12. ENTITY #: 1506//1194. VIEW #: 4. BACKLOGGED :: 161.250%! ~~ 
+22:09:55.918 WARN  ~~ LOOPS: 10. ENTITY #: 1492//1240. VIEW #: 4. BACKLOGGED :: 174.600%! ~~ 
+22:09:56.988 WARN  ~~ LOOPS: 11. ENTITY #: 1449//1202. VIEW #: 4. BACKLOGGED :: 168.545%! ~~ 
+22:09:58.053 WARN  ~~ LOOPS: 11. ENTITY #: 1449//1195. VIEW #: 4. BACKLOGGED :: 171.818%! ~~ 
+22:09:59.121 WARN  ~~ LOOPS: 11. ENTITY #: 1375//1133. VIEW #: 4. BACKLOGGED :: 166.909%! ~~ 
+22:10:00.149 WARN  ~~ LOOPS: 12. ENTITY #: 1327//1068. VIEW #: 4. BACKLOGGED :: 150.250%! ~~ 
+22:10:01.206 WARN  ~~ LOOPS: 12. ENTITY #: 1382//1102. VIEW #: 4. BACKLOGGED :: 144.500%! ~~ 
+22:10:02.274 WARN  ~~ LOOPS: 12. ENTITY #: 1436//1161. VIEW #: 4. BACKLOGGED :: 152.000%! ~~ 
+22:10:03.378 WARN  ~~ LOOPS: 11. ENTITY #: 1410//1151. VIEW #: 4. BACKLOGGED :: 166.636%! ~~ 
+22:10:04.438 WARN  ~~ LOOPS: 11. ENTITY #: 1409//1154. VIEW #: 4. BACKLOGGED :: 174.000%! ~~ 
+22:10:05.586 WARN  ~~ LOOPS: 13. ENTITY #: 1537//1217. VIEW #: 4. BACKLOGGED :: 144.692%! ~~ 
+22:10:06.688 WARN  ~~ LOOPS: 11. ENTITY #: 1609//1330. VIEW #: 4. BACKLOGGED :: 170.182%! ~~ 
+22:10:07.803 WARN  ~~ LOOPS: 11. ENTITY #: 1596//1345. VIEW #: 4. BACKLOGGED :: 185.182%! ~~ 
+22:10:08.929 WARN  ~~ LOOPS: 11. ENTITY #: 1544//1308. VIEW #: 4. BACKLOGGED :: 189.000%! ~~ 
+22:10:10.043 WARN  ~~ LOOPS: 10. ENTITY #: 1484//1256. VIEW #: 4. BACKLOGGED :: 184.800%! ~~ 
+22:10:11.116 WARN  ~~ LOOPS: 11. ENTITY #: 1389//1178. VIEW #: 4. BACKLOGGED :: 189.273%! ~~ 
+22:10:12.219 WARN  ~~ LOOPS: 12. ENTITY #: 1386//1127. VIEW #: 4. BACKLOGGED :: 161.500%! ~~ 
+22:10:13.301 WARN  ~~ LOOPS: 11. ENTITY #: 1353//1130. VIEW #: 4. BACKLOGGED :: 165.273%! ~~ 
+22:10:14.347 WARN  ~~ LOOPS: 11. ENTITY #: 1320//1070. VIEW #: 4. BACKLOGGED :: 171.545%! ~~ 
+22:10:15.413 WARN  ~~ LOOPS: 12. ENTITY #: 1366//1089. VIEW #: 4. BACKLOGGED :: 152.500%! ~~ 
+22:10:16.477 WARN  ~~ LOOPS: 11. ENTITY #: 1488//1203. VIEW #: 4. BACKLOGGED :: 158.455%! ~~ 
+22:10:17.532 WARN  ~~ LOOPS: 11. ENTITY #: 1575//1316. VIEW #: 4. BACKLOGGED :: 170.727%! ~~ 
+22:10:18.676 WARN  ~~ LOOPS: 11. ENTITY #: 1597//1375. VIEW #: 4. BACKLOGGED :: 186.545%! ~~ 
+22:10:19.814 WARN  ~~ LOOPS: 10. ENTITY #: 1584//1390. VIEW #: 4. BACKLOGGED :: 205.500%! ~~ 
+22:10:20.892 WARN  ~~ LOOPS: 10. ENTITY #: 1597//1385. VIEW #: 4. BACKLOGGED :: 199.800%! ~~ 
+22:10:21.997 WARN  ~~ LOOPS: 10. ENTITY #: 1570//1369. VIEW #: 4. BACKLOGGED :: 204.000%! ~~ 
+22:10:23.042 WARN  ~~ LOOPS: 10. ENTITY #: 1557//1332. VIEW #: 4. BACKLOGGED :: 198.900%! ~~ 
+22:10:24.215 WARN  ~~ LOOPS: 10. ENTITY #: 1530//1329. VIEW #: 4. BACKLOGGED :: 193.500%! ~~ 
+22:10:25.272 WARN  ~~ LOOPS: 11. ENTITY #: 1523//1312. VIEW #: 4. BACKLOGGED :: 180.000%! ~~ 
+22:10:26.365 WARN  ~~ LOOPS: 11. ENTITY #: 1446//1265. VIEW #: 4. BACKLOGGED :: 183.000%! ~~ 
+22:10:27.472 WARN  ~~ LOOPS: 11. ENTITY #: 1446//1230. VIEW #: 4. BACKLOGGED :: 169.909%! ~~ 
+22:10:28.549 WARN  ~~ LOOPS: 10. ENTITY #: 1413//1219. VIEW #: 4. BACKLOGGED :: 197.100%! ~~ 
+22:10:29.595 WARN  ~~ LOOPS: 11. ENTITY #: 1374//1160. VIEW #: 4. BACKLOGGED :: 172.636%! ~~ 
+22:10:30.749 WARN  ~~ LOOPS: 11. ENTITY #: 1398//1177. VIEW #: 4. BACKLOGGED :: 179.182%! ~~ 
+22:10:31.851 WARN  ~~ LOOPS: 11. ENTITY #: 1423//1209. VIEW #: 4. BACKLOGGED :: 178.091%! ~~ 
+22:10:32.993 WARN  ~~ LOOPS: 11. ENTITY #: 1467//1237. VIEW #: 4. BACKLOGGED :: 190.636%! ~~ 
+22:10:34.071 WARN  ~~ LOOPS: 10. ENTITY #: 1468//1257. VIEW #: 4. BACKLOGGED :: 181.200%! ~~ 
+22:10:35.173 WARN  ~~ LOOPS: 11. ENTITY #: 1523//1273. VIEW #: 4. BACKLOGGED :: 164.455%! ~~ 
+22:10:36.266 WARN  ~~ LOOPS: 12. ENTITY #: 1579//1342. VIEW #: 4. BACKLOGGED :: 156.750%! ~~ 
+22:10:37.380 WARN  ~~ LOOPS: 10. ENTITY #: 1591//1372. VIEW #: 4. BACKLOGGED :: 198.900%! ~~ 
+22:10:38.484 WARN  ~~ LOOPS: 11. ENTITY #: 1612//1386. VIEW #: 4. BACKLOGGED :: 171.818%! ~~ 
+22:10:39.614 WARN  ~~ LOOPS: 11. ENTITY #: 1571//1385. VIEW #: 4. BACKLOGGED :: 193.636%! ~~ 
+22:10:40.725 WARN  ~~ LOOPS: 10. ENTITY #: 1561//1352. VIEW #: 4. BACKLOGGED :: 185.400%! ~~ 
+22:10:41.912 WARN  ~~ LOOPS: 10. ENTITY #: 1566//1367. VIEW #: 4. BACKLOGGED :: 217.800%! ~~ 
+22:10:42.997 WARN  ~~ LOOPS: 10. ENTITY #: 1536//1330. VIEW #: 4. BACKLOGGED :: 207.900%! ~~ 
+22:10:44.066 WARN  ~~ LOOPS: 11. ENTITY #: 1580//1339. VIEW #: 4. BACKLOGGED :: 172.364%! ~~ 
+22:10:45.187 WARN  ~~ LOOPS: 9. ENTITY #: 1585//1384. VIEW #: 4. BACKLOGGED :: 207.667%! ~~ 
+22:10:46.297 WARN  ~~ LOOPS: 10. ENTITY #: 1495//1325. VIEW #: 4. BACKLOGGED :: 222.300%! ~~ 
+22:10:47.402 WARN  ~~ LOOPS: 11. ENTITY #: 1519//1298. VIEW #: 4. BACKLOGGED :: 184.364%! ~~ 
+22:10:48.476 WARN  ~~ LOOPS: 10. ENTITY #: 1520//1303. VIEW #: 4. BACKLOGGED :: 184.800%! ~~ 
+22:10:49.587 WARN  ~~ LOOPS: 11. ENTITY #: 1576//1340. VIEW #: 4. BACKLOGGED :: 175.091%! ~~ 
+22:10:50.651 WARN  ~~ LOOPS: 11. ENTITY #: 1622//1390. VIEW #: 4. BACKLOGGED :: 178.091%! ~~ 
+22:10:50.651 ERROR FAILURE HAS OCCURED! 
+22:10:51.746 WARN  ~~ LOOPS: 9. ENTITY #: 1675//1442. VIEW #: 4. BACKLOGGED :: 207.000%! ~~ 
+22:10:51.746 ERROR FAILURE HAS OCCURED! 
+22:10:52.942 WARN  ~~ LOOPS: 11. ENTITY #: 1751//1520. VIEW #: 4. BACKLOGGED :: 196.909%! ~~ 
+22:10:52.942 ERROR FAILURE HAS OCCURED! 
+22:10:53.996 WARN  ~~ LOOPS: 10. ENTITY #: 1733//1536. VIEW #: 4. BACKLOGGED :: 204.600%! ~~ 
+22:10:53.996 ERROR FAILURE HAS OCCURED! 
+22:10:55.077 WARN  ~~ LOOPS: 9. ENTITY #: 1716//1508. VIEW #: 4. BACKLOGGED :: 201.667%! ~~ 
+22:10:55.077 ERROR FAILURE HAS OCCURED! 
+22:10:56.174 WARN  ~~ LOOPS: 10. ENTITY #: 1678//1488. VIEW #: 4. BACKLOGGED :: 198.900%! ~~ 
+22:10:56.174 ERROR FAILURE HAS OCCURED! 
+22:10:57.284 WARN  ~~ LOOPS: 10. ENTITY #: 1578//1412. VIEW #: 4. BACKLOGGED :: 203.100%! ~~ 
+22:10:57.284 ERROR FAILURE HAS OCCURED! 
+22:10:58.415 WARN  ~~ LOOPS: 11. ENTITY #: 1472//1303. VIEW #: 4. BACKLOGGED :: 193.364%! ~~ 
+22:10:58.415 ERROR FAILURE HAS OCCURED! 
+22:10:59.470 WARN  ~~ LOOPS: 11. ENTITY #: 1375//1196. VIEW #: 4. BACKLOGGED :: 172.091%! ~~ 
+22:10:59.470 ERROR FAILURE HAS OCCURED! 
+22:11:00.551 WARN  ~~ LOOPS: 11. ENTITY #: 1387//1166. VIEW #: 4. BACKLOGGED :: 156.545%! ~~ 
+22:11:00.551 ERROR FAILURE HAS OCCURED! 
+22:11:01.665 WARN  ~~ LOOPS: 12. ENTITY #: 1403//1198. VIEW #: 4. BACKLOGGED :: 173.250%! ~~ 
+22:11:01.665 ERROR FAILURE HAS OCCURED! 
+22:11:02.763 WARN  ~~ LOOPS: 12. ENTITY #: 1399//1197. VIEW #: 4. BACKLOGGED :: 162.000%! ~~ 
+22:11:02.763 ERROR FAILURE HAS OCCURED! 
+22:11:03.866 WARN  ~~ LOOPS: 11. ENTITY #: 1405//1202. VIEW #: 4. BACKLOGGED :: 159.818%! ~~ 
+22:11:03.866 ERROR FAILURE HAS OCCURED! 
+22:11:04.948 WARN  ~~ LOOPS: 12. ENTITY #: 1436//1209. VIEW #: 4. BACKLOGGED :: 163.000%! ~~ 
+22:11:04.948 ERROR FAILURE HAS OCCURED! 
+22:11:06.020 WARN  ~~ LOOPS: 11. ENTITY #: 1494//1279. VIEW #: 4. BACKLOGGED :: 165.818%! ~~ 
+22:11:06.020 ERROR FAILURE HAS OCCURED! 
+22:11:07.094 WARN  ~~ LOOPS: 11. ENTITY #: 1478//1302. VIEW #: 4. BACKLOGGED :: 170.182%! ~~ 
+22:11:07.095 ERROR FAILURE HAS OCCURED! 
+22:11:08.177 WARN  ~~ LOOPS: 12. ENTITY #: 1432//1272. VIEW #: 4. BACKLOGGED :: 158.750%! ~~ 
+22:11:08.177 ERROR FAILURE HAS OCCURED! 
+22:11:09.293 WARN  ~~ LOOPS: 12. ENTITY #: 1349//1208. VIEW #: 4. BACKLOGGED :: 160.000%! ~~ 
+22:11:09.293 ERROR FAILURE HAS OCCURED! 
+22:11:10.373 WARN  ~~ LOOPS: 11. ENTITY #: 1225//1084. VIEW #: 4. BACKLOGGED :: 155.727%! ~~ 
+22:11:10.373 ERROR FAILURE HAS OCCURED! 
+22:11:11.482 WARN  ~~ LOOPS: 13. ENTITY #: 1186//1008. VIEW #: 4. BACKLOGGED :: 145.846%! ~~ 
+22:11:11.482 ERROR FAILURE HAS OCCURED! 
+22:11:12.530 WARN  ~~ LOOPS: 13. ENTITY #: 1180//976. VIEW #: 4. BACKLOGGED :: 132.923%! ~~ 
+22:11:12.530 ERROR FAILURE HAS OCCURED! 
+22:11:13.607 WARN  ~~ LOOPS: 13. ENTITY #: 1117//959. VIEW #: 4. BACKLOGGED :: 138.462%! ~~ 
+22:11:13.607 ERROR FAILURE HAS OCCURED! 
+22:11:14.682 WARN  ~~ LOOPS: 13. ENTITY #: 1152//941. VIEW #: 4. BACKLOGGED :: 129.923%! ~~ 
+22:11:14.682 ERROR FAILURE HAS OCCURED! 
+22:11:15.742 WARN  ~~ LOOPS: 14. ENTITY #: 1161//967. VIEW #: 4. BACKLOGGED :: 120.429%! ~~ 
+22:11:15.742 ERROR FAILURE HAS OCCURED! 
+22:11:16.828 WARN  ~~ LOOPS: 14. ENTITY #: 1176//985. VIEW #: 4. BACKLOGGED :: 117.214%! ~~ 
+22:11:16.828 ERROR FAILURE HAS OCCURED! 
+22:11:17.863 WARN  ~~ LOOPS: 12. ENTITY #: 1223//1014. VIEW #: 4. BACKLOGGED :: 133.000%! ~~ 
+22:11:17.863 ERROR FAILURE HAS OCCURED! 
+22:11:18.951 WARN  ~~ LOOPS: 14. ENTITY #: 1257//1056. VIEW #: 4. BACKLOGGED :: 120.429%! ~~ 
+22:11:18.951 ERROR FAILURE HAS OCCURED! 
+22:11:20.044 WARN  ~~ LOOPS: 14. ENTITY #: 1242//1054. VIEW #: 4. BACKLOGGED :: 121.929%! ~~ 
+22:11:20.044 ERROR FAILURE HAS OCCURED! 
+22:11:21.120 WARN  ~~ LOOPS: 13. ENTITY #: 1244//1041. VIEW #: 4. BACKLOGGED :: 125.538%! ~~ 
+22:11:21.121 ERROR FAILURE HAS OCCURED! 
+22:11:22.205 WARN  ~~ LOOPS: 13. ENTITY #: 1296//1056. VIEW #: 4. BACKLOGGED :: 144.231%! ~~ 
+22:11:22.205 ERROR FAILURE HAS OCCURED! 
+22:11:23.267 WARN  ~~ LOOPS: 12. ENTITY #: 1299//1105. VIEW #: 4. BACKLOGGED :: 149.000%! ~~ 
+22:11:23.267 ERROR FAILURE HAS OCCURED! 
+22:11:24.334 WARN  ~~ LOOPS: 11. ENTITY #: 1261//1080. VIEW #: 4. BACKLOGGED :: 161.727%! ~~ 
+22:11:24.334 ERROR FAILURE HAS OCCURED! 
+22:11:25.389 WARN  ~~ LOOPS: 13. ENTITY #: 1280//1069. VIEW #: 4. BACKLOGGED :: 133.615%! ~~ 
+22:11:25.390 ERROR FAILURE HAS OCCURED! 
+22:11:26.477 WARN  ~~ LOOPS: 13. ENTITY #: 1293//1083. VIEW #: 4. BACKLOGGED :: 141.692%! ~~ 
+22:11:26.477 ERROR FAILURE HAS OCCURED! 
+22:11:27.573 WARN  ~~ LOOPS: 12. ENTITY #: 1314//1123. VIEW #: 4. BACKLOGGED :: 142.750%! ~~ 
+22:11:27.573 ERROR FAILURE HAS OCCURED! 
+22:11:28.677 WARN  ~~ LOOPS: 13. ENTITY #: 1279//1113. VIEW #: 4. BACKLOGGED :: 144.923%! ~~ 
+22:11:28.677 ERROR FAILURE HAS OCCURED! 
+22:11:29.730 WARN  ~~ LOOPS: 12. ENTITY #: 1209//1024. VIEW #: 4. BACKLOGGED :: 139.750%! ~~ 
+22:11:29.730 ERROR FAILURE HAS OCCURED! 
+22:11:30.836 WARN  ~~ LOOPS: 14. ENTITY #: 1193//988. VIEW #: 4. BACKLOGGED :: 131.786%! ~~ 
+22:11:30.836 ERROR FAILURE HAS OCCURED! 
+22:11:31.876 WARN  ~~ LOOPS: 13. ENTITY #: 1208//1014. VIEW #: 4. BACKLOGGED :: 117.692%! ~~ 
+22:11:31.876 ERROR FAILURE HAS OCCURED! 
+22:11:32.919 WARN  ~~ LOOPS: 13. ENTITY #: 1159//997. VIEW #: 4. BACKLOGGED :: 125.769%! ~~ 
+22:11:32.919 ERROR FAILURE HAS OCCURED! 
+22:11:33.990 WARN  ~~ LOOPS: 14. ENTITY #: 1069//909. VIEW #: 4. BACKLOGGED :: 124.929%! ~~ 
+22:11:33.990 ERROR FAILURE HAS OCCURED! 
+22:11:35.069 WARN  ~~ LOOPS: 14. ENTITY #: 1122//902. VIEW #: 4. BACKLOGGED :: 108.857%! ~~ 
+22:11:35.069 ERROR FAILURE HAS OCCURED! 
+22:11:36.135 WARN  ~~ LOOPS: 14. ENTITY #: 1108//927. VIEW #: 4. BACKLOGGED :: 122.143%! ~~ 
+22:11:36.135 ERROR FAILURE HAS OCCURED! 
+22:11:37.191 WARN  ~~ LOOPS: 13. ENTITY #: 1116//908. VIEW #: 4. BACKLOGGED :: 129.923%! ~~ 
+22:11:37.191 ERROR FAILURE HAS OCCURED! 
+22:11:38.283 WARN  ~~ LOOPS: 13. ENTITY #: 1095//896. VIEW #: 4. BACKLOGGED :: 132.692%! ~~ 
+22:11:38.284 ERROR FAILURE HAS OCCURED! 
+22:11:39.307 WARN  ~~ LOOPS: 14. ENTITY #: 1125//912. VIEW #: 4. BACKLOGGED :: 114.000%! ~~ 
+22:11:39.307 ERROR FAILURE HAS OCCURED! 
+22:11:40.420 WARN  ~~ LOOPS: 14. ENTITY #: 1178//947. VIEW #: 4. BACKLOGGED :: 125.357%! ~~ 
+22:11:40.420 ERROR FAILURE HAS OCCURED! 
+22:11:41.455 WARN  ~~ LOOPS: 13. ENTITY #: 1211//1000. VIEW #: 4. BACKLOGGED :: 114.000%! ~~ 
+22:11:41.455 ERROR FAILURE HAS OCCURED! 
+22:11:42.493 WARN  ~~ LOOPS: 14. ENTITY #: 1194//979. VIEW #: 4. BACKLOGGED :: 113.357%! ~~ 
+22:11:42.493 ERROR FAILURE HAS OCCURED! 
+22:11:43.589 WARN  ~~ LOOPS: 13. ENTITY #: 1237//1000. VIEW #: 4. BACKLOGGED :: 131.769%! ~~ 
+22:11:43.589 ERROR FAILURE HAS OCCURED! 
+22:11:44.643 WARN  ~~ LOOPS: 13. ENTITY #: 1106//831. VIEW #: 3. BACKLOGGED :: 131.077%! ~~ 
+22:11:44.643 ERROR FAILURE HAS OCCURED! 
+22:11:45.661 WARN  ~~ LOOPS: 13. ENTITY #: 1137//819. VIEW #: 3. BACKLOGGED :: 120.692%! ~~ 
+22:11:45.661 ERROR FAILURE HAS OCCURED! 
+22:11:46.759 WARN  ~~ LOOPS: 14. ENTITY #: 1188//847. VIEW #: 3. BACKLOGGED :: 128.143%! ~~ 
+22:11:46.759 ERROR FAILURE HAS OCCURED! 
+22:11:47.834 WARN  ~~ LOOPS: 15. ENTITY #: 1214//894. VIEW #: 3. BACKLOGGED :: 105.800%! ~~ 
+22:11:47.834 ERROR FAILURE HAS OCCURED! 
+22:11:48.923 WARN  ~~ LOOPS: 14. ENTITY #: 1180//883. VIEW #: 3. BACKLOGGED :: 117.643%! ~~ 
+22:11:48.923 ERROR FAILURE HAS OCCURED! 
+22:11:49.979 WARN  ~~ LOOPS: 14. ENTITY #: 1186//873. VIEW #: 3. BACKLOGGED :: 113.571%! ~~ 
+22:11:49.979 ERROR FAILURE HAS OCCURED! 
+22:11:51.020 WARN  ~~ LOOPS: 14. ENTITY #: 1121//857. VIEW #: 3. BACKLOGGED :: 110.571%! ~~ 
+22:11:51.020 ERROR FAILURE HAS OCCURED! 
+22:11:52.100 WARN  ~~ LOOPS: 14. ENTITY #: 1119//827. VIEW #: 4. BACKLOGGED :: 113.786%! ~~ 
+22:11:52.100 ERROR FAILURE HAS OCCURED! 
+22:11:53.126 WARN  ~~ LOOPS: 14. ENTITY #: 1009//724. VIEW #: 4. BACKLOGGED :: 109.286%! ~~ 
+22:11:53.127 ERROR FAILURE HAS OCCURED! 
+22:11:56.303 WARN  ~~ LOOPS: 14. ENTITY #: 1120//786. VIEW #: 4. BACKLOGGED :: 102.429%! ~~ 
+22:11:57.332 WARN  ~~ LOOPS: 14. ENTITY #: 1138//843. VIEW #: 4. BACKLOGGED :: 108.214%! ~~ 
+22:11:58.381 WARN  ~~ LOOPS: 14. ENTITY #: 1131//840. VIEW #: 4. BACKLOGGED :: 110.143%! ~~ 
+22:11:59.479 WARN  ~~ LOOPS: 13. ENTITY #: 1129//827. VIEW #: 4. BACKLOGGED :: 116.769%! ~~ 
+22:12:00.502 WARN  ~~ LOOPS: 14. ENTITY #: 1068//809. VIEW #: 4. BACKLOGGED :: 107.357%! ~~ 
+22:12:01.557 WARN  ~~ LOOPS: 15. ENTITY #: 1086//766. VIEW #: 4. BACKLOGGED :: 107.200%! ~~ 
+22:12:04.693 WARN  ~~ LOOPS: 14. ENTITY #: 1071//792. VIEW #: 4. BACKLOGGED :: 114.857%! ~~ 
+22:12:08.872 WARN  ~~ LOOPS: 14. ENTITY #: 1089//775. VIEW #: 4. BACKLOGGED :: 101.357%! ~~ 
+22:12:10.988 WARN  ~~ LOOPS: 14. ENTITY #: 1244//891. VIEW #: 4. BACKLOGGED :: 108.000%! ~~ 
+22:12:12.029 WARN  ~~ LOOPS: 15. ENTITY #: 1253//944. VIEW #: 4. BACKLOGGED :: 104.600%! ~~ 
+22:12:13.093 WARN  ~~ LOOPS: 14. ENTITY #: 1232//926. VIEW #: 4. BACKLOGGED :: 111.000%! ~~ 
+22:12:14.146 WARN  ~~ LOOPS: 15. ENTITY #: 1147//866. VIEW #: 4. BACKLOGGED :: 107.200%! ~~ 
+22:12:23.489 WARN  ~~ LOOPS: 14. ENTITY #: 1198//854. VIEW #: 4. BACKLOGGED :: 110.357%! ~~ 
+22:12:24.526 WARN  ~~ LOOPS: 14. ENTITY #: 1255//908. VIEW #: 4. BACKLOGGED :: 113.143%! ~~ 
+22:12:25.608 WARN  ~~ LOOPS: 14. ENTITY #: 1300//961. VIEW #: 4. BACKLOGGED :: 120.643%! ~~ 
+22:12:26.646 WARN  ~~ LOOPS: 13. ENTITY #: 1301//999. VIEW #: 4. BACKLOGGED :: 130.385%! ~~ 
+22:12:27.716 WARN  ~~ LOOPS: 12. ENTITY #: 1344//999. VIEW #: 4. BACKLOGGED :: 138.500%! ~~ 
+22:12:28.766 WARN  ~~ LOOPS: 12. ENTITY #: 1396//1064. VIEW #: 4. BACKLOGGED :: 145.500%! ~~ 
+22:12:29.861 WARN  ~~ LOOPS: 13. ENTITY #: 1400//1086. VIEW #: 4. BACKLOGGED :: 142.154%! ~~ 
+22:12:30.921 WARN  ~~ LOOPS: 12. ENTITY #: 1385//1078. VIEW #: 4. BACKLOGGED :: 141.500%! ~~ 
+22:12:32.002 WARN  ~~ LOOPS: 12. ENTITY #: 1351//1056. VIEW #: 4. BACKLOGGED :: 147.000%! ~~ 
+22:12:33.094 WARN  ~~ LOOPS: 13. ENTITY #: 1370//1042. VIEW #: 4. BACKLOGGED :: 139.615%! ~~ 
+22:12:34.208 WARN  ~~ LOOPS: 11. ENTITY #: 1416//1080. VIEW #: 4. BACKLOGGED :: 174.273%! ~~ 
+22:12:35.330 WARN  ~~ LOOPS: 11. ENTITY #: 1347//1089. VIEW #: 4. BACKLOGGED :: 188.727%! ~~ 
+22:12:36.440 WARN  ~~ LOOPS: 11. ENTITY #: 1338//1025. VIEW #: 4. BACKLOGGED :: 164.727%! ~~ 
+22:12:37.491 WARN  ~~ LOOPS: 12. ENTITY #: 1357//1030. VIEW #: 4. BACKLOGGED :: 148.500%! ~~ 
+22:12:38.603 WARN  ~~ LOOPS: 11. ENTITY #: 1361//1043. VIEW #: 4. BACKLOGGED :: 159.818%! ~~ 
+22:12:39.664 WARN  ~~ LOOPS: 12. ENTITY #: 1374//1065. VIEW #: 4. BACKLOGGED :: 153.250%! ~~ 
+22:12:40.732 WARN  ~~ LOOPS: 12. ENTITY #: 1424//1100. VIEW #: 4. BACKLOGGED :: 145.250%! ~~ 
+22:12:41.857 WARN  ~~ LOOPS: 11. ENTITY #: 1421//1123. VIEW #: 4. BACKLOGGED :: 175.091%! ~~ 
+22:12:42.998 WARN  ~~ LOOPS: 12. ENTITY #: 1475//1159. VIEW #: 4. BACKLOGGED :: 167.250%! ~~ 
+22:12:44.113 WARN  ~~ LOOPS: 10. ENTITY #: 1495//1185. VIEW #: 4. BACKLOGGED :: 179.400%! ~~ 
+22:12:45.255 WARN  ~~ LOOPS: 11. ENTITY #: 1492//1192. VIEW #: 4. BACKLOGGED :: 179.455%! ~~ 
+22:12:46.348 WARN  ~~ LOOPS: 11. ENTITY #: 1493//1202. VIEW #: 4. BACKLOGGED :: 175.909%! ~~ 
+22:12:47.482 WARN  ~~ LOOPS: 11. ENTITY #: 1538//1227. VIEW #: 4. BACKLOGGED :: 177.273%! ~~ 
+22:12:48.615 WARN  ~~ LOOPS: 10. ENTITY #: 1518//1230. VIEW #: 4. BACKLOGGED :: 188.400%! ~~ 
+22:12:49.762 WARN  ~~ LOOPS: 11. ENTITY #: 1500//1209. VIEW #: 4. BACKLOGGED :: 183.273%! ~~ 
+22:12:50.914 WARN  ~~ LOOPS: 10. ENTITY #: 1570//1234. VIEW #: 4. BACKLOGGED :: 201.300%! ~~ 
+22:12:52.095 WARN  ~~ LOOPS: 11. ENTITY #: 1583//1295. VIEW #: 4. BACKLOGGED :: 186.273%! ~~ 
+22:12:53.270 WARN  ~~ LOOPS: 12. ENTITY #: 1646//1309. VIEW #: 4. BACKLOGGED :: 162.750%! ~~ 
+22:12:54.474 WARN  ~~ LOOPS: 11. ENTITY #: 1635//1341. VIEW #: 4. BACKLOGGED :: 182.182%! ~~ 
+22:12:55.593 WARN  ~~ LOOPS: 11. ENTITY #: 1547//1289. VIEW #: 4. BACKLOGGED :: 188.727%! ~~ 
+22:12:56.668 WARN  ~~ LOOPS: 11. ENTITY #: 1488//1209. VIEW #: 4. BACKLOGGED :: 163.636%! ~~ 
+22:12:57.796 WARN  ~~ LOOPS: 12. ENTITY #: 1401//1131. VIEW #: 4. BACKLOGGED :: 161.250%! ~~ 
+22:12:58.878 WARN  ~~ LOOPS: 12. ENTITY #: 1347//1066. VIEW #: 4. BACKLOGGED :: 153.750%! ~~ 
+22:12:59.987 WARN  ~~ LOOPS: 12. ENTITY #: 1470//1109. VIEW #: 4. BACKLOGGED :: 136.250%! ~~ 
+22:13:01.089 WARN  ~~ LOOPS: 13. ENTITY #: 1542//1210. VIEW #: 4. BACKLOGGED :: 145.154%! ~~ 
+22:13:02.221 WARN  ~~ LOOPS: 11. ENTITY #: 1601//1288. VIEW #: 4. BACKLOGGED :: 176.455%! ~~ 
+22:13:03.334 WARN  ~~ LOOPS: 11. ENTITY #: 1507//1225. VIEW #: 4. BACKLOGGED :: 176.455%! ~~ 
+22:13:04.456 WARN  ~~ LOOPS: 12. ENTITY #: 1544//1234. VIEW #: 4. BACKLOGGED :: 164.250%! ~~ 
+22:13:05.577 WARN  ~~ LOOPS: 11. ENTITY #: 1414//1202. VIEW #: 4. BACKLOGGED :: 171.818%! ~~ 
+22:13:06.671 WARN  ~~ LOOPS: 12. ENTITY #: 1397//1128. VIEW #: 4. BACKLOGGED :: 147.250%! ~~ 
+22:13:07.755 WARN  ~~ LOOPS: 12. ENTITY #: 1458//1132. VIEW #: 4. BACKLOGGED :: 152.000%! ~~ 
+22:13:08.901 WARN  ~~ LOOPS: 10. ENTITY #: 1465//1165. VIEW #: 4. BACKLOGGED :: 192.600%! ~~ 
+22:13:09.942 WARN  ~~ LOOPS: 10. ENTITY #: 1545//1197. VIEW #: 4. BACKLOGGED :: 187.200%! ~~ 
+22:13:11.064 WARN  ~~ LOOPS: 10. ENTITY #: 1697//1318. VIEW #: 4. BACKLOGGED :: 189.600%! ~~ 
+22:13:12.234 WARN  ~~ LOOPS: 10. ENTITY #: 1837//1447. VIEW #: 4. BACKLOGGED :: 227.400%! ~~ 
+22:13:13.345 WARN  ~~ LOOPS: 8. ENTITY #: 1970//1588. VIEW #: 4. BACKLOGGED :: 255.375%! ~~ 
+22:13:14.503 WARN  ~~ LOOPS: 8. ENTITY #: 2040//1708. VIEW #: 4. BACKLOGGED :: 242.625%! ~~ 
+22:13:15.714 WARN  ~~ LOOPS: 9. ENTITY #: 2060//1746. VIEW #: 4. BACKLOGGED :: 244.333%! ~~ 
+22:13:16.935 WARN  ~~ LOOPS: 8. ENTITY #: 2046//1741. VIEW #: 4. BACKLOGGED :: 256.875%! ~~ 
+22:13:18.047 WARN  ~~ LOOPS: 8. ENTITY #: 2068//1755. VIEW #: 4. BACKLOGGED :: 253.500%! ~~ 
+22:13:19.254 WARN  ~~ LOOPS: 8. ENTITY #: 2111//1780. VIEW #: 4. BACKLOGGED :: 286.500%! ~~ 
+22:13:20.413 WARN  ~~ LOOPS: 8. ENTITY #: 2022//1771. VIEW #: 4. BACKLOGGED :: 263.250%! ~~ 
+22:13:21.593 WARN  ~~ LOOPS: 9. ENTITY #: 1803//1619. VIEW #: 4. BACKLOGGED :: 255.667%! ~~ 
+22:13:22.690 WARN  ~~ LOOPS: 9. ENTITY #: 1597//1413. VIEW #: 4. BACKLOGGED :: 204.333%! ~~ 
+22:13:23.759 WARN  ~~ LOOPS: 11. ENTITY #: 1375//1191. VIEW #: 4. BACKLOGGED :: 173.727%! ~~ 
+22:13:24.817 WARN  ~~ LOOPS: 12. ENTITY #: 1211//997. VIEW #: 4. BACKLOGGED :: 155.750%! ~~ 
+22:13:25.867 WARN  ~~ LOOPS: 14. ENTITY #: 1160//890. VIEW #: 4. BACKLOGGED :: 109.286%! ~~ 
+22:13:26.959 WARN  ~~ LOOPS: 15. ENTITY #: 1281//947. VIEW #: 4. BACKLOGGED :: 110.400%! ~~ 
+22:13:28.050 WARN  ~~ LOOPS: 13. ENTITY #: 1284//1018. VIEW #: 4. BACKLOGGED :: 134.308%! ~~ 
+22:13:29.120 WARN  ~~ LOOPS: 13. ENTITY #: 1328//1015. VIEW #: 4. BACKLOGGED :: 131.308%! ~~ 
+22:13:30.244 WARN  ~~ LOOPS: 12. ENTITY #: 1499//1144. VIEW #: 4. BACKLOGGED :: 141.750%! ~~ 
+22:13:30.244 ERROR FAILURE HAS OCCURED! 
+22:13:31.333 WARN  ~~ LOOPS: 11. ENTITY #: 1577//1273. VIEW #: 4. BACKLOGGED :: 176.182%! ~~ 
+22:13:31.333 ERROR FAILURE HAS OCCURED! 
+22:13:32.455 WARN  ~~ LOOPS: 11. ENTITY #: 1605//1304. VIEW #: 4. BACKLOGGED :: 183.273%! ~~ 
+22:13:32.455 ERROR FAILURE HAS OCCURED! 
+22:13:33.617 WARN  ~~ LOOPS: 10. ENTITY #: 1619//1350. VIEW #: 4. BACKLOGGED :: 203.400%! ~~ 
+22:13:33.617 ERROR FAILURE HAS OCCURED! 
+22:13:34.740 WARN  ~~ LOOPS: 10. ENTITY #: 1588//1324. VIEW #: 4. BACKLOGGED :: 202.800%! ~~ 
+22:13:34.740 ERROR FAILURE HAS OCCURED! 
+22:13:35.901 WARN  ~~ LOOPS: 12. ENTITY #: 1570//1303. VIEW #: 4. BACKLOGGED :: 169.250%! ~~ 
+22:13:35.901 ERROR FAILURE HAS OCCURED! 
+22:13:37.044 WARN  ~~ LOOPS: 11. ENTITY #: 1501//1262. VIEW #: 4. BACKLOGGED :: 179.182%! ~~ 
+22:13:37.044 ERROR FAILURE HAS OCCURED! 
+22:13:38.157 WARN  ~~ LOOPS: 11. ENTITY #: 1505//1215. VIEW #: 4. BACKLOGGED :: 175.091%! ~~ 
+22:13:38.157 ERROR FAILURE HAS OCCURED! 
+22:13:39.289 WARN  ~~ LOOPS: 11. ENTITY #: 1469//1199. VIEW #: 4. BACKLOGGED :: 184.636%! ~~ 
+22:13:39.289 ERROR FAILURE HAS OCCURED! 
+22:13:40.343 WARN  ~~ LOOPS: 10. ENTITY #: 1458//1176. VIEW #: 4. BACKLOGGED :: 178.500%! ~~ 
+22:13:40.344 ERROR FAILURE HAS OCCURED! 
+22:13:41.464 WARN  ~~ LOOPS: 12. ENTITY #: 1483//1176. VIEW #: 4. BACKLOGGED :: 157.750%! ~~ 
+22:13:41.464 ERROR FAILURE HAS OCCURED! 
+22:13:42.536 WARN  ~~ LOOPS: 10. ENTITY #: 1502//1210. VIEW #: 4. BACKLOGGED :: 189.000%! ~~ 
+22:13:42.536 ERROR FAILURE HAS OCCURED! 
+22:13:43.644 WARN  ~~ LOOPS: 10. ENTITY #: 1497//1203. VIEW #: 4. BACKLOGGED :: 202.500%! ~~ 
+22:13:43.645 ERROR FAILURE HAS OCCURED! 
+22:13:44.743 WARN  ~~ LOOPS: 11. ENTITY #: 1553//1233. VIEW #: 4. BACKLOGGED :: 178.364%! ~~ 
+22:13:44.743 ERROR FAILURE HAS OCCURED! 
+22:13:45.934 WARN  ~~ LOOPS: 11. ENTITY #: 1609//1285. VIEW #: 4. BACKLOGGED :: 173.727%! ~~ 
+22:13:45.934 ERROR FAILURE HAS OCCURED! 
+22:13:47.120 WARN  ~~ LOOPS: 11. ENTITY #: 1618//1316. VIEW #: 4. BACKLOGGED :: 200.182%! ~~ 
+22:13:47.120 ERROR FAILURE HAS OCCURED! 
+22:13:48.228 WARN  ~~ LOOPS: 11. ENTITY #: 1649//1328. VIEW #: 4. BACKLOGGED :: 185.727%! ~~ 
+22:13:48.228 ERROR FAILURE HAS OCCURED! 
+22:13:49.327 WARN  ~~ LOOPS: 10. ENTITY #: 1648//1352. VIEW #: 4. BACKLOGGED :: 186.300%! ~~ 
+22:13:49.327 ERROR FAILURE HAS OCCURED! 
+22:13:50.426 WARN  ~~ LOOPS: 11. ENTITY #: 1636//1330. VIEW #: 4. BACKLOGGED :: 175.636%! ~~ 
+22:13:50.426 ERROR FAILURE HAS OCCURED! 
+22:13:51.529 WARN  ~~ LOOPS: 10. ENTITY #: 1631//1329. VIEW #: 4. BACKLOGGED :: 189.000%! ~~ 
+22:13:51.529 ERROR FAILURE HAS OCCURED! 
+22:13:52.677 WARN  ~~ LOOPS: 11. ENTITY #: 1655//1334. VIEW #: 4. BACKLOGGED :: 183.000%! ~~ 
+22:13:52.678 ERROR FAILURE HAS OCCURED! 
+22:13:53.799 WARN  ~~ LOOPS: 11. ENTITY #: 1641//1344. VIEW #: 4. BACKLOGGED :: 178.364%! ~~ 
+22:13:53.799 ERROR FAILURE HAS OCCURED! 
+22:13:54.965 WARN  ~~ LOOPS: 10. ENTITY #: 1638//1342. VIEW #: 4. BACKLOGGED :: 195.000%! ~~ 
+22:13:54.965 ERROR FAILURE HAS OCCURED! 
+22:13:56.115 WARN  ~~ LOOPS: 11. ENTITY #: 1592//1301. VIEW #: 4. BACKLOGGED :: 195.273%! ~~ 
+22:13:56.115 ERROR FAILURE HAS OCCURED! 
+22:13:57.356 WARN  ~~ LOOPS: 11. ENTITY #: 1541//1263. VIEW #: 4. BACKLOGGED :: 197.727%! ~~ 
+22:13:57.356 ERROR FAILURE HAS OCCURED! 
+22:13:58.395 WARN  ~~ LOOPS: 10. ENTITY #: 1523//1224. VIEW #: 4. BACKLOGGED :: 171.000%! ~~ 
+22:13:58.395 ERROR FAILURE HAS OCCURED! 
+22:13:59.480 WARN  ~~ LOOPS: 11. ENTITY #: 1481//1197. VIEW #: 4. BACKLOGGED :: 175.091%! ~~ 
+22:13:59.480 ERROR FAILURE HAS OCCURED! 
+22:14:00.538 WARN  ~~ LOOPS: 11. ENTITY #: 1438//1148. VIEW #: 4. BACKLOGGED :: 164.182%! ~~ 
+22:14:00.539 ERROR FAILURE HAS OCCURED! 
+22:14:01.678 WARN  ~~ LOOPS: 12. ENTITY #: 1373//1092. VIEW #: 4. BACKLOGGED :: 155.250%! ~~ 
+22:14:01.678 ERROR FAILURE HAS OCCURED! 
+22:14:02.754 WARN  ~~ LOOPS: 12. ENTITY #: 1342//1032. VIEW #: 4. BACKLOGGED :: 153.500%! ~~ 
+22:14:02.754 ERROR FAILURE HAS OCCURED! 
+22:14:03.847 WARN  ~~ LOOPS: 11. ENTITY #: 1381//1040. VIEW #: 4. BACKLOGGED :: 158.727%! ~~ 
+22:14:03.847 ERROR FAILURE HAS OCCURED! 
+22:14:04.973 WARN  ~~ LOOPS: 12. ENTITY #: 1394//1070. VIEW #: 4. BACKLOGGED :: 171.000%! ~~ 
+22:14:04.973 ERROR FAILURE HAS OCCURED! 
+22:14:06.056 WARN  ~~ LOOPS: 12. ENTITY #: 1437//1106. VIEW #: 4. BACKLOGGED :: 154.750%! ~~ 
+22:14:06.056 ERROR FAILURE HAS OCCURED! 
+22:14:07.169 WARN  ~~ LOOPS: 11. ENTITY #: 1435//1109. VIEW #: 4. BACKLOGGED :: 166.091%! ~~ 
+22:14:07.169 ERROR FAILURE HAS OCCURED! 
+22:14:08.244 WARN  ~~ LOOPS: 11. ENTITY #: 1506//1160. VIEW #: 4. BACKLOGGED :: 178.909%! ~~ 
+22:14:08.244 ERROR FAILURE HAS OCCURED! 
+22:14:09.375 WARN  ~~ LOOPS: 10. ENTITY #: 1560//1212. VIEW #: 5. BACKLOGGED :: 202.500%! ~~ 
+22:14:09.375 ERROR FAILURE HAS OCCURED! 
+22:14:10.558 WARN  ~~ LOOPS: 10. ENTITY #: 1634//1291. VIEW #: 5. BACKLOGGED :: 223.500%! ~~ 
+22:14:10.558 ERROR FAILURE HAS OCCURED! 
+22:14:11.759 WARN  ~~ LOOPS: 10. ENTITY #: 1670//1360. VIEW #: 5. BACKLOGGED :: 223.200%! ~~ 
+22:14:11.759 ERROR FAILURE HAS OCCURED! 
+22:14:12.956 WARN  ~~ LOOPS: 8. ENTITY #: 1650//1354. VIEW #: 4. BACKLOGGED :: 246.750%! ~~ 
+22:14:12.956 ERROR FAILURE HAS OCCURED! 
+22:14:14.134 WARN  ~~ LOOPS: 8. ENTITY #: 1643//1333. VIEW #: 4. BACKLOGGED :: 279.750%! ~~ 
+22:14:14.134 ERROR FAILURE HAS OCCURED! 
+22:14:15.331 WARN  ~~ LOOPS: 9. ENTITY #: 1693//1373. VIEW #: 4. BACKLOGGED :: 222.667%! ~~ 
+22:14:15.331 ERROR FAILURE HAS OCCURED! 
+22:14:16.441 WARN  ~~ LOOPS: 9. ENTITY #: 1709//1403. VIEW #: 4. BACKLOGGED :: 244.333%! ~~ 
+22:14:16.441 ERROR FAILURE HAS OCCURED! 
+22:14:17.557 WARN  ~~ LOOPS: 9. ENTITY #: 1766//1444. VIEW #: 4. BACKLOGGED :: 221.667%! ~~ 
+22:14:17.557 ERROR FAILURE HAS OCCURED! 
+22:14:18.696 WARN  ~~ LOOPS: 8. ENTITY #: 1779//1484. VIEW #: 4. BACKLOGGED :: 274.125%! ~~ 
+22:14:18.696 ERROR FAILURE HAS OCCURED! 
+22:14:19.862 WARN  ~~ LOOPS: 10. ENTITY #: 1786//1478. VIEW #: 4. BACKLOGGED :: 219.900%! ~~ 
+22:14:19.862 ERROR FAILURE HAS OCCURED! 

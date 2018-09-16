@@ -1,0 +1,47 @@
+17:06:02.132 WARN  Overly-long name! Kicking. 1 warning. 
+17:22:05.127 ERROR Ghost entity found! 
+17:22:05.127 ERROR Type: Basic 
+17:22:05.127 ERROR Position: (403.5, 4753.5) 
+17:22:05.129 ERROR [] 
+17:22:05.129 ERROR Health: 1.1066666666666665 
+17:22:05.129 WARN  Ghost entity removed successfully. 
+18:13:59.855 WARN  ~~ LOOPS: 15. ENTITY #: 890//693. VIEW #: 11. BACKLOGGED :: 100.200%! ~~ 
+18:14:00.877 WARN  ~~ LOOPS: 14. ENTITY #: 887//687. VIEW #: 11. BACKLOGGED :: 107.357%! ~~ 
+18:14:39.736 WARN  ~~ LOOPS: 14. ENTITY #: 950//727. VIEW #: 11. BACKLOGGED :: 115.071%! ~~ 
+19:42:14.843 ERROR [ERROR] A ghost has been found! 
+19:42:14.843 ERROR Type: Basic 
+19:42:14.843 ERROR Position: (512.5, 292.5) 
+19:42:14.845 ERROR [] 
+19:42:14.845 ERROR Health: 1.1066666666666665 
+19:42:14.845 WARN  Ghost removed successfully. 
+19:42:14.845 WARN  Ghost removed successfully. 
+19:42:19.637 ERROR Ghost entity found! 
+19:42:19.637 ERROR Type: Basic 
+19:42:19.637 ERROR Position: (254.5, 378.5) 
+19:42:19.637 ERROR [] 
+19:42:19.637 ERROR Health: 1.1066666666666665 
+19:42:19.637 WARN  Ghost entity removed successfully. 
+20:42:18.550 ERROR [ERROR] A ghost has been found! 
+20:42:18.550 ERROR Type: Basic 
+20:42:18.550 ERROR Position: (4792.5, 5050.5) 
+20:42:18.551 ERROR [] 
+20:42:18.552 ERROR Health: -1 
+20:42:18.552 WARN  Ghost removed successfully. 
+20:42:18.552 WARN  Ghost removed successfully. 
+20:48:15.749 ERROR [ERROR] A ghost has been found! 
+20:48:15.749 ERROR Type: Ball 
+20:48:15.749 ERROR Position: (3626.530010066219, 4011.5897677936114) 
+20:48:15.750 ERROR [] 
+20:48:15.750 ERROR Health: -1 
+20:48:15.750 WARN  Ghost removed successfully. 
+20:48:15.750 WARN  Ghost removed successfully. 
+21:44:36.169 WARN  Malformed command packet! Kicking. 1 warning. 
+21:44:36.234 WARN  Malformed command packet! Kicking. 2 warnings. 
+21:44:36.283 WARN  Malformed command packet! Kicking. 3 warnings. 
+21:44:36.393 WARN  Malformed command packet! Kicking. 4 warnings. 
+21:44:36.394 WARN  127.0.0.1 banned! 
+22:07:27.739 WARN  Malformed packet! Kicking. 1 warning. 
+22:07:27.740 WARN  Malformed packet! Kicking. 2 warnings. 
+22:07:27.798 WARN  Malformed packet! Kicking. 3 warnings. 
+22:07:27.800 WARN  Malformed packet! Kicking. 4 warnings. 
+22:07:27.801 WARN  127.0.0.1 banned! 

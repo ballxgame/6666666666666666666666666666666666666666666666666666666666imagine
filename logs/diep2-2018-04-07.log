@@ -1,0 +1,135 @@
+00:03:57.889 WARN  Malformed command packet! Kicking. 1 warning. 
+00:27:33.712 WARN  ~~ LOOPS: 13. ENTITY #: 1062//260. VIEW #: 3. BACKLOGGED :: 107.308%! ~~ 
+00:27:33.712 WARN  Total activation time: 94 
+00:27:33.712 WARN  Total collision time: 26 
+00:27:33.712 WARN  Total cycle time: 345 
+00:27:33.712 WARN  Total player update time: 69 
+00:27:33.712 WARN  Total lb+minimap processing time: 118 
+00:27:33.712 WARN  Total entity physics calculation time: 35 
+00:27:33.712 WARN  Total entity life+thought cycle time: 103 
+00:27:33.712 WARN  Total entity selfie-taking time: 22 
+00:27:33.712 WARN  Total time: 812 
+00:44:16.387 WARN  Bad packet index! Kicking. 1 warning. 
+00:45:23.197 WARN  Ill-sized self-kill request! Kicking. 1 warning. 
+00:47:53.230 WARN  Bad packet index! Kicking. 1 warning. 
+00:55:59.531 ERROR GHOST FOUND 
+00:55:59.531 ERROR Basic 
+00:55:59.531 ERROR x: 4250 y: 4238 
+00:55:59.532 ERROR [] 
+00:55:59.532 ERROR health: 1.6333333333333329 
+00:55:59.532 WARN  Ghost removed. 
+00:55:59.532 WARN  Ghost removed. 
+01:06:37.586 WARN  Bad packet index! Kicking. 1 warning. 
+01:25:52.423 WARN  Malformed packet! Kicking. 1 warning. 
+01:26:49.895 WARN  Malformed packet! Kicking. 1 warning. 
+01:27:14.208 WARN  Malformed packet! Kicking. 1 warning. 
+03:57:37.183 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1787:16)
+    at forEach.type (/home/ubuntu/workspace/arras.io/src/server/server.js:1937:87)
+    at Array.forEach (<anonymous>)
+    at set.TURRETS.forEach.def (/home/ubuntu/workspace/arras.io/src/server/server.js:1937:69)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1935:25)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2775:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2805:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10) 
+03:57:37.183 ERROR defender 
+03:57:37.185 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true}],"SHAPE":3,"TURRETS":[{"GUNS":[{"POSITION":[10,6,0,180,0,1],"TYPE":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Turret","BODY":{"FOV":0.75},"COLOR":16,"GUNS":[{"POSITION":[22,10,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":31,"mockup":{"body":{"type":7,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Turret","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}},"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}}},{"CONTROLLERS":["nearestDifferentMaster"],"INDEPENDENT":true}]},{"POSITION":[10,6,0,180,120,1],"TYPE":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Turret","BODY":{"FOV":0.75},"COLOR":16,"GUNS":[{"POSITION":[22,10,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":31,"mockup":{"body":{"type":7,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Turret","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}},"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}}},{"CONTROLLERS":["nearestDifferentMaster"],"INDEPENDENT":true}]},{"POSITION":[10,6,0,180,240,1],"TYPE":[{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Turret","BODY":{"FOV":0.75},"COLOR":16,"GUNS":[{"POSITION":[22,10,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":31,"mockup":{"body":{"type":7,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Turret","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}},"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}}},{"CONTROLLERS":["nearestDifferentMaster"],"INDEPENDENT":true}]}]}],"LABEL":"Defender","DANGER":null,"index":172} 
+04:49:20.179 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1787:16)
+    at forEach.type (/home/ubuntu/workspace/arras.io/src/server/server.js:1937:87)
+    at Array.forEach (<anonymous>)
+    at set.TURRETS.forEach.def (/home/ubuntu/workspace/arras.io/src/server/server.js:1937:69)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1935:25)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2775:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2805:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10) 
+04:49:20.179 ERROR defender 
+04:49:20.181 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Defender","SIZE":22,"SHAPE":3,"FACING_TYPE":"autospin","TURRETS":[{"POSITION":[22,10,7.7,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}},{"POSITION":[4.85,6.7,0,120,0,1],"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Turret","BODY":{"FOV":0.75},"FACING_TYPE":"locksFacing","COLOR":16,"GUNS":[{"POSITION":[22,10,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":31,"mockup":{"body":{"type":7,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Turret","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}},"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}}}},{"POSITION":[4.85,6.7,0,240,0,1],"TYPE":{"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Turret","BODY":{"FOV":0.75},"FACING_TYPE":"locksFacing","COLOR":16,"GUNS":[{"POSITION":[22,10,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":0.40249999999999997,"shudder":0.09000000000000001,"size":1.32,"health":0.8,"damage":0.22312499999999996,"pen":1.51875,"speed":5.669999999999999,"maxSpeed":1.36,"range":1,"density":0.30000000000000004,"spray":11.25,"resist":1.7999999999999998},"TYPE":{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"index":14,"mockup":{"body":{"type":1,"id":14,"index":14,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}}}],"index":31,"mockup":{"body":{"type":7,"id":31,"index":31,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Turret","score":0,"guns":[{"time":0,"power":0}],"turrets":[],"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}},"position":{"middle":{"x":0.639062,"y":0},"axis":3.27813,"points":[{"x":2.2,"y":0.5},{"x":-1,"y":0},{"x":2.2,"y":-0.5}]}}}}],"GUNS":[{"POSITION":[15,7,1,-2,0,60,0]},{"POSITION":[3,7,1.7,13,0,60,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":1,"shudder":0.0625,"size":0.44999999999999996,"health":1.1,"damage":0.8250000000000001,"pen":1.1,"speed":4.25,"maxSpeed":1,"range":1.5,"density":1,"spray":15,"resist":3},"TYPE":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":19,"mockup":{"body":{"type":1,"id":19,"index":19,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},{"COLOR":13}],"STAT_CALCULATOR":8}},{"POSITION":[15,7,1,-2,0,180,0]},{"POSITION":[3,7,1.7,13,0,180,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":1,"shudder":0.0625,"size":0.44999999999999996,"health":1.1,"damage":0.8250000000000001,"pen":1.1,"speed":4.25,"maxSpeed":1,"range":1.5,"density":1,"spray":15,"resist":3},"TYPE":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":19,"mockup":{"body":{"type":1,"id":19,"index":19,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},{"COLOR":13}],"STAT_CALCULATOR":8}},{"POSITION":[15,7,1,-2,0,300,0]},{"POSITION":[3,7,1.7,13,0,300,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":45,"recoil":1,"shudder":0.0625,"size":0.44999999999999996,"health":1.1,"damage":0.8250000000000001,"pen":1.1,"speed":4.25,"maxSpeed":1,"range":1.5,"density":1,"spray":15,"resist":3},"TYPE":[{"LABEL":"Thrown Trap","TYPE":"trap","ACCEPTS_SCORE":false,"SHAPE":-3,"MOTION_TYPE":"glide","FACING_TYPE":"turnWithSpeed","HITS_OWN_TYPE":"push","DIE_AT_RANGE":true,"BODY":{"HEALTH":0.5,"DAMAGE":3,"RANGE":450,"DENSITY":2.5,"RESIST":2.5,"SPEED":0},"index":19,"mockup":{"body":{"type":1,"id":19,"index":19,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.555120301556214,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Thrown Trap","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}},"position":{"middle":{"x":0,"y":0},"axis":3.11024,"points":[{"x":1.55512,"y":0},{"x":-0.77756,"y":-1.34677},{"x":-0.77756,"y":1.34677}]}}},{"COLOR":13}],"STAT_CALCULATOR":8}}],"index":172} 
+05:11:04.236 WARN  ~~ LOOPS: 5. ENTITY #: 382//39. VIEW #: 1. BACKLOGGED :: 105.600%! ~~ 
+05:11:04.236 WARN  Total activation time: 8 
+05:11:04.236 WARN  Total collision time: 0 
+05:11:04.236 WARN  Total cycle time: 168 
+05:11:04.236 WARN  Total player update time: 4 
+05:11:04.237 WARN  Total lb+minimap processing time: 4 
+05:11:04.237 WARN  Total entity physics calculation time: 1 
+05:11:04.237 WARN  Total entity life+thought cycle time: 2 
+05:11:04.237 WARN  Total entity selfie-taking time: 0 
+05:11:04.237 WARN  Total time: 187 
+05:11:05.242 WARN  ~~ LOOPS: 6. ENTITY #: 383//34. VIEW #: 1. BACKLOGGED :: 169.500%! ~~ 
+05:11:05.242 WARN  Total activation time: 167 
+05:11:05.242 WARN  Total collision time: 1 
+05:11:05.242 WARN  Total cycle time: 171 
+05:11:05.242 WARN  Total player update time: 4 
+05:11:05.242 WARN  Total lb+minimap processing time: 4 
+05:11:05.242 WARN  Total entity physics calculation time: 1 
+05:11:05.242 WARN  Total entity life+thought cycle time: 3 
+05:11:05.242 WARN  Total entity selfie-taking time: 0 
+05:11:05.242 WARN  Total time: 351 
+05:11:06.246 WARN  ~~ LOOPS: 5. ENTITY #: 382//49. VIEW #: 1. BACKLOGGED :: 110.400%! ~~ 
+05:11:06.246 WARN  Total activation time: 167 
+05:11:06.246 WARN  Total collision time: 0 
+05:11:06.246 WARN  Total cycle time: 17 
+05:11:06.246 WARN  Total player update time: 4 
+05:11:06.246 WARN  Total lb+minimap processing time: 3 
+05:11:06.246 WARN  Total entity physics calculation time: 0 
+05:11:06.246 WARN  Total entity life+thought cycle time: 5 
+05:11:06.246 WARN  Total entity selfie-taking time: 0 
+05:11:06.246 WARN  Total time: 196 
+05:11:07.250 WARN  ~~ LOOPS: 6. ENTITY #: 383//37. VIEW #: 1. BACKLOGGED :: 169.500%! ~~ 
+05:11:07.250 WARN  Total activation time: 6 
+05:11:07.250 WARN  Total collision time: 1 
+05:11:07.250 WARN  Total cycle time: 332 
+05:11:07.250 WARN  Total player update time: 6 
+05:11:07.250 WARN  Total lb+minimap processing time: 3 
+05:11:07.250 WARN  Total entity physics calculation time: 2 
+05:11:07.250 WARN  Total entity life+thought cycle time: 164 
+05:11:07.250 WARN  Total entity selfie-taking time: 161 
+05:11:07.250 WARN  Total time: 675 
+05:11:08.253 WARN  ~~ LOOPS: 5. ENTITY #: 384//36. VIEW #: 1. BACKLOGGED :: 303.600%! ~~ 
+05:11:08.254 WARN  Total activation time: 6 
+05:11:08.254 WARN  Total collision time: 1 
+05:11:08.254 WARN  Total cycle time: 499 
+05:11:08.254 WARN  Total player update time: 3 
+05:11:08.254 WARN  Total lb+minimap processing time: 4 
+05:11:08.254 WARN  Total entity physics calculation time: 165 
+05:11:08.254 WARN  Total entity life+thought cycle time: 2 
+05:11:08.254 WARN  Total entity selfie-taking time: 1 
+05:11:08.254 WARN  Total time: 681 
+05:11:09.259 WARN  ~~ LOOPS: 6. ENTITY #: 384//46. VIEW #: 1. BACKLOGGED :: 172.000%! ~~ 
+05:11:09.259 WARN  Total activation time: 8 
+05:11:09.259 WARN  Total collision time: 0 
+05:11:09.259 WARN  Total cycle time: 336 
+05:11:09.259 WARN  Total player update time: 5 
+05:11:09.259 WARN  Total lb+minimap processing time: 5 
+05:11:09.259 WARN  Total entity physics calculation time: 162 
+05:11:09.259 WARN  Total entity life+thought cycle time: 9 
+05:11:09.259 WARN  Total entity selfie-taking time: 1 
+05:11:09.259 WARN  Total time: 526 
+05:11:10.438 WARN  ~~ LOOPS: 6. ENTITY #: 387//37. VIEW #: 1. BACKLOGGED :: 172.500%! ~~ 
+05:11:10.438 WARN  Total activation time: 173 
+05:11:10.438 WARN  Total collision time: 1 
+05:11:10.438 WARN  Total cycle time: 171 
+05:11:10.438 WARN  Total player update time: 5 
+05:11:10.438 WARN  Total lb+minimap processing time: 5 
+05:11:10.438 WARN  Total entity physics calculation time: 1 
+05:11:10.439 WARN  Total entity life+thought cycle time: 6 
+05:11:10.439 WARN  Total entity selfie-taking time: 1 
+05:11:10.439 WARN  Total time: 363 
+05:11:11.440 WARN  ~~ LOOPS: 6. ENTITY #: 385//34. VIEW #: 1. BACKLOGGED :: 170.000%! ~~ 
+05:11:11.440 WARN  Total activation time: 8 
+05:11:11.440 WARN  Total collision time: 0 
+05:11:11.440 WARN  Total cycle time: 332 
+05:11:11.440 WARN  Total player update time: 5 
+05:11:11.440 WARN  Total lb+minimap processing time: 4 
+05:11:11.440 WARN  Total entity physics calculation time: 2 
+05:11:11.440 WARN  Total entity life+thought cycle time: 165 
+05:11:11.440 WARN  Total entity selfie-taking time: 0 
+05:11:11.440 WARN  Total time: 516 
+05:48:45.249 WARN  Malformed command packet! Kicking. 1 warning. 
+05:48:45.289 WARN  Malformed command packet! Kicking. 2 warnings. 

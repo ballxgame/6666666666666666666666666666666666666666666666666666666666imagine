@@ -1,0 +1,39 @@
+18:29:40.858 ERROR io_ is not defined
+ReferenceError: io_ is not defined
+    at eval (eval at set.CONTROLLERS.forEach (/home/ubuntu/workspace/arras.io/src/server/server.js:1790:28), <anonymous>:1:1)
+    at set.CONTROLLERS.forEach (/home/ubuntu/workspace/arras.io/src/server/server.js:1790:28)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1789:29)
+    at forEach.type (/home/ubuntu/workspace/arras.io/src/server/server.js:1931:87)
+    at Array.forEach (<anonymous>)
+    at set.TURRETS.forEach.def (/home/ubuntu/workspace/arras.io/src/server/server.js:1931:69)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1929:25)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2768:26) 
+18:29:40.858 ERROR demolisher 
+18:29:40.860 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"index":32,"mockup":{"body":{"type":7,"id":32,"index":32,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Demolisher","SHAPE":6,"COLOR":21,"TURRETS":[{"POSITION":[20,0,0,0,360,0],"TYPE":[{"LABEL":"","CONTROLLERS":["dontTurn"],"COLOR":9,"SHAPE":6,"INDEPENDENT":true,"index":53,"mockup":{"body":{"type":1,"id":53,"index":53,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1.0996361107912678,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":9,"name":"","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}},"position":{"middle":{"x":0,"y":0},"axis":2.19927,"points":[{"x":-0.0271721,"y":1.0993},{"x":0.0271721,"y":-1.0993},{"x":0.965608,"y":-0.526118}]}}},{"CONTROLLERS":[""],"FACING_TYPE":"locksFacing"}]}],"index":183} 
+18:31:28.909 ERROR Cannot read property 'PARENT' of undefined
+TypeError: Cannot read property 'PARENT' of undefined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:16)
+    at forEach.type (/home/ubuntu/workspace/arras.io/src/server/server.js:1931:87)
+    at Array.forEach (<anonymous>)
+    at set.TURRETS.forEach.def (/home/ubuntu/workspace/arras.io/src/server/server.js:1931:69)
+    at Array.forEach (<anonymous>)
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1929:25)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2768:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2798:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10) 
+18:31:28.909 ERROR demolisher 
+18:31:28.911 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_SKILL_POINTS":true,"index":32,"mockup":{"body":{"type":7,"id":32,"index":32,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Demolisher","SHAPE":6,"COLOR":21,"TURRETS":[{"COLOR":9,"SHAPE":6,"POSITION":[20,0,0,0,360,0]}],"index":183} 
+19:07:42.076 ERROR Egg 
+19:07:42.078 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:195:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5153:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5148:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5239:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 

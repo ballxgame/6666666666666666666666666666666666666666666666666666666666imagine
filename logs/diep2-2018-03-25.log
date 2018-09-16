@@ -1,0 +1,11 @@
+22:20:50.200 ERROR Egg 
+22:20:50.202 ERROR Cannot read property 'NaN' of undefined
+TypeError: Cannot read property 'NaN' of undefined
+    at Object.room.isIn (/home/ubuntu/workspace/arras.io/src/server/server.js:293:39)
+    at entities.map.instance (/home/ubuntu/workspace/arras.io/src/server/server.js:5583:34)
+    at Array.map (<anonymous>)
+    at makefood (/home/ubuntu/workspace/arras.io/src/server/server.js:5578:29)
+    at Timeout.maintainloop [as _onTimeout] (/home/ubuntu/workspace/arras.io/src/server/server.js:5669:9)
+    at ontimeout (timers.js:469:11)
+    at tryOnTimeout (timers.js:304:5)
+    at Timer.listOnTimeout (timers.js:264:5) 

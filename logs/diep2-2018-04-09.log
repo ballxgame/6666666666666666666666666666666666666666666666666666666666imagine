@@ -1,0 +1,91 @@
+17:04:36.948 ERROR GHOST FOUND 
+17:04:36.948 ERROR Basic 
+17:04:36.948 ERROR x: 66 y: 47 
+17:04:36.950 ERROR [] 
+17:04:36.950 ERROR health: 1.6333333333333329 
+17:04:36.950 WARN  Ghost removed. 
+17:04:36.950 WARN  Ghost removed. 
+17:06:25.058 ERROR GHOST FOUND 
+17:06:25.059 ERROR Basic 
+17:06:25.059 ERROR x: 252 y: 30 
+17:06:25.059 ERROR [] 
+17:06:25.059 ERROR health: -1 
+17:06:25.059 WARN  Ghost removed. 
+17:06:25.059 WARN  Ghost removed. 
+18:25:15.306 WARN  Malformed packet! Kicking. 1 warning. 
+18:25:15.307 WARN  Malformed packet! Kicking. 2 warnings. 
+18:25:23.922 WARN  Malformed packet! Kicking. 3 warnings. 
+18:25:23.922 WARN  Malformed packet! Kicking. 4 warnings. 
+18:25:23.954 WARN  Malformed packet! Kicking. 5 warnings. 
+18:25:23.955 WARN  127.0.0.1 banned! 
+20:39:23.663 WARN  ~~ LOOPS: 15. ENTITY #: 646//419. VIEW #: 3. BACKLOGGED :: 114.200%! ~~ 
+20:39:23.663 WARN  Total activation time: 112 
+20:39:23.663 WARN  Total collision time: 56 
+20:39:23.664 WARN  Total cycle time: 403 
+20:39:23.664 WARN  Total player update time: 131 
+20:39:23.664 WARN  Total lb+minimap processing time: 47 
+20:39:23.664 WARN  Total entity physics calculation time: 23 
+20:39:23.664 WARN  Total entity life+thought cycle time: 173 
+20:39:23.665 WARN  Total entity selfie-taking time: 63 
+20:39:23.665 WARN  Total time: 1008 
+20:39:24.666 WARN  ~~ LOOPS: 14. ENTITY #: 650//410. VIEW #: 3. BACKLOGGED :: 108.429%! ~~ 
+20:39:24.666 WARN  Total activation time: 95 
+20:39:24.667 WARN  Total collision time: 54 
+20:39:24.667 WARN  Total cycle time: 357 
+20:39:24.667 WARN  Total player update time: 97 
+20:39:24.667 WARN  Total lb+minimap processing time: 27 
+20:39:24.667 WARN  Total entity physics calculation time: 26 
+20:39:24.667 WARN  Total entity life+thought cycle time: 145 
+20:39:24.667 WARN  Total entity selfie-taking time: 47 
+20:39:24.667 WARN  Total time: 848 
+20:43:54.934 ERROR [ERROR] A ghost has been found! 
+20:43:54.936 ERROR Type: Basic 
+20:43:54.936 ERROR Position: (4356, 4374) 
+20:43:54.940 ERROR [] 
+20:43:54.941 ERROR Health: -1 
+20:43:54.941 WARN  Ghost removed successfully. 
+20:43:54.941 WARN  Ghost removed successfully. 
+20:43:55.497 ERROR Ghost entity found! 
+20:43:55.497 ERROR Type: Basic 
+20:43:55.497 ERROR Position: (4215, 4265) 
+20:43:55.497 ERROR [] 
+20:43:55.497 ERROR Health: 1.6333333333333329 
+20:43:55.497 WARN  Ghost entity removed successfully. 
+20:44:01.609 ERROR [ERROR] A ghost has been found! 
+20:44:01.609 ERROR Type: Basic 
+20:44:01.610 ERROR Position: (4371, 4159) 
+20:44:01.611 ERROR [] 
+20:44:01.611 ERROR Health: -1 
+20:44:01.611 WARN  Ghost removed successfully. 
+20:44:01.616 WARN  Ghost removed successfully. 
+20:44:01.977 ERROR [ERROR] A ghost has been found! 
+20:44:01.977 ERROR Type: Basic 
+20:44:01.977 ERROR Position: (4438, 4051) 
+20:44:01.977 ERROR [] 
+20:44:01.977 ERROR Health: -1 
+20:44:01.977 WARN  Ghost removed successfully. 
+20:44:01.977 WARN  Ghost removed successfully. 
+20:44:09.994 ERROR [ERROR] A ghost has been found! 
+20:44:09.994 ERROR Type: Basic 
+20:44:09.994 ERROR Position: (4341, 4389) 
+20:44:09.994 ERROR [] 
+20:44:09.994 ERROR Health: -1 
+20:44:09.994 WARN  Ghost removed successfully. 
+20:44:09.995 WARN  Ghost removed successfully. 
+20:44:16.521 ERROR [ERROR] A ghost has been found! 
+20:44:16.521 ERROR Type: Basic 
+20:44:16.521 ERROR Position: (204, 373) 
+20:44:16.521 ERROR [] 
+20:44:16.522 ERROR Health: -1 
+20:44:16.522 WARN  Ghost removed successfully. 
+20:44:16.522 WARN  Ghost removed successfully. 
+20:46:08.072 WARN  ~~ LOOPS: 14. ENTITY #: 484//206. VIEW #: 3. BACKLOGGED :: 115.714%! ~~ 
+20:46:08.072 WARN  Total activation time: 120 
+20:46:08.072 WARN  Total collision time: 44 
+20:46:08.072 WARN  Total cycle time: 375 
+20:46:08.072 WARN  Total player update time: 86 
+20:46:08.073 WARN  Total lb+minimap processing time: 86 
+20:46:08.073 WARN  Total entity physics calculation time: 29 
+20:46:08.073 WARN  Total entity life+thought cycle time: 160 
+20:46:08.073 WARN  Total entity selfie-taking time: 53 
+20:46:08.074 WARN  Total time: 953 

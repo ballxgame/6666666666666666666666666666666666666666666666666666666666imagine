@@ -1,0 +1,25 @@
+01:13:14.696 ERROR [ERROR] A ghost has been found! 
+01:13:14.696 ERROR Type: Banshee 
+01:13:14.696 ERROR Position: (2164.4529192924747, 2921.752682711633) 
+01:13:14.697 ERROR [] 
+01:13:14.697 ERROR Health: 1.586666666666667 
+01:13:14.697 WARN  Ghost removed successfully. 
+01:13:14.697 WARN  Ghost removed successfully. 
+17:00:04.743 ERROR Ghost entity found! 
+17:00:04.743 ERROR Type: Basic 
+17:00:04.743 ERROR Position: (248.16666666666666, 292.16666666666663) 
+17:00:04.745 ERROR [] 
+17:00:04.745 ERROR Health: -1 
+17:00:04.745 WARN  Ghost entity removed successfully. 
+17:00:06.503 ERROR Ghost entity found! 
+17:00:06.503 ERROR Type: Basic 
+17:00:06.503 ERROR Position: (88.16666666666666, 341.16666666666663) 
+17:00:06.503 ERROR [] 
+17:00:06.503 ERROR Health: 1.1066666666666665 
+17:00:06.503 WARN  Ghost entity removed successfully. 
+17:00:06.867 ERROR Ghost entity found! 
+17:00:06.867 ERROR Type: Basic 
+17:00:06.867 ERROR Position: (209.16666666666666, 270.16666666666663) 
+17:00:06.867 ERROR [] 
+17:00:06.867 ERROR Health: -1 
+17:00:06.867 WARN  Ghost entity removed successfully. 

@@ -1,0 +1,287 @@
+00:20:22.773 ERROR Ghost entity found! 
+00:20:22.774 ERROR Type: Basic 
+00:20:22.774 ERROR Position: (5341.833333333333, 170.16666666666666) 
+00:20:22.776 ERROR [] 
+00:20:22.776 ERROR Health: -1 
+00:20:22.776 WARN  Ghost entity removed successfully. 
+00:20:24.720 WARN  ~~ LOOPS: 11. ENTITY #: 373//30. VIEW #: 3. BACKLOGGED :: 315.545%! ~~ 
+00:20:30.492 WARN  ~~ LOOPS: 1. ENTITY #: 374//25. VIEW #: 3. BACKLOGGED :: 17217.000%! ~~ 
+00:31:35.276 ERROR [ERROR] A ghost has been found! 
+00:31:35.276 ERROR Type: Observer 
+00:31:35.276 ERROR Position: (3330.996926154494, 2030.0481529256951) 
+00:31:35.276 ERROR Collision Array:  
+00:31:35.276 ERROR Health: 3667.371666666667 
+00:31:35.276 WARN  Ghost removed successfully. 
+00:31:35.277 WARN  Ghost removed successfully. 
+01:28:47.702 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:28:47.702 ERROR greenPentagon 
+01:28:47.703 ERROR {"PARENT":[null],"LABEL":"Green Pentagon","VALUE":28000,"SHAPE":5,"SIZE":16,"COLOR":31,"BODY":{"DAMAGE":3,"DENSITY":8,"HEALTH":200,"RESIST":1.25,"PENETRATION":1.1},"DRAW_HEALTH":true,"index":11} 
+01:28:47.704 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:28:47.704 ERROR greenTriangle 
+01:28:47.704 ERROR {"PARENT":[null],"LABEL":"Green Triangle","VALUE":7000,"SHAPE":3,"SIZE":9,"COLOR":31,"BODY":{"DAMAGE":1,"DENSITY":6,"HEALTH":60,"RESIST":1.15,"PENETRATION":1.5},"DRAW_HEALTH":true,"index":12} 
+01:28:47.704 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:28:47.704 ERROR greenSquare 
+01:28:47.704 ERROR {"PARENT":[null],"LABEL":"Green Square","VALUE":2000,"SHAPE":4,"SIZE":10,"COLOR":31,"BODY":{"DAMAGE":0.5,"DENSITY":4,"HEALTH":20,"PENETRATION":2},"DRAW_HEALTH":true,"INTANGIBLE":false,"index":13} 
+01:29:39.901 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:29:39.901 ERROR greenPentagon 
+01:29:39.902 ERROR {"PARENT":[null],"LABEL":"Green Pentagon","VALUE":28000,"SHAPE":5,"SIZE":16,"COLOR":31,"BODY":{"DAMAGE":3,"DENSITY":8,"HEALTH":200,"RESIST":1.25,"PENETRATION":1.1},"DRAW_HEALTH":true,"TURRETS":[],"GUNS":[],"index":11} 
+01:29:39.903 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:29:39.903 ERROR greenTriangle 
+01:29:39.903 ERROR {"PARENT":[null],"LABEL":"Green Triangle","VALUE":7000,"SHAPE":3,"SIZE":9,"COLOR":31,"BODY":{"DAMAGE":1,"DENSITY":6,"HEALTH":60,"RESIST":1.15,"PENETRATION":1.5},"DRAW_HEALTH":true,"TURRETS":[],"GUNS":[],"index":12} 
+01:29:39.904 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:29:39.904 ERROR greenSquare 
+01:29:39.904 ERROR {"PARENT":[null],"LABEL":"Green Square","VALUE":2000,"SHAPE":4,"SIZE":10,"COLOR":31,"BODY":{"DAMAGE":0.5,"DENSITY":4,"HEALTH":20,"PENETRATION":2},"DRAW_HEALTH":true,"INTANGIBLE":false,"TURRETS":[],"GUNS":[],"index":13} 
+01:30:49.367 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:49.368 ERROR greenPentagon 
+01:30:49.370 ERROR {"PARENT":[null],"LABEL":"Green Pentagon","VALUE":28000,"SHAPE":5,"SIZE":16,"COLOR":31,"BODY":{"DAMAGE":3,"DENSITY":8,"HEALTH":200,"RESIST":1.25,"PENETRATION":1.1},"TURRETS":[],"GUNS":[],"index":11} 
+01:30:49.371 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:49.371 ERROR greenTriangle 
+01:30:49.372 ERROR {"PARENT":[null],"LABEL":"Green Triangle","VALUE":7000,"SHAPE":3,"SIZE":9,"COLOR":31,"BODY":{"DAMAGE":1,"DENSITY":6,"HEALTH":60,"RESIST":1.15,"PENETRATION":1.5},"TURRETS":[],"GUNS":[],"index":12} 
+01:30:49.373 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:49.373 ERROR greenSquare 
+01:30:49.373 ERROR {"PARENT":[null],"LABEL":"Green Square","VALUE":2000,"SHAPE":4,"SIZE":10,"COLOR":31,"BODY":{"DAMAGE":0.5,"DENSITY":4,"HEALTH":20,"PENETRATION":2},"TURRETS":[],"GUNS":[],"index":13} 
+01:30:53.120 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:53.120 ERROR greenPentagon 
+01:30:53.121 ERROR {"PARENT":[null],"LABEL":"Green Pentagon","VALUE":28000,"SHAPE":5,"SIZE":16,"COLOR":31,"BODY":{"DAMAGE":3,"DENSITY":8,"HEALTH":200,"RESIST":1.25,"PENETRATION":1.1},"TURRETS":[],"GUNS":[],"index":11} 
+01:30:53.122 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:53.122 ERROR greenTriangle 
+01:30:53.122 ERROR {"PARENT":[null],"LABEL":"Green Triangle","VALUE":7000,"SHAPE":3,"SIZE":9,"COLOR":31,"BODY":{"DAMAGE":1,"DENSITY":6,"HEALTH":60,"RESIST":1.15,"PENETRATION":1.5},"TURRETS":[],"GUNS":[],"index":12} 
+01:30:53.123 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:30:53.123 ERROR greenSquare 
+01:30:53.123 ERROR {"PARENT":[null],"LABEL":"Green Square","VALUE":2000,"SHAPE":4,"SIZE":10,"COLOR":31,"BODY":{"DAMAGE":0.5,"DENSITY":4,"HEALTH":20,"PENETRATION":2},"TURRETS":[],"GUNS":[],"index":13} 
+01:31:50.565 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:31:50.565 ERROR greenPentagon 
+01:31:50.567 ERROR {"PARENT":[null],"LABEL":"Green Pentagon","VALUE":28000,"SHAPE":5,"SIZE":16,"COLOR":31,"TURRETS":[],"GUNS":[],"index":11} 
+01:31:50.568 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:31:50.568 ERROR greenTriangle 
+01:31:50.568 ERROR {"PARENT":[null],"LABEL":"Green Triangle","VALUE":7000,"SHAPE":3,"SIZE":9,"COLOR":31,"TURRETS":[],"GUNS":[],"index":12} 
+01:31:50.569 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1774:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2525:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2549:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+01:31:50.569 ERROR greenSquare 
+01:31:50.569 ERROR {"PARENT":[null],"LABEL":"Green Square","VALUE":2000,"SHAPE":4,"SIZE":10,"COLOR":31,"TURRETS":[],"GUNS":[],"index":13} 
+01:49:26.871 WARN  ~~ LOOPS: 10. ENTITY #: 1496//244. VIEW #: 2. BACKLOGGED :: 217.200%! ~~ 
+01:49:27.904 WARN  ~~ LOOPS: 6. ENTITY #: 604//483. VIEW #: 2. BACKLOGGED :: 424.000%! ~~ 
+01:49:39.193 WARN  ~~ LOOPS: 5. ENTITY #: 1202//571. VIEW #: 2. BACKLOGGED :: 573.000%! ~~ 
+01:49:40.201 WARN  ~~ LOOPS: 9. ENTITY #: 310//171. VIEW #: 2. BACKLOGGED :: 231.333%! ~~ 
+01:49:44.347 WARN  ~~ LOOPS: 4. ENTITY #: 1199//331. VIEW #: 2. BACKLOGGED :: 656.250%! ~~ 
+01:49:52.666 WARN  ~~ LOOPS: 5. ENTITY #: 1208//933. VIEW #: 2. BACKLOGGED :: 497.400%! ~~ 
+01:49:53.938 WARN  ~~ LOOPS: 6. ENTITY #: 1208//938. VIEW #: 2. BACKLOGGED :: 477.000%! ~~ 
+01:49:54.994 WARN  ~~ LOOPS: 5. ENTITY #: 1207//936. VIEW #: 2. BACKLOGGED :: 462.600%! ~~ 
+01:49:56.140 WARN  ~~ LOOPS: 5. ENTITY #: 1074//907. VIEW #: 2. BACKLOGGED :: 528.000%! ~~ 
+01:49:57.246 WARN  ~~ LOOPS: 6. ENTITY #: 1072//803. VIEW #: 2. BACKLOGGED :: 387.500%! ~~ 
+01:49:58.297 WARN  ~~ LOOPS: 6. ENTITY #: 909//691. VIEW #: 2. BACKLOGGED :: 393.500%! ~~ 
+01:49:59.473 WARN  ~~ LOOPS: 7. ENTITY #: 909//636. VIEW #: 2. BACKLOGGED :: 387.429%! ~~ 
+01:50:00.621 WARN  ~~ LOOPS: 7. ENTITY #: 907//637. VIEW #: 2. BACKLOGGED :: 369.857%! ~~ 
+01:50:01.630 WARN  ~~ LOOPS: 12. ENTITY #: 315//166. VIEW #: 2. BACKLOGGED :: 146.750%! ~~ 
+01:52:58.298 WARN  ~~ LOOPS: 9. ENTITY #: 92035//128. VIEW #: 2. BACKLOGGED :: 4253.000%! ~~ 
+01:57:16.631 WARN  ~~ LOOPS: 9. ENTITY #: 1127//882. VIEW #: 2. BACKLOGGED :: 233.000%! ~~ 
+01:57:17.714 WARN  ~~ LOOPS: 9. ENTITY #: 1125//921. VIEW #: 2. BACKLOGGED :: 245.333%! ~~ 
+01:57:18.813 WARN  ~~ LOOPS: 10. ENTITY #: 840//793. VIEW #: 2. BACKLOGGED :: 226.500%! ~~ 
+01:58:00.327 WARN  ~~ LOOPS: 7. ENTITY #: 1407//955. VIEW #: 2. BACKLOGGED :: 366.429%! ~~ 
+01:58:01.432 WARN  ~~ LOOPS: 5. ENTITY #: 1671//1273. VIEW #: 2. BACKLOGGED :: 511.800%! ~~ 
+01:58:02.547 WARN  ~~ LOOPS: 4. ENTITY #: 1884//1507. VIEW #: 2. BACKLOGGED :: 660.000%! ~~ 
+01:58:03.796 WARN  ~~ LOOPS: 4. ENTITY #: 1987//1699. VIEW #: 2. BACKLOGGED :: 743.250%! ~~ 
+01:58:04.883 WARN  ~~ LOOPS: 4. ENTITY #: 1988//1736. VIEW #: 2. BACKLOGGED :: 630.000%! ~~ 
+01:58:06.163 WARN  ~~ LOOPS: 5. ENTITY #: 1986//1738. VIEW #: 2. BACKLOGGED :: 558.600%! ~~ 
+01:58:07.487 WARN  ~~ LOOPS: 6. ENTITY #: 1984//1738. VIEW #: 2. BACKLOGGED :: 408.000%! ~~ 
+01:58:08.611 WARN  ~~ LOOPS: 8. ENTITY #: 1973//1727. VIEW #: 2. BACKLOGGED :: 259.875%! ~~ 
+01:58:09.794 WARN  ~~ LOOPS: 10. ENTITY #: 1927//1694. VIEW #: 2. BACKLOGGED :: 220.200%! ~~ 
+01:58:10.968 WARN  ~~ LOOPS: 11. ENTITY #: 1719//1590. VIEW #: 2. BACKLOGGED :: 190.091%! ~~ 
+01:58:12.262 WARN  ~~ LOOPS: 11. ENTITY #: 301//1029. VIEW #: 2. BACKLOGGED :: 240.273%! ~~ 
+01:59:23.631 ERROR Ghost entity found! 
+01:59:23.631 ERROR Type: Basic 
+01:59:23.631 ERROR Position: (255.89448700956794, 238.89448700956794) 
+01:59:23.633 ERROR [] 
+01:59:23.633 ERROR Health: 0.44833333333333325 
+01:59:23.633 WARN  Ghost entity removed successfully. 
+01:59:26.747 ERROR Ghost entity found! 
+01:59:26.747 ERROR Type: Basic 
+01:59:26.747 ERROR Position: (257.16666666666663, 248.16666666666666) 
+01:59:26.747 ERROR [] 
+01:59:26.747 ERROR Health: -1 
+01:59:26.747 WARN  Ghost entity removed successfully. 
+01:59:27.446 ERROR [ERROR] A ghost has been found! 
+01:59:27.446 ERROR Type: Basic 
+01:59:27.446 ERROR Position: (304.16666666666663, 307.16666666666663) 
+01:59:27.446 ERROR Collision Array:  
+01:59:27.446 ERROR Health: -1 
+01:59:27.446 WARN  Ghost removed successfully. 
+01:59:27.446 WARN  Ghost removed successfully. 
+01:59:39.013 ERROR [ERROR] A ghost has been found! 
+01:59:39.013 ERROR Type: Basic 
+01:59:39.013 ERROR Position: (9.166666666666657, 61.16666666666666) 
+01:59:39.013 ERROR Collision Array:  
+01:59:39.013 ERROR Health: -1 
+01:59:39.013 WARN  Ghost removed successfully. 
+01:59:39.013 WARN  Ghost removed successfully. 
+02:02:07.310 WARN  ~~ LOOPS: 4. ENTITY #: 4367//931. VIEW #: 2. BACKLOGGED :: 2676.000%! ~~ 
+14:47:03.942 WARN  ~~ LOOPS: 14. ENTITY #: 729//416. VIEW #: 1. BACKLOGGED :: 121.286%! ~~ 
+14:47:04.955 WARN  ~~ LOOPS: 15. ENTITY #: 731//421. VIEW #: 1. BACKLOGGED :: 100.400%! ~~ 
+14:47:05.994 WARN  ~~ LOOPS: 14. ENTITY #: 733//423. VIEW #: 1. BACKLOGGED :: 119.357%! ~~ 
+14:47:07.012 WARN  ~~ LOOPS: 10. ENTITY #: 736//425. VIEW #: 1. BACKLOGGED :: 200.400%! ~~ 
+20:32:16.727 WARN  ~~ LOOPS: 19. ENTITY #: 323//90. VIEW #: 2. BACKLOGGED :: 113.053%! ~~ 
+20:32:30.940 WARN  ~~ LOOPS: 1. ENTITY #: 323//53. VIEW #: 2. BACKLOGGED :: 42540.000%! ~~ 

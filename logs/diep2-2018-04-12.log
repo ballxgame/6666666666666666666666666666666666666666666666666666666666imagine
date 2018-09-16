@@ -1,0 +1,38 @@
+12:02:00.121 ERROR Ghost entity found! 
+12:02:00.123 ERROR Type: Basic 
+12:02:00.123 ERROR Position: (3971.4285714285716, 3957.4285714285716) 
+12:02:00.126 ERROR [] 
+12:02:00.126 ERROR Health: 1.1066666666666665 
+12:02:00.126 WARN  Ghost entity removed successfully. 
+12:02:31.902 ERROR [ERROR] A ghost has been found! 
+12:02:31.902 ERROR Type: Basic 
+12:02:31.902 ERROR Position: (3859.4285714285716, 3644.4285714285716) 
+12:02:31.903 ERROR [] 
+12:02:31.903 ERROR Health: -1 
+12:02:31.903 WARN  Ghost removed successfully. 
+12:02:31.903 WARN  Ghost removed successfully. 
+12:02:33.364 ERROR Ghost entity found! 
+12:02:33.364 ERROR Type: Basic 
+12:02:33.364 ERROR Position: (4179.428571428572, 3723.4285714285716) 
+12:02:33.365 ERROR [] 
+12:02:33.365 ERROR Health: -1 
+12:02:33.365 WARN  Ghost entity removed successfully. 
+15:13:18.014 ERROR Ghost entity found! 
+15:13:18.014 ERROR Type: Basic 
+15:13:18.015 ERROR Position: (306.57142857142856, 347.57142857142856) 
+15:13:18.017 ERROR [] 
+15:13:18.017 ERROR Health: -1 
+15:13:18.017 WARN  Ghost entity removed successfully. 
+15:13:19.244 ERROR Ghost entity found! 
+15:13:19.244 ERROR Type: Basic 
+15:13:19.245 ERROR Position: (332.57142857142856, 484.57142857142856) 
+15:13:19.245 ERROR [] 
+15:13:19.245 ERROR Health: 1.1066666666666665 
+15:13:19.245 WARN  Ghost entity removed successfully. 
+15:14:00.177 ERROR [ERROR] A ghost has been found! 
+15:14:00.177 ERROR Type: Basic 
+15:14:00.177 ERROR Position: (282.57142857142856, 548.5714285714286) 
+15:14:00.177 ERROR [] 
+15:14:00.177 ERROR Health: -1 
+15:14:00.177 WARN  Ghost removed successfully. 
+15:14:00.177 WARN  Ghost removed successfully. 

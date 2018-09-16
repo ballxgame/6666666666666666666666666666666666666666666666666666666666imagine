@@ -1,0 +1,51 @@
+14:38:30.048 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1817:4)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2574:14)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2598:4)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+14:38:30.048 ERROR spiker 
+14:38:30.050 ERROR {"PARENT":[{"LABEL":"Bullet","TYPE":"bullet","ACCEPTS_SCORE":false,"BODY":{"PENETRATION":1,"SPEED":3.75,"RANGE":90,"DENSITY":1.25,"HEALTH":0.165,"DAMAGE":6,"PUSHABILITY":0.3},"FACING_TYPE":"smoothWithMotion","CAN_GO_OUTSIDE_ROOM":true,"HITS_OWN_TYPE":"never","DIE_AT_RANGE":true,"GUNS":[],"TURRETS":[],"index":16,"mockup":{"body":{"type":1,"id":16,"index":16,"x":0,"y":0,"vx":0,"vy":0,"size":1,"rsize":1,"status":1,"health":1,"shield":null,"facing":0,"vfacing":0,"twiggle":false,"layer":0,"color":16,"name":"Bullet","score":0,"guns":[],"turrets":[],"alpha":1,"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Skiky","INDEPENDENT":true,"BODY":{"RANGE":120},"TURRETS":[{"POSITION":[20.5,0,0,0,360,0]},{"POSITION":[20.5,0,0,120,360,0]},{"POSITION":[20.5,0,0,240,360,0]}],"index":34} 
+14:38:32.174 WARN  Bot connected and ready to use! 
+14:41:12.475 WARN  Bot connected and ready to use! 
+14:43:23.387 WARN  Bot connected and ready to use! 
+14:47:10.702 WARN  Bot connected and ready to use! 
+15:00:47.782 ERROR [ERROR] Detected an NaN position! 
+15:13:17.001 WARN  Bot connected and ready to use! 
+15:20:43.210 WARN  Bot connected and ready to use! 
+15:22:47.172 WARN  Bot connected and ready to use! 
+15:22:53.567 WARN  Malformed command packet! Kicking. 
+15:22:53.670 WARN  Malformed command packet! Kicking. 
+15:24:18.122 WARN  Bot connected and ready to use! 
+15:27:31.866 WARN  Bot connected and ready to use! 
+15:29:26.977 WARN  Bot connected and ready to use! 
+15:30:41.565 ERROR [ERROR] Detected an NaN position! 
+15:31:39.449 WARN  Malformed command packet! Kicking. 
+15:31:39.535 WARN  Malformed command packet! Kicking. 
+15:32:15.067 WARN  ~~ LOOPS: 11. ENTITY #: 471//144. VIEW #: 4. BACKLOGGED :: 118.091%! ~~ 
+15:33:39.147 WARN  Bot connected and ready to use! 
+15:34:28.328 WARN  Malformed command packet! Kicking. 
+15:34:28.438 WARN  Malformed command packet! Kicking. 
+15:34:29.034 WARN  Malformed command packet! Kicking. 
+15:35:48.045 WARN  Bot connected and ready to use! 
+15:37:43.312 ERROR [ERROR] Detected an NaN position! 
+15:37:43.357 ERROR [ERROR] Detected an NaN position! 
+15:42:12.740 WARN  Player got kicked! Kicking. 
+15:45:33.525 WARN  Player got kicked! Kicking. 
+16:12:33.654 WARN  ~~ LOOPS: 14. ENTITY #: 589//252. VIEW #: 4. BACKLOGGED :: 108.857%! ~~ 
+16:14:58.750 WARN  ~~ LOOPS: 14. ENTITY #: 481//174. VIEW #: 4. BACKLOGGED :: 106.929%! ~~ 
+16:22:14.874 ERROR [ERROR] Detected an NaN position! 
+16:23:57.053 ERROR [ERROR] Detected an NaN position! 
+16:23:57.525 ERROR [ERROR] Detected an NaN position! 
+16:23:57.940 ERROR [ERROR] Detected an NaN position! 
+16:32:17.751 ERROR [ERROR] Detected an NaN position! 
+16:32:18.506 ERROR [ERROR] Detected an NaN position! 
+16:35:13.606 WARN  ~~ LOOPS: 3. ENTITY #: 471//92. VIEW #: 2. BACKLOGGED :: 23231.000%! ~~ 
+16:35:28.070 WARN  Bot connected and ready to use! 
+17:01:52.439 WARN  ~~ LOOPS: 20. ENTITY #: 425//95. VIEW #: 3. BACKLOGGED :: 1085.400%! ~~ 

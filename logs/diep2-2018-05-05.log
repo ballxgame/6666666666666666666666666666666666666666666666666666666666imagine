@@ -1,0 +1,231 @@
+00:10:05.157 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+21:50:07.237 WARN  Ill-sized beta-command request! Kicking player and giving 1 warning. 
+21:55:13.508 WARN  Ill-sized beta-command request! Kicking player and giving 1 warning. 
+22:22:24.829 ERROR [ERROR] A ghost has been found! 
+22:22:24.830 ERROR Type: Ball 
+22:22:24.830 ERROR Position: (2128.7723580346706, 4014.3162177091745) 
+22:22:24.830 ERROR Collision Array:  
+22:22:24.830 ERROR Health: 3667.371666666667 
+22:22:24.830 WARN  Ghost removed successfully. 
+22:22:24.830 WARN  Ghost removed successfully. 
+22:22:28.259 WARN  Malformed command packet! Kicking player and giving 1 warning. 
+22:31:46.953 ERROR [ERROR] A ghost has been found! 
+22:31:46.953 ERROR Type: Commander 
+22:31:46.953 ERROR Position: (172.76811137162647, 5230.015049989455) 
+22:31:46.953 ERROR Collision Array:  
+22:31:46.953 ERROR Health: 0.7783333333333335 
+22:31:46.953 WARN  Ghost removed successfully. 
+22:31:46.953 WARN  Ghost removed successfully. 
+22:31:46.953 ERROR [ERROR] A ghost has been found! 
+22:31:46.953 ERROR Type: Commander 
+22:31:46.953 ERROR Position: (172.76811137162647, 5230.015049989455) 
+22:31:46.953 ERROR Collision Array:  
+22:31:46.953 ERROR Health: 0.7783333333333335 
+22:31:46.953 WARN  Ghost removed successfully. 
+22:31:46.954 ERROR Ghost entity found! 
+22:31:46.954 ERROR Type: Commander 
+22:31:46.954 ERROR Position: (172.76811137162647, 5230.015049989455) 
+22:31:46.955 ERROR [] 
+22:31:46.955 ERROR Health: 0.7783333333333335 
+22:31:46.955 ERROR Ghost entity found! 
+22:31:46.955 ERROR Type: Commander 
+22:31:46.955 ERROR Position: (172.76811137162647, 5230.015049989455) 
+22:31:46.955 ERROR [] 
+22:31:46.955 ERROR Health: 0.7783333333333335 
+22:44:45.752 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:44:45.753 ERROR commander 
+22:44:45.754 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+22:46:19.981 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+22:46:19.981 ERROR commander 
+22:46:19.982 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:04:06.277 ERROR [ERROR] A ghost has been found! 
+23:04:06.277 ERROR Type: OP Annihilator 
+23:04:06.277 ERROR Position: (4159.300757698726, 3910.957308613144) 
+23:04:06.277 ERROR Collision Array:  
+23:04:06.278 ERROR Health: 0.7783333333333335 
+23:04:06.278 WARN  Ghost removed successfully. 
+23:04:06.278 WARN  Ghost removed successfully. 
+23:04:06.278 ERROR [ERROR] A ghost has been found! 
+23:04:06.278 ERROR Type: OP Annihilator 
+23:04:06.278 ERROR Position: (4159.300757698726, 3910.957308613144) 
+23:04:06.278 ERROR Collision Array:  
+23:04:06.278 ERROR Health: 0.7783333333333335 
+23:04:06.278 WARN  Ghost removed successfully. 
+23:04:06.278 ERROR [ERROR] A ghost has been found! 
+23:04:06.278 ERROR Type: OP Annihilator 
+23:04:06.278 ERROR Position: (4159.300757698726, 3910.957308613144) 
+23:04:06.278 ERROR Collision Array:  
+23:04:06.278 ERROR Health: 0.7783333333333335 
+23:04:06.279 WARN  Ghost removed successfully. 
+23:08:00.774 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:08:00.774 ERROR commander 
+23:08:00.775 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:08:17.732 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:08:17.733 ERROR commander 
+23:08:17.734 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:14:14.289 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:14:14.289 ERROR commander 
+23:14:14.290 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:14:36.399 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:14:36.399 ERROR commander 
+23:14:36.400 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:15:03.496 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:15:03.496 ERROR commander 
+23:15:03.498 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:15:23.737 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:15:23.738 ERROR commander 
+23:15:23.739 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:16:05.018 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:16:05.018 ERROR commander 
+23:16:05.020 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:18:23.986 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:18:23.986 ERROR commander 
+23:18:23.987 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:18:48.618 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:18:48.618 ERROR commander 
+23:18:48.619 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:19:49.087 ERROR sockets is not defined
+ReferenceError: sockets is not defined
+    at Entity.define (/home/ubuntu/workspace/arras.io/src/server/server.js:1780:13)
+    at exportDefintionsToClient (/home/ubuntu/workspace/arras.io/src/server/server.js:2531:26)
+    at Object.<anonymous> (/home/ubuntu/workspace/arras.io/src/server/server.js:2555:7)
+    at Module._compile (module.js:624:30)
+    at Object.Module._extensions..js (module.js:635:10)
+    at Module.load (module.js:545:32)
+    at tryModuleLoad (module.js:508:12)
+    at Function.Module._load (module.js:500:3)
+    at Function.Module.runMain (module.js:665:10)
+    at startup (bootstrap_node.js:187:16) 
+23:19:49.087 ERROR commander 
+23:19:49.088 ERROR {"PARENT":[{"LABEL":"Unknown Class","TYPE":"tank","DAMAGE_CLASS":2,"DANGER":5,"MOTION_TYPE":"motor","FACING_TYPE":"toTarget","SIZE":12,"MAX_CHILDREN":0,"DAMAGE_EFFECTS":false,"BODY":{"ACCELERATION":1.6,"SPEED":5.25,"HEALTH":20,"DAMAGE":3,"PENETRATION":1.05,"SHIELD":8,"REGEN":0.025,"FOV":1,"DENSITY":0.5,"PUSHABILITY":0.9,"HETERO":3},"GUNS":[],"TURRETS":[],"GIVE_KILL_MESSAGE":true,"DRAW_HEALTH":true,"HAS_NO_SKILL_POINTS":false,"index":30,"mockup":{"body":{"type":7,"id":30,"index":30,"x":0,"y":0,"vx":0,"vy":0,"size":12,"rsize":12,"status":1,"health":1,"shield":1,"facing":0,"vfacing":0,"twiggle":false,"layer":5,"color":16,"name":"Unknown Class","score":0,"guns":[],"turrets":[],"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}},"position":{"middle":{"x":0,"y":0},"axis":2,"points":[{"x":1,"y":0},{"x":-1,"y":0},{"x":0,"y":1}]}}}],"LABEL":"Commander","MAX_CHILDREN":2,"BODY":{"ACCELERATION":1.2000000000000002,"SPEED":3.9375,"FOV":1.1},"DANGER":7,"GUNS":[{"POSITION":[5,8.5,1,0,0,0,0],"PROPERTIES":{"SHOOT_SETTINGS":{"reload":31.5,"recoil":2.0999999999999996,"shudder":0.010000000000000002,"size":1.25,"health":1,"damage":0.5625,"pen":0.85,"speed":4.5,"maxSpeed":1,"range":1,"density":1,"spray":15,"resist":1},"TYPE":[null,{"HITS_OWN_TYPE":"hardWithBuffer","FACING_TYPE":"smoothToTarget","BODY":{"FOV":0.4,"SPEED":1,"ACCELERATION":0.4,"HEALTH":3,"SHIELD":0,"DAMAGE":1,"RESIST":1,"PENETRATION":1,"DENSITY":0.4},"AI":{"blind":true},"CONTROLLERS":["nearestDifferentMaster","mapAltToFire","minion","canRepel","hangOutNearMaster"],"DRAW_HEALTH":false,"CLEAR_ON_MASTER_UPGRADE":true,"GIVE_KILL_MESSAGE":false,"CAN_BE_ON_LEADERBOARD":false}],"MAX_CHILDREN":12}},{"POSITION":[18.1,14,1,0,0,0,0]},{"POSITION":[13,8,1,0,-1,135,0.6]},{"POSITION":[13,8,1,0,1,225,0.6]},{"POSITION":[16,8,1,0,0,145,0.1]},{"POSITION":[16,8,1,0,0,215,0.1]}],"index":182} 
+23:38:41.885 WARN  ~~ LOOPS: 14. ENTITY #: 255//236. VIEW #: 2. BACKLOGGED :: 105.000%! ~~ 
+23:38:42.887 WARN  ~~ LOOPS: 14. ENTITY #: 258//240. VIEW #: 2. BACKLOGGED :: 109.929%! ~~ 
+23:38:43.897 WARN  ~~ LOOPS: 14. ENTITY #: 258//242. VIEW #: 2. BACKLOGGED :: 120.000%! ~~ 
+23:38:44.900 WARN  ~~ LOOPS: 13. ENTITY #: 262//242. VIEW #: 2. BACKLOGGED :: 128.308%! ~~ 
+23:38:45.940 WARN  ~~ LOOPS: 13. ENTITY #: 263//246. VIEW #: 2. BACKLOGGED :: 138.692%! ~~ 
+23:38:46.988 WARN  ~~ LOOPS: 13. ENTITY #: 264//247. VIEW #: 2. BACKLOGGED :: 140.077%! ~~ 
+23:38:48.000 WARN  ~~ LOOPS: 12. ENTITY #: 270//251. VIEW #: 2. BACKLOGGED :: 150.500%! ~~ 
+23:38:49.022 WARN  ~~ LOOPS: 12. ENTITY #: 269//252. VIEW #: 2. BACKLOGGED :: 153.750%! ~~ 
+23:38:50.025 WARN  ~~ LOOPS: 11. ENTITY #: 276//256. VIEW #: 2. BACKLOGGED :: 168.818%! ~~ 
+
